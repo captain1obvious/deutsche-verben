@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Verbtrainer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    
+  <h1>Deutsche Verben trainieren</h1>
+  <h2>Mach dich fit in Deutsch!</h2>
+    <!-- Zeitform-Auswahl -->
+    <div id="settings-container">
+    <label for="verbCategory">Verb-Kategorie:</label>
+    <select id="verbCategory">
+        <option value="alle">Alle Kategorien</option>
+        <option value="regelmaessige_verben">Regelmäßige Verben</option>
+        <option value="unregelmaessige_verben">Unregelmäßige Verben</option>
+        <option value="modalverben">Modalverben</option>
+        <option value="hilfsverben">Hilfsverben</option>
+        <option value="zwei_partizipien_2">Zwei Partizipien</option>
+    </select>
+    <label for="tense-select">Zeitform wählen:</label>
+    <select id="tense-select">
+        <option value="random">Zufällig</option>
+        <option value="praesens">Präsens</option>
+        <option value="praeteritum">Präteritum</option>
+        <option value="perfekt">Perfekt</option>
+        <option value="plusquamperfekt">Plusquamperfekt</option>
+        <option value="futur1">Futur I</option>
+        <option value="futur2">Futur II</option>
+        <option value="imperativ">Imperativ</option>
+        <option value="partizip1">Partizip I</option>
+        <option value="partizip2">Partizip II</option>
+    </select>
+    </div>
+
+    <!-- Aufgabe -->
+    <div id="verb-container" style="display:none;">
+    <p><strong>Grundform:</strong> <span id="infinitive"></span></p>
+    <p><strong>Zeitform:</strong> <span id="tense"></span></p>
+    <p><strong>Person:</strong> <span id="person-desc"></span></p>
+
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <span id="pronoun-label" style="min-width: 40px; font-weight: bold;"></span>
+        <input type="text" id="user-input" placeholder="Form eingeben">
+    </div>
+
+    <div style="margin-top: 10px;">
+      <button onclick="checkAnswer()">Überprüfen</button>
+      <button onclick="updateExercise()">Neues Verb</button>
+    </div>  
+    <p id="feedback"></p>
+    </div>
+
+  <script src="script.js"></script>
+
+</body>
+</html>

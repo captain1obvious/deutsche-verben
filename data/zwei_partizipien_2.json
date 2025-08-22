@@ -1,0 +1,452 @@
+[
+  {
+    "infinitiv": "backen",
+    "praesens": {
+      "ich": "backe",
+      "du": "bäckst",
+      "er": "bäckt",
+      "sie": "bäckt",
+      "es": "bäckt",
+      "wir": "backen",
+      "ihr": "backt",
+      "sie_pl": "backen",
+      "Sie": "backen"
+    },
+    "praeteritum": {
+      "ich": "backte",
+      "du": "backtest",
+      "er": "backte",
+      "sie": "backte",
+      "es": "backte",
+      "wir": "backten",
+      "ihr": "backtet",
+      "sie_pl": "backten",
+      "Sie": "backten"
+    },
+    "perfekt": {
+      "ich": ["habe gebacken", "habe gebackt"],
+      "du": ["hast gebacken", "hast gebackt"],
+      "er": ["hat gebacken", "hat gebackt"],
+      "sie": ["hat gebacken", "hat gebackt"],
+      "es": ["hat gebacken", "hat gebackt"],
+      "wir": ["haben gebacken", "haben gebackt"],
+      "ihr": ["habt gebacken", "habt gebackt"],
+      "sie_pl": ["haben gebacken", "haben gebackt"],
+      "Sie": ["haben gebacken", "haben gebackt"]
+    },
+    "plusquamperfekt": {
+      "ich": ["hatte gebacken", "hatte gebackt"],
+      "du": ["hattest gebacken", "hattest gebackt"],
+      "er": ["hatte gebacken", "hatte gebackt"],
+      "sie": ["hatte gebacken", "hatte gebackt"],
+      "es": ["hatte gebacken", "hatte gebackt"],
+      "wir": ["hatten gebacken", "hatten gebackt"],
+      "ihr": ["hattet gebacken", "hattet gebackt"],
+      "sie_pl": ["hatten gebacken", "hatten gebackt"],
+      "Sie": ["hatten gebacken", "hatten gebackt"]
+    },
+    "futur1": {
+      "ich": "werde backen",
+      "du": "wirst backen",
+      "er": "wird backen",
+      "sie": "wird backen",
+      "es": "wird backen",
+      "wir": "werden backen",
+      "ihr": "werdet backen",
+      "sie_pl": "werden backen",
+      "Sie": "werden backen"
+    },
+    "futur2": {
+      "ich": ["werde gebacken haben", "werde gebackt haben"],
+      "du": ["wirst gebacken haben", "wirst gebackt haben"],
+      "er": ["wird gebacken haben", "wird gebackt haben"],
+      "sie": ["wird gebacken haben", "wird gebackt haben"],
+      "es": ["wird gebacken haben", "wird gebackt haben"],
+      "wir": ["werden gebacken haben", "werden gebackt haben"],
+      "ihr": ["werdet gebacken haben", "werdet gebackt haben"],
+      "sie_pl": ["werden gebacken haben", "werden gebackt haben"],
+      "Sie": ["werden gebacken haben", "werden gebackt haben"]
+    },
+    "imperativ": {
+      "du": "back",
+      "ihr": "backt"
+    },
+    "partizip1": "backend",
+    "partizip2": ["gebacken", "gebackt"]
+  },
+  {
+    "infinitiv": "hängen",
+    "praesens": {
+      "ich": "hänge",
+      "du": "hängst",
+      "er": "hängt",
+      "sie": "hängt",
+      "es": "hängt",
+      "wir": "hängen",
+      "ihr": "hängt",
+      "sie_pl": "hängen",
+      "Sie": "hängen"
+    },
+    "praeteritum": {
+      "ich": "hing",
+      "du": "hingst",
+      "er": "hing",
+      "sie": "hing",
+      "es": "hing",
+      "wir": "hingen",
+      "ihr": "hingt",
+      "sie_pl": "hingen",
+      "Sie": "hingen"
+    },
+    "perfekt": {
+      "ich": ["habe gehangen", "habe gehängt"],
+      "du": ["hast gehangen", "hast gehängt"],
+      "er": ["hat gehangen", "hat gehängt"],
+      "sie": ["hat gehangen", "hat gehängt"],
+      "es": ["hat gehangen", "hat gehängt"],
+      "wir": ["haben gehangen", "haben gehängt"],
+      "ihr": ["habt gehangen", "habt gehängt"],
+      "sie_pl": ["haben gehangen", "haben gehängt"],
+      "Sie": ["haben gehangen", "haben gehängt"]
+    },
+    "plusquamperfekt": {
+      "ich": ["hatte gehangen", "hatte gehängt"],
+      "du": ["hattest gehangen", "hattest gehängt"],
+      "er": ["hatte gehangen", "hatte gehängt"],
+      "sie": ["hatte gehangen", "hatte gehängt"],
+      "es": ["hatte gehangen", "hatte gehängt"],
+      "wir": ["hatten gehangen", "hatten gehängt"],
+      "ihr": ["hattet gehangen", "hattet gehängt"],
+      "sie_pl": ["hatten gehangen", "hatten gehängt"],
+      "Sie": ["hatten gehangen", "hatten gehängt"]
+    },
+    "futur1": {
+      "ich": "werde hängen",
+      "du": "wirst hängen",
+      "er": "wird hängen",
+      "sie": "wird hängen",
+      "es": "wird hängen",
+      "wir": "werden hängen",
+      "ihr": "werdet hängen",
+      "sie_pl": "werden hängen",
+      "Sie": "werden hängen"
+    },
+    "futur2": {
+      "ich": ["werde gehangen haben", "werde gehängt haben"],
+      "du": ["wirst gehangen haben", "wirst gehängt haben"],
+      "er": ["wird gehangen haben", "wird gehängt haben"],
+      "sie": ["wird gehangen haben", "wird gehängt haben"],
+      "es": ["wird gehangen haben", "wird gehängt haben"],
+      "wir": ["werden gehangen haben", "werden gehängt haben"],
+      "ihr": ["werdet gehangen haben", "werdet gehängt haben"],
+      "sie_pl": ["werden gehangen haben", "werden gehängt haben"],
+      "Sie": ["werden gehangen haben", "werden gehängt haben"]
+    },
+    "imperativ": {
+      "du": "häng",
+      "ihr": "hängt"
+    },
+    "partizip1": "hängend",
+    "partizip2": ["gehangen", "gehängt"]
+  },
+  {
+    "infinitiv": "saugen",
+    "praesens": {
+      "ich": "sauge",
+      "du": "saugst",
+      "er": "saugt",
+      "sie": "saugt",
+      "es": "saugt",
+      "wir": "saugen",
+      "ihr": "saugt",
+      "sie_pl": "saugen",
+      "Sie": "saugen"
+    },
+    "praeteritum": {
+      "ich": "saugte",
+      "du": "saugtest",
+      "er": "saugte",
+      "sie": "saugte",
+      "es": "saugte",
+      "wir": "saugten",
+      "ihr": "saugtet",
+      "sie_pl": "saugten",
+      "Sie": "saugten"
+    },
+    "perfekt": {
+      "ich": ["habe gesaugt", "habe gesogen"],
+      "du": ["hast gesaugt", "hast gesogen"],
+      "er": ["hat gesaugt", "hat gesogen"],
+      "sie": ["hat gesaugt", "hat gesogen"],
+      "es": ["hat gesaugt", "hat gesogen"],
+      "wir": ["haben gesaugt", "haben gesogen"],
+      "ihr": ["habt gesaugt", "habt gesogen"],
+      "sie_pl": ["haben gesaugt", "haben gesogen"],
+      "Sie": ["haben gesaugt", "haben gesogen"]
+    },
+    "plusquamperfekt": {
+      "ich": ["hatte gesaugt", "hatte gesogen"],
+      "du": ["hattest gesaugt", "hattest gesogen"],
+      "er": ["hatte gesaugt", "hatte gesogen"],
+      "sie": ["hatte gesaugt", "hatte gesogen"],
+      "es": ["hatte gesaugt", "hatte gesogen"],
+      "wir": ["hatten gesaugt", "hatten gesogen"],
+      "ihr": ["hattet gesaugt", "hattet gesogen"],
+      "sie_pl": ["hatten gesaugt", "hatten gesogen"],
+      "Sie": ["hatten gesaugt", "hatten gesogen"]
+    },
+    "futur1": {
+      "ich": "werde saugen",
+      "du": "wirst saugen",
+      "er": "wird saugen",
+      "sie": "wird saugen",
+      "es": "wird saugen",
+      "wir": "werden saugen",
+      "ihr": "werdet saugen",
+      "sie_pl": "werden saugen",
+      "Sie": "werden saugen"
+    },
+    "futur2": {
+      "ich": ["werde gesaugt haben", "werde gesogen haben"],
+      "du": ["wirst gesaugt haben", "wirst gesogen haben"],
+      "er": ["wird gesaugt haben", "wird gesogen haben"],
+      "sie": ["wird gesaugt haben", "wird gesogen haben"],
+      "es": ["wird gesaugt haben", "wird gesogen haben"],
+      "wir": ["werden gesaugt haben", "werden gesogen haben"],
+      "ihr": ["werdet gesaugt haben", "werdet gesogen haben"],
+      "sie_pl": ["werden gesaugt haben", "werden gesogen haben"],
+      "Sie": ["werden gesaugt haben", "werden gesogen haben"]
+    },
+    "imperativ": {
+      "du": "saug",
+      "ihr": "saugt"
+    },
+    "partizip1": "saugend",
+    "partizip2": ["gesaugt", "gesogen"]
+  },
+  {
+    "infinitiv": "senden",
+    "praesens": {
+      "ich": "sende",
+      "du": "sendest",
+      "er": "sendet",
+      "sie": "sendet",
+      "es": "sendet",
+      "wir": "senden",
+      "ihr": "sendet",
+      "sie_pl": "senden",
+      "Sie": "senden"
+    },
+    "praeteritum": {
+      "ich": "sandte",
+      "du": "sandtest",
+      "er": "sandte",
+      "sie": "sandte",
+      "es": "sandte",
+      "wir": "sandten",
+      "ihr": "sandtet",
+      "sie_pl": "sandten",
+      "Sie": "sandten"
+    },
+    "perfekt": {
+      "ich": ["habe gesandt", "habe gesendet"],
+      "du": ["hast gesandt", "hast gesendet"],
+      "er": ["hat gesandt", "hat gesendet"],
+      "sie": ["hat gesandt", "hat gesendet"],
+      "es": ["hat gesandt", "hat gesendet"],
+      "wir": ["haben gesandt", "haben gesendet"],
+      "ihr": ["habt gesandt", "habt gesendet"],
+      "sie_pl": ["haben gesandt", "haben gesendet"],
+      "Sie": ["haben gesandt", "haben gesendet"]
+    },
+    "plusquamperfekt": {
+      "ich": ["hatte gesandt", "hatte gesendet"],
+      "du": ["hattest gesandt", "hattest gesendet"],
+      "er": ["hatte gesandt", "hatte gesendet"],
+      "sie": ["hatte gesandt", "hatte gesendet"],
+      "es": ["hatte gesandt", "hatte gesendet"],
+      "wir": ["hatten gesandt", "hatten gesendet"],
+      "ihr": ["hattet gesandt", "hattet gesendet"],
+      "sie_pl": ["hatten gesandt", "hatten gesendet"],
+      "Sie": ["hatten gesandt", "hatten gesendet"]
+    },
+    "futur1": {
+      "ich": "werde senden",
+      "du": "wirst senden",
+      "er": "wird senden",
+      "sie": "wird senden",
+      "es": "wird senden",
+      "wir": "werden senden",
+      "ihr": "werdet senden",
+      "sie_pl": "werden senden",
+      "Sie": "werden senden"
+    },
+    "futur2": {
+      "ich": ["werde gesandt haben", "werde gesendet haben"],
+      "du": ["wirst gesandt haben", "wirst gesendet haben"],
+      "er": ["wird gesandt haben", "wird gesendet haben"],
+      "sie": ["wird gesandt haben", "wird gesendet haben"],
+      "es": ["wird gesandt haben", "wird gesendet haben"],
+      "wir": ["werden gesandt haben", "werden gesendet haben"],
+      "ihr": ["werdet gesandt haben", "werdet gesendet haben"],
+      "sie_pl": ["werden gesandt haben", "werden gesendet haben"],
+      "Sie": ["werden gesandt haben", "werden gesendet haben"]
+    },
+    "imperativ": {
+      "du": "sende",
+      "ihr": "sendet"
+    },
+    "partizip1": "sendend",
+    "partizip2": ["gesandt", "gesendet"]
+  },
+  {
+  "infinitiv": "wachsen",
+  "praesens": {
+    "ich": "wachse",
+    "du": "wächst",
+    "er": "wächst",
+    "sie": "wächst",
+    "es": "wächst",
+    "wir": "wachsen",
+    "ihr": "wachst",
+    "sie_pl": "wachsen",
+    "Sie": "wachsen"
+  },
+  "praeteritum": {
+    "ich": "wuchs",
+    "du": "wuchsest",
+    "er": "wuchs",
+    "sie": "wuchs",
+    "es": "wuchs",
+    "wir": "wuchsen",
+    "ihr": "wuchst",
+    "sie_pl": "wuchsen",
+    "Sie": "wuchsen"
+  },
+  "perfekt": {
+    "ich": ["bin gewachsen", "habe gewachst"],
+    "du": ["bist gewachsen", "hast gewachst"],
+    "er": ["ist gewachsen", "hat gewachst"],
+    "sie": ["ist gewachsen", "hat gewachst"],
+    "es": ["ist gewachsen", "hat gewachst"],
+    "wir": ["sind gewachsen", "haben gewachst"],
+    "ihr": ["seid gewachsen", "habt gewachst"],
+    "sie_pl": ["sind gewachsen", "haben gewachst"],
+    "Sie": ["sind gewachsen", "haben gewachst"]
+  },
+  "plusquamperfekt": {
+    "ich": ["war gewachsen", "hatte gewachst"],
+    "du": ["warst gewachsen", "hattest gewachst"],
+    "er": ["war gewachsen", "hatte gewachst"],
+    "sie": ["war gewachsen", "hatte gewachst"],
+    "es": ["war gewachsen", "hatte gewachst"],
+    "wir": ["waren gewachsen", "hatten gewachst"],
+    "ihr": ["wart gewachsen", "hattet gewachst"],
+    "sie_pl": ["waren gewachsen", "hatten gewachst"],
+    "Sie": ["waren gewachsen", "hatten gewachst"]
+  },
+    "futur1": {
+      "ich": "werde wachsen",
+      "du": "wirst wachsen",
+      "er": "wird wachsen",
+      "sie": "wird wachsen",
+      "es": "wird wachsen",
+      "wir": "werden wachsen",
+      "ihr": "werdet wachsen",
+      "sie_pl": "werden wachsen",
+      "Sie": "werden wachsen"
+    },
+    "futur2": {
+      "ich": ["werde gewachsen sein", "werde gewachst haben"],
+      "du": ["wirst gewachsen sein", "wirst gewachst haben"],
+      "er": ["wird gewachsen sein", "wird gewachst haben"],
+      "sie": ["wird gewachsen sein", "wird gewachst haben"],
+      "es": ["wird gewachsen sein", "wird gewachst haben"],
+      "wir": ["werden gewachsen sein", "werden gewachst haben"],
+      "ihr": ["werdet gewachsen sein", "werdet gewachst haben"],
+      "sie_pl": ["werden gewachsen sein", "werden gewachst haben"],
+      "Sie": ["werden gewachsen sein", "werden gewachst haben"]
+    },
+  "imperativ": {
+    "du": "wachse",
+    "ihr": "wachst"
+  },
+  "partizip1": "wachsend",
+  "partizip2": ["gewachsen", "gewachst"]
+  },
+  {
+  "infinitiv": "winken",
+  "praesens": {
+    "ich": "winke",
+    "du": "winkst",
+    "er": "winkt",
+    "sie": "winkt",
+    "es": "winkt",
+    "wir": "winken",
+    "ihr": "winkt",
+    "sie_pl": "winken",
+    "Sie": "winken"
+  },
+  "praeteritum": {
+    "ich": "winkte",
+    "du": "winktest",
+    "er": "winkte",
+    "sie": "winkte",
+    "es": "winkte",
+    "wir": "winkten",
+    "ihr": "winktet",
+    "sie_pl": "winkten",
+    "Sie": "winkten"
+  },
+  "perfekt": {
+    "ich": ["habe gewinkt", "habe gewunken"],
+    "du": ["hast gewinkt", "hast gewunken"],
+    "er": ["hat gewinkt", "hat gewunken"],
+    "sie": ["hat gewinkt", "hat gewunken"],
+    "es": ["hat gewinkt", "hat gewunken"],
+    "wir": ["haben gewinkt", "haben gewunken"],
+    "ihr": ["habt gewinkt", "habt gewunken"],
+    "sie_pl": ["haben gewinkt", "haben gewunken"],
+    "Sie": ["haben gewinkt", "haben gewunken"]
+  },
+  "plusquamperfekt": {
+    "ich": ["hatte gewinkt", "hatte gewunken"],
+    "du": ["hattest gewinkt", "hattest gewunken"],
+    "er": ["hatte gewinkt", "hatte gewunken"],
+    "sie": ["hatte gewinkt", "hatte gewunken"],
+    "es": ["hatte gewinkt", "hatte gewunken"],
+    "wir": ["hatten gewinkt", "hatten gewunken"],
+    "ihr": ["hattet gewinkt", "hattet gewunken"],
+    "sie_pl": ["hatten gewinkt", "hatten gewunken"],
+    "Sie": ["hatten gewinkt", "hatten gewunken"]
+  },
+  "futur1": {
+    "ich": "werde winken",
+    "du": "wirst winken",
+    "er": "wird winken",
+    "sie": "wird winken",
+    "es": "wird winken",
+    "wir": "werden winken",
+    "ihr": "werdet winken",
+    "sie_pl": "werden winken",
+    "Sie": "werden winken"
+  },
+  "futur2": {
+    "ich": ["werde gewinkt haben", "werde gewunken haben"],
+    "du": ["wirst gewinkt haben", "wirst gewunken haben"],
+    "er": ["wird gewinkt haben", "wird gewunken haben"],
+    "sie": ["wird gewinkt haben", "wird gewunken haben"],
+    "es": ["wird gewinkt haben", "wird gewunken haben"],
+    "wir": ["werden gewinkt haben", "werden gewunken haben"],
+    "ihr": ["werdet gewinkt haben", "werdet gewunken haben"],
+    "sie_pl": ["werden gewinkt haben", "werden gewunken haben"],
+    "Sie": ["werden gewinkt haben", "werden gewunken haben"]
+  },
+  "imperativ": {
+    "du": "wink",
+    "ihr": "winkt"
+  },
+  "partizip1": "winkend",
+  "partizip2": ["gewinkt", "gewunken"]
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "infinitiv": "haben",
+    "praesens": {
+      "ich": "habe",
+      "du": "hast",
+      "er": "hat",
+      "sie": "hat",
+      "es": "hat",
+      "wir": "haben",
+      "ihr": "habt",
+      "sie_pl": "haben",
+      "Sie": "haben"
+    },
+    "praeteritum": {
+      "ich": "hatte",
+      "du": "hattest",
+      "er": "hatte",
+      "sie": "hatte",
+      "es": "hatte",
+      "wir": "hatten",
+      "ihr": "hattet",
+      "sie_pl": "hatten",
+      "Sie": "hatten"
+    },
+    "perfekt": {
+      "ich": "habe gehabt",
+      "du": "hast gehabt",
+      "er": "hat gehabt",
+      "sie": "hat gehabt",
+      "es": "hat gehabt",
+      "wir": "haben gehabt",
+      "ihr": "habt gehabt",
+      "sie_pl": "haben gehabt",
+      "Sie": "haben gehabt"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gehabt",
+      "du": "hattest gehabt",
+      "er": "hatte gehabt",
+      "sie": "hatte gehabt",
+      "es": "hatte gehabt",
+      "wir": "hatten gehabt",
+      "ihr": "hattet gehabt",
+      "sie_pl": "hatten gehabt",
+      "Sie": "hatten gehabt"
+    },
+    "futur1": {
+      "ich": "werde haben",
+      "du": "wirst haben",
+      "er": "wird haben",
+      "sie": "wird haben",
+      "es": "wird haben",
+      "wir": "werden haben",
+      "ihr": "werdet haben",
+      "sie_pl": "werden haben",
+      "Sie": "werden haben"
+    },
+    "futur2": {
+      "ich": "werde gehabt haben",
+      "du": "wirst gehabt haben",
+      "er": "wird gehabt haben",
+      "sie": "wird gehabt haben",
+      "es": "wird gehabt haben",
+      "wir": "werden gehabt haben",
+      "ihr": "werdet gehabt haben",
+      "sie_pl": "werden gehabt haben",
+      "Sie": "werden gehabt haben"
+    },
+    "imperativ": {
+      "du": "hab",
+      "ihr": "habt"
+    },
+    "partizip1": "habend",
+    "partizip2": "gehabt"
+  },
+  {
+    "infinitiv": "sein",
+    "praesens": {
+      "ich": "bin",
+      "du": "bist",
+      "er": "ist",
+      "sie": "ist",
+      "es": "ist",
+      "wir": "sind",
+      "ihr": "seid",
+      "sie_pl": "sind",
+      "Sie": "sind"
+    },
+    "praeteritum": {
+      "ich": "war",
+      "du": "warst",
+      "er": "war",
+      "sie": "war",
+      "es": "war",
+      "wir": "waren",
+      "ihr": "wart",
+      "sie_pl": "waren",
+      "Sie": "waren"
+    },
+    "perfekt": {
+      "ich": "bin gewesen",
+      "du": "bist gewesen",
+      "er": "ist gewesen",
+      "sie": "ist gewesen",
+      "es": "ist gewesen",
+      "wir": "sind gewesen",
+      "ihr": "seid gewesen",
+      "sie_pl": "sind gewesen",
+      "Sie": "sind gewesen"
+    },
+    "plusquamperfekt": {
+      "ich": "war gewesen",
+      "du": "warst gewesen",
+      "er": "war gewesen",
+      "sie": "war gewesen",
+      "es": "war gewesen",
+      "wir": "waren gewesen",
+      "ihr": "wart gewesen",
+      "sie_pl": "waren gewesen",
+      "Sie": "waren gewesen"
+    },
+    "futur1": {
+      "ich": "werde sein",
+      "du": "wirst sein",
+      "er": "wird sein",
+      "sie": "wird sein",
+      "es": "wird sein",
+      "wir": "werden sein",
+      "ihr": "werdet sein",
+      "sie_pl": "werden sein",
+      "Sie": "werden sein"
+    },
+    "futur2": {
+      "ich": "werde gewesen sein",
+      "du": "wirst gewesen sein",
+      "er": "wird gewesen sein",
+      "sie": "wird gewesen sein",
+      "es": "wird gewesen sein",
+      "wir": "werden gewesen sein",
+      "ihr": "werdet gewesen sein",
+      "sie_pl": "werden gewesen sein",
+      "Sie": "werden gewesen sein"
+    },
+    "imperativ": {
+      "du": "sei",
+      "ihr": "seid"
+    },
+    "partizip1": "seiend",
+    "partizip2": "gewesen"
+  },
+  {
+    "infinitiv": "werden",
+    "praesens": {
+      "ich": "werde",
+      "du": "wirst",
+      "er": "wird",
+      "sie": "wird",
+      "es": "wird",
+      "wir": "werden",
+      "ihr": "werdet",
+      "sie_pl": "werden",
+      "Sie": "werden"
+    },
+    "praeteritum": {
+      "ich": "wurde",
+      "du": "wurdest",
+      "er": "wurde",
+      "sie": "wurde",
+      "es": "wurde",
+      "wir": "wurden",
+      "ihr": "wurdet",
+      "sie_pl": "wurden",
+      "Sie": "wurden"
+    },
+    "perfekt": {
+      "ich": "bin geworden",
+      "du": "bist geworden",
+      "er": "ist geworden",
+      "sie": "ist geworden",
+      "es": "ist geworden",
+      "wir": "sind geworden",
+      "ihr": "seid geworden",
+      "sie_pl": "sind geworden",
+      "Sie": "sind geworden"
+    },
+    "plusquamperfekt": {
+      "ich": "war geworden",
+      "du": "warst geworden",
+      "er": "war geworden",
+      "sie": "war geworden",
+      "es": "war geworden",
+      "wir": "waren geworden",
+      "ihr": "wart geworden",
+      "sie_pl": "waren geworden",
+      "Sie": "waren geworden"
+    },
+    "futur1": {
+      "ich": "werde werden",
+      "du": "wirst werden",
+      "er": "wird werden",
+      "sie": "wird werden",
+      "es": "wird werden",
+      "wir": "werden werden",
+      "ihr": "werdet werden",
+      "sie_pl": "werden werden",
+      "Sie": "werden werden"
+    },
+    "futur2": {
+      "ich": "werde geworden sein",
+      "du": "wirst geworden sein",
+      "er": "wird geworden sein",
+      "sie": "wird geworden sein",
+      "es": "wird geworden sein",
+      "wir": "werden geworden sein",
+      "ihr": "werdet geworden sein",
+      "sie_pl": "werden geworden sein",
+      "Sie": "werden geworden sein"
+    },
+    "imperativ": {
+      "du": "werde",
+      "ihr": "werdet"
+    },
+    "partizip1": "werdend",
+    "partizip2": "geworden"
+  }
+]

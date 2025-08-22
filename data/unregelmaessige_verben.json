@@ -1,0 +1,527 @@
+[
+  {
+    "infinitiv": "bringen",
+    "praesens": {
+      "ich": "bringe",
+      "du": "bringst",
+      "er": "bringt",
+      "sie": "bringt",
+      "es": "bringt",
+      "wir": "bringen",
+      "ihr": "bringt",
+      "sie_pl": "bringen",
+      "Sie": "bringen"
+    },
+    "praeteritum": {
+      "ich": "brachte",
+      "du": "brachtest",
+      "er": "brachte",
+      "sie": "brachte",
+      "es": "brachte",
+      "wir": "brachten",
+      "ihr": "brachtet",
+      "sie_pl": "brachten",
+      "Sie": "brachten"
+    },
+    "perfekt": {
+      "ich": "habe gebracht",
+      "du": "hast gebracht",
+      "er": "hat gebracht",
+      "sie": "hat gebracht",
+      "es": "hat gebracht",
+      "wir": "haben gebracht",
+      "ihr": "habt gebracht",
+      "sie_pl": "haben gebracht",
+      "Sie": "haben gebracht"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gebracht",
+      "du": "hattest gebracht",
+      "er": "hatte gebracht",
+      "sie": "hatte gebracht",
+      "es": "hatte gebracht",
+      "wir": "hatten gebracht",
+      "ihr": "hattet gebracht",
+      "sie_pl": "hatten gebracht",
+      "Sie": "hatten gebracht"
+    },
+    "futur1": {
+      "ich": "werde bringen",
+      "du": "wirst bringen",
+      "er": "wird bringen",
+      "sie": "wird bringen",
+      "es": "wird bringen",
+      "wir": "werden bringen",
+      "ihr": "werdet bringen",
+      "sie_pl": "werden bringen",
+      "Sie": "werden bringen"
+    },
+    "futur2": {
+      "ich": "werde gebracht haben",
+      "du": "wirst gebracht haben",
+      "er": "wird gebracht haben",
+      "sie": "wird gebracht haben",
+      "es": "wird gebracht haben",
+      "wir": "werden gebracht haben",
+      "ihr": "werdet gebracht haben",
+      "sie_pl": "werden gebracht haben",
+      "Sie": "werden gebracht haben"
+    },
+    "imperativ": {
+      "du": "bring",
+      "ihr": "bringt"
+    },
+    "partizip1": "bringend",
+    "partizip2": "gebracht"
+  },
+  {
+    "infinitiv": "denken",
+    "praesens": {
+      "ich": "denke",
+      "du": "denkst",
+      "er": "denkt",
+      "sie": "denkt",
+      "es": "denkt",
+      "wir": "denken",
+      "ihr": "denkt",
+      "sie_pl": "denken",
+      "Sie": "denken"
+    },
+    "praeteritum": {
+      "ich": "dachte",
+      "du": "dachtest",
+      "er": "dachte",
+      "sie": "dachte",
+      "es": "dachte",
+      "wir": "dachten",
+      "ihr": "dachtet",
+      "sie_pl": "dachten",
+      "Sie": "dachten"
+    },
+    "perfekt": {
+      "ich": "habe gedacht",
+      "du": "hast gedacht",
+      "er": "hat gedacht",
+      "sie": "hat gedacht",
+      "es": "hat gedacht",
+      "wir": "haben gedacht",
+      "ihr": "habt gedacht",
+      "sie_pl": "haben gedacht",
+      "Sie": "haben gedacht"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gedacht",
+      "du": "hattest gedacht",
+      "er": "hatte gedacht",
+      "sie": "hatte gedacht",
+      "es": "hatte gedacht",
+      "wir": "hatten gedacht",
+      "ihr": "hattet gedacht",
+      "sie_pl": "hatten gedacht",
+      "Sie": "hatten gedacht"
+    },
+    "futur1": {
+      "ich": "werde denken",
+      "du": "wirst denken",
+      "er": "wird denken",
+      "sie": "wird denken",
+      "es": "wird denken",
+      "wir": "werden denken",
+      "ihr": "werdet denken",
+      "sie_pl": "werden denken",
+      "Sie": "werden denken"
+    },
+    "futur2": {
+      "ich": "werde gedacht haben",
+      "du": "wirst gedacht haben",
+      "er": "wird gedacht haben",
+      "sie": "wird gedacht haben",
+      "es": "wird gedacht haben",
+      "wir": "werden gedacht haben",
+      "ihr": "werdet gedacht haben",
+      "sie_pl": "werden gedacht haben",
+      "Sie": "werden gedacht haben"
+    },
+    "imperativ": {
+      "du": "denk",
+      "ihr": "denkt"
+    },
+    "partizip1": "denkend",
+    "partizip2": "gedacht"
+  },
+  {
+    "infinitiv": "essen",
+    "praesens": {
+      "ich": "esse",
+      "du": "isst",
+      "er": "isst",
+      "sie": "isst",
+      "es": "isst",
+      "wir": "essen",
+      "ihr": "esst",
+      "sie_pl": "essen",
+      "Sie": "essen"
+    },
+    "praeteritum": {
+      "ich": "aß",
+      "du": "aßest",
+      "er": "aß",
+      "sie": "aß",
+      "es": "aß",
+      "wir": "aßen",
+      "ihr": "aßt",
+      "sie_pl": "aßen",
+      "Sie": "aßen"
+    },
+    "perfekt": {
+      "ich": "habe gegessen",
+      "du": "hast gegessen",
+      "er": "hat gegessen",
+      "sie": "hat gegessen",
+      "es": "hat gegessen",
+      "wir": "haben gegessen",
+      "ihr": "habt gegessen",
+      "sie_pl": "haben gegessen",
+      "Sie": "haben gegessen"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gegessen",
+      "du": "hattest gegessen",
+      "er": "hatte gegessen",
+      "sie": "hatte gegessen",
+      "es": "hatte gegessen",
+      "wir": "hatten gegessen",
+      "ihr": "hattet gegessen",
+      "sie_pl": "hatten gegessen",
+      "Sie": "hatten gegessen"
+    },
+    "futur1": {
+      "ich": "werde essen",
+      "du": "wirst essen",
+      "er": "wird essen",
+      "sie": "wird essen",
+      "es": "wird essen",
+      "wir": "werden essen",
+      "ihr": "werdet essen",
+      "sie_pl": "werden essen",
+      "Sie": "werden essen"
+    },
+    "futur2": {
+      "ich": "werde gegessen haben",
+      "du": "wirst gegessen haben",
+      "er": "wird gegessen haben",
+      "sie": "wird gegessen haben",
+      "es": "wird gegessen haben",
+      "wir": "werden gegessen haben",
+      "ihr": "werdet gegessen haben",
+      "sie_pl": "werden gegessen haben",
+      "Sie": "werden gegessen haben"
+    },
+    "imperativ": {
+      "du": "iss",
+      "ihr": "esst"
+    },
+    "partizip1": "essend",
+    "partizip2": "gegessen"
+  },
+  {
+    "infinitiv": "fahren",
+    "praesens": {
+      "ich": "fahre",
+      "du": "fährst",
+      "er": "fährt",
+      "sie": "fährt",
+      "es": "fährt",
+      "wir": "fahren",
+      "ihr": "fahrt",
+      "sie_pl": "fahren",
+      "Sie": "fahren"
+    },
+    "praeteritum": {
+      "ich": "fuhr",
+      "du": "fuhrst",
+      "er": "fuhr",
+      "sie": "fuhr",
+      "es": "fuhr",
+      "wir": "fuhren",
+      "ihr": "fuhrt",
+      "sie_pl": "fuhren",
+      "Sie": "fuhren"
+    },
+    "perfekt": {
+      "ich": "bin gefahren",
+      "du": "bist gefahren",
+      "er": "ist gefahren",
+      "sie": "ist gefahren",
+      "es": "ist gefahren",
+      "wir": "sind gefahren",
+      "ihr": "seid gefahren",
+      "sie_pl": "sind gefahren",
+      "Sie": "sind gefahren"
+    },
+    "plusquamperfekt": {
+      "ich": "war gefahren",
+      "du": "warst gefahren",
+      "er": "war gefahren",
+      "sie": "war gefahren",
+      "es": "war gefahren",
+      "wir": "waren gefahren",
+      "ihr": "wart gefahren",
+      "sie_pl": "waren gefahren",
+      "Sie": "waren gefahren"
+    },
+    "futur1": {
+      "ich": "werde fahren",
+      "du": "wirst fahren",
+      "er": "wird fahren",
+      "sie": "wird fahren",
+      "es": "wird fahren",
+      "wir": "werden fahren",
+      "ihr": "werdet fahren",
+      "sie_pl": "werden fahren",
+      "Sie": "werden fahren"
+    },
+    "futur2": {
+      "ich": "werde gefahren sein",
+      "du": "wirst gefahren sein",
+      "er": "wird gefahren sein",
+      "sie": "wird gefahren sein",
+      "es": "wird gefahren sein",
+      "wir": "werden gefahren sein",
+      "ihr": "werdet gefahren sein",
+      "sie_pl": "werden gefahren sein",
+      "Sie": "werden gefahren sein"
+    },
+    "imperativ": {
+      "du": "fahr",
+      "ihr": "fahrt"
+    },
+    "partizip1": "fahrend",
+    "partizip2": "gefahren"
+  },
+  {
+    "infinitiv": "geben",
+    "praesens": {
+      "ich": "gebe",
+      "du": "gibst",
+      "er": "gibt",
+      "sie": "gibt",
+      "es": "gibt",
+      "wir": "geben",
+      "ihr": "gebt",
+      "sie_pl": "geben",
+      "Sie": "geben"
+    },
+    "praeteritum": {
+      "ich": "gab",
+      "du": "gabst",
+      "er": "gab",
+      "sie": "gab",
+      "es": "gab",
+      "wir": "gaben",
+      "ihr": "gabt",
+      "sie_pl": "gaben",
+      "Sie": "gaben"
+    },
+    "perfekt": {
+      "ich": "habe gegeben",
+      "du": "hast gegeben",
+      "er": "hat gegeben",
+      "sie": "hat gegeben",
+      "es": "hat gegeben",
+      "wir": "haben gegeben",
+      "ihr": "habt gegeben",
+      "sie_pl": "haben gegeben",
+      "Sie": "haben gegeben"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gegeben",
+      "du": "hattest gegeben",
+      "er": "hatte gegeben",
+      "sie": "hatte gegeben",
+      "es": "hatte gegeben",
+      "wir": "hatten gegeben",
+      "ihr": "hattet gegeben",
+      "sie_pl": "hatten gegeben",
+      "Sie": "hatten gegeben"
+    },
+    "futur1": {
+      "ich": "werde geben",
+      "du": "wirst geben",
+      "er": "wird geben",
+      "sie": "wird geben",
+      "es": "wird geben",
+      "wir": "werden geben",
+      "ihr": "werdet geben",
+      "sie_pl": "werden geben",
+      "Sie": "werden geben"
+    },
+    "futur2": {
+      "ich": "werde gegeben haben",
+      "du": "wirst gegeben haben",
+      "er": "wird gegeben haben",
+      "sie": "wird gegeben haben",
+      "es": "wird gegeben haben",
+      "wir": "werden gegeben haben",
+      "ihr": "werdet gegeben haben",
+      "sie_pl": "werden gegeben haben",
+      "Sie": "werden gegeben haben"
+    },
+    "imperativ": {
+      "du": "gib",
+      "ihr": "gebt"
+    },
+    "partizip1": "gebend",
+    "partizip2": "gegeben"
+  },
+  {
+    "infinitiv": "lesen",
+    "praesens": {
+      "ich": "lese",
+      "du": "liest",
+      "er": "liest",
+      "sie": "liest",
+      "es": "liest",
+      "wir": "lesen",
+      "ihr": "lest",
+      "sie_pl": "lesen",
+      "Sie": "lesen"
+    },
+    "praeteritum": {
+      "ich": "las",
+      "du": "lasest",
+      "er": "las",
+      "sie": "las",
+      "es": "las",
+      "wir": "lasen",
+      "ihr": "last",
+      "sie_pl": "lasen",
+      "Sie": "lasen"
+    },
+    "perfekt": {
+      "ich": "habe gelesen",
+      "du": "hast gelesen",
+      "er": "hat gelesen",
+      "sie": "hat gelesen",
+      "es": "hat gelesen",
+      "wir": "haben gelesen",
+      "ihr": "habt gelesen",
+      "sie_pl": "haben gelesen",
+      "Sie": "haben gelesen"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gelesen",
+      "du": "hattest gelesen",
+      "er": "hatte gelesen",
+      "sie": "hatte gelesen",
+      "es": "hatte gelesen",
+      "wir": "hatten gelesen",
+      "ihr": "hattet gelesen",
+      "sie_pl": "hatten gelesen",
+      "Sie": "hatten gelesen"
+    },
+    "futur1": {
+      "ich": "werde lesen",
+      "du": "wirst lesen",
+      "er": "wird lesen",
+      "sie": "wird lesen",
+      "es": "wird lesen",
+      "wir": "werden lesen",
+      "ihr": "werdet lesen",
+      "sie_pl": "werden lesen",
+      "Sie": "werden lesen"
+    },
+    "futur2": {
+      "ich": "werde gelesen haben",
+      "du": "wirst gelesen haben",
+      "er": "wird gelesen haben",
+      "sie": "wird gelesen haben",
+      "es": "wird gelesen haben",
+      "wir": "werden gelesen haben",
+      "ihr": "werdet gelesen haben",
+      "sie_pl": "werden gelesen haben",
+      "Sie": "werden gelesen haben"
+    },
+    "imperativ": {
+      "du": "lies",
+      "ihr": "lest"
+    },
+    "partizip1": "lesend",
+    "partizip2": "gelesen"
+  },
+  {
+  "infinitiv": "sehen",
+  "praesens": {
+    "ich": "sehe",
+    "du": "siehst",
+    "er": "sieht",
+    "sie": "sieht",
+    "es": "sieht",
+    "wir": "sehen",
+    "ihr": "seht",
+    "sie_pl": "sehen",
+    "Sie": "sehen"
+  },
+  "praeteritum": {
+    "ich": "sah",
+    "du": "sahst",
+    "er": "sah",
+    "sie": "sah",
+    "es": "sah",
+    "wir": "sahen",
+    "ihr": "saht",
+    "sie_pl": "sahen",
+    "Sie": "sahen"
+  },
+  "perfekt": {
+    "ich": "habe gesehen",
+    "du": "hast gesehen",
+    "er": "hat gesehen",
+    "sie": "hat gesehen",
+    "es": "hat gesehen",
+    "wir": "haben gesehen",
+    "ihr": "habt gesehen",
+    "sie_pl": "haben gesehen",
+    "Sie": "haben gesehen"
+  },
+  "plusquamperfekt": {
+    "ich": "hatte gesehen",
+    "du": "hattest gesehen",
+    "er": "hatte gesehen",
+    "sie": "hatte gesehen",
+    "es": "hatte gesehen",
+    "wir": "hatten gesehen",
+    "ihr": "hattet gesehen",
+    "sie_pl": "hatten gesehen",
+    "Sie": "hatten gesehen"
+  },
+  "futur1": {
+    "ich": "werde sehen",
+    "du": "wirst sehen",
+    "er": "wird sehen",
+    "sie": "wird sehen",
+    "es": "wird sehen",
+    "wir": "werden sehen",
+    "ihr": "werdet sehen",
+    "sie_pl": "werden sehen",
+    "Sie": "werden sehen"
+  },
+  "futur2": {
+    "ich": "werde gesehen haben",
+    "du": "wirst gesehen haben",
+    "er": "wird gesehen haben",
+    "sie": "wird gesehen haben",
+    "es": "wird gesehen haben",
+    "wir": "werden gesehen haben",
+    "ihr": "werdet gesehen haben",
+    "sie_pl": "werden gesehen haben",
+    "Sie": "werden gesehen haben"
+  },
+  "imperativ": {
+    "du": "sieh",
+    "ihr": "seht"
+  },
+  "partizip1": "sehend",
+  "partizip2": "gesehen"
+  }
+]

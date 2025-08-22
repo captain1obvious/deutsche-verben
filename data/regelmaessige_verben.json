@@ -1,0 +1,452 @@
+[
+  {
+    "infinitiv": "machen",
+    "praesens": {
+      "ich": "mache",
+      "du": "machst",
+      "er": "macht",
+      "sie": "macht",
+      "es": "macht",
+      "wir": "machen",
+      "ihr": "macht",
+      "sie_pl": "machen",
+      "Sie": "machen"
+    },
+    "praeteritum": {
+      "ich": "machte",
+      "du": "machtest",
+      "er": "machte",
+      "sie": "machte",
+      "es": "machte",
+      "wir": "machten",
+      "ihr": "machtet",
+      "sie_pl": "machten",
+      "Sie": "machten"
+    },
+    "perfekt": {
+      "ich": "habe gemacht",
+      "du": "hast gemacht",
+      "er": "hat gemacht",
+      "sie": "hat gemacht",
+      "es": "hat gemacht",
+      "wir": "haben gemacht",
+      "ihr": "habt gemacht",
+      "sie_pl": "haben gemacht",
+      "Sie": "haben gemacht"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gemacht",
+      "du": "hattest gemacht",
+      "er": "hatte gemacht",
+      "sie": "hatte gemacht",
+      "es": "hatte gemacht",
+      "wir": "hatten gemacht",
+      "ihr": "hattet gemacht",
+      "sie_pl": "hatten gemacht",
+      "Sie": "hatten gemacht"
+    },
+    "futur1": {
+      "ich": "werde machen",
+      "du": "wirst machen",
+      "er": "wird machen",
+      "sie": "wird machen",
+      "es": "wird machen",
+      "wir": "werden machen",
+      "ihr": "werdet machen",
+      "sie_pl": "werden machen",
+      "Sie": "werden machen"
+    },
+    "futur2": {
+      "ich": "werde gemacht haben",
+      "du": "wirst gemacht haben",
+      "er": "wird gemacht haben",
+      "sie": "wird gemacht haben",
+      "es": "wird gemacht haben",
+      "wir": "werden gemacht haben",
+      "ihr": "werdet gemacht haben",
+      "sie_pl": "werden gemacht haben",
+      "Sie": "werden gemacht haben"
+    },
+    "imperativ": {
+      "du": "mach",
+      "ihr": "macht"
+    },
+    "partizip1": "machend",
+    "partizip2": "gemacht"
+  },
+  {
+    "infinitiv": "kaufen",
+    "praesens": {
+      "ich": "kaufe",
+      "du": "kaufst",
+      "er": "kauft",
+      "sie": "kauft",
+      "es": "kauft",
+      "wir": "kaufen",
+      "ihr": "kauft",
+      "sie_pl": "kaufen",
+      "Sie": "kaufen"
+    },
+    "praeteritum": {
+      "ich": "kaufte",
+      "du": "kauftest",
+      "er": "kaufte",
+      "sie": "kaufte",
+      "es": "kaufte",
+      "wir": "kauften",
+      "ihr": "kauftet",
+      "sie_pl": "kauften",
+      "Sie": "kauften"
+    },
+    "perfekt": {
+      "ich": "habe gekauft",
+      "du": "hast gekauft",
+      "er": "hat gekauft",
+      "sie": "hat gekauft",
+      "es": "hat gekauft",
+      "wir": "haben gekauft",
+      "ihr": "habt gekauft",
+      "sie_pl": "haben gekauft",
+      "Sie": "haben gekauft"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gekauft",
+      "du": "hattest gekauft",
+      "er": "hatte gekauft",
+      "sie": "hatte gekauft",
+      "es": "hatte gekauft",
+      "wir": "hatten gekauft",
+      "ihr": "hattet gekauft",
+      "sie_pl": "hatten gekauft",
+      "Sie": "hatten gekauft"
+    },
+    "futur1": {
+      "ich": "werde kaufen",
+      "du": "wirst kaufen",
+      "er": "wird kaufen",
+      "sie": "wird kaufen",
+      "es": "wird kaufen",
+      "wir": "werden kaufen",
+      "ihr": "werdet kaufen",
+      "sie_pl": "werden kaufen",
+      "Sie": "werden kaufen"
+    },
+    "futur2": {
+      "ich": "werde gekauft haben",
+      "du": "wirst gekauft haben",
+      "er": "wird gekauft haben",
+      "sie": "wird gekauft haben",
+      "es": "wird gekauft haben",
+      "wir": "werden gekauft haben",
+      "ihr": "werdet gekauft haben",
+      "sie_pl": "werden gekauft haben",
+      "Sie": "werden gekauft haben"
+    },
+    "imperativ": {
+      "du": "kauf",
+      "ihr": "kauft"
+    },
+    "partizip1": "kaufend",
+    "partizip2": "gekauft"
+  },
+  {
+    "infinitiv": "lernen",
+    "praesens": {
+      "ich": "lerne",
+      "du": "lernst",
+      "er": "lernt",
+      "sie": "lernt",
+      "es": "lernt",
+      "wir": "lernen",
+      "ihr": "lernt",
+      "sie_pl": "lernen",
+      "Sie": "lernen"
+    },
+    "praeteritum": {
+      "ich": "lernte",
+      "du": "lerntest",
+      "er": "lernte",
+      "sie": "lernte",
+      "es": "lernte",
+      "wir": "lernten",
+      "ihr": "lerntet",
+      "sie_pl": "lernten",
+      "Sie": "lernten"
+    },
+    "perfekt": {
+      "ich": "habe gelernt",
+      "du": "hast gelernt",
+      "er": "hat gelernt",
+      "sie": "hat gelernt",
+      "es": "hat gelernt",
+      "wir": "haben gelernt",
+      "ihr": "habt gelernt",
+      "sie_pl": "haben gelernt",
+      "Sie": "haben gelernt"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gelernt",
+      "du": "hattest gelernt",
+      "er": "hatte gelernt",
+      "sie": "hatte gelernt",
+      "es": "hatte gelernt",
+      "wir": "hatten gelernt",
+      "ihr": "hattet gelernt",
+      "sie_pl": "hatten gelernt",
+      "Sie": "hatten gelernt"
+    },
+    "futur1": {
+      "ich": "werde lernen",
+      "du": "wirst lernen",
+      "er": "wird lernen",
+      "sie": "wird lernen",
+      "es": "wird lernen",
+      "wir": "werden lernen",
+      "ihr": "werdet lernen",
+      "sie_pl": "werden lernen",
+      "Sie": "werden lernen"
+    },
+    "futur2": {
+      "ich": "werde gelernt haben",
+      "du": "wirst gelernt haben",
+      "er": "wird gelernt haben",
+      "sie": "wird gelernt haben",
+      "es": "wird gelernt haben",
+      "wir": "werden gelernt haben",
+      "ihr": "werdet gelernt haben",
+      "sie_pl": "werden gelernt haben",
+      "Sie": "werden gelernt haben"
+    },
+    "imperativ": {
+      "du": "lern",
+      "ihr": "lernt"
+    },
+    "partizip1": "lernend",
+    "partizip2": "gelernt"
+  },
+  {
+    "infinitiv": "arbeiten",
+    "praesens": {
+      "ich": "arbeite",
+      "du": "arbeitest",
+      "er": "arbeitet",
+      "sie": "arbeitet",
+      "es": "arbeitet",
+      "wir": "arbeiten",
+      "ihr": "arbeitet",
+      "sie_pl": "arbeiten",
+      "Sie": "arbeiten"
+    },
+    "praeteritum": {
+      "ich": "arbeitete",
+      "du": "arbeitetest",
+      "er": "arbeitete",
+      "sie": "arbeitete",
+      "es": "arbeitete",
+      "wir": "arbeiteten",
+      "ihr": "arbeitetet",
+      "sie_pl": "arbeiteten",
+      "Sie": "arbeiteten"
+    },
+    "perfekt": {
+      "ich": "habe gearbeitet",
+      "du": "hast gearbeitet",
+      "er": "hat gearbeitet",
+      "sie": "hat gearbeitet",
+      "es": "hat gearbeitet",
+      "wir": "haben gearbeitet",
+      "ihr": "habt gearbeitet",
+      "sie_pl": "haben gearbeitet",
+      "Sie": "haben gearbeitet"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gearbeitet",
+      "du": "hattest gearbeitet",
+      "er": "hatte gearbeitet",
+      "sie": "hatte gearbeitet",
+      "es": "hatte gearbeitet",
+      "wir": "hatten gearbeitet",
+      "ihr": "hattet gearbeitet",
+      "sie_pl": "hatten gearbeitet",
+      "Sie": "hatten gearbeitet"
+    },
+    "futur1": {
+      "ich": "werde arbeiten",
+      "du": "wirst arbeiten",
+      "er": "wird arbeiten",
+      "sie": "wird arbeiten",
+      "es": "wird arbeiten",
+      "wir": "werden arbeiten",
+      "ihr": "werdet arbeiten",
+      "sie_pl": "werden arbeiten",
+      "Sie": "werden arbeiten"
+    },
+    "futur2": {
+      "ich": "werde gearbeitet haben",
+      "du": "wirst gearbeitet haben",
+      "er": "wird gearbeitet haben",
+      "sie": "wird gearbeitet haben",
+      "es": "wird gearbeitet haben",
+      "wir": "werden gearbeitet haben",
+      "ihr": "werdet gearbeitet haben",
+      "sie_pl": "werden gearbeitet haben",
+      "Sie": "werden gearbeitet haben"
+    },
+    "imperativ": {
+      "du": "arbeite",
+      "ihr": "arbeitet"
+    },
+    "partizip1": "arbeitend",
+    "partizip2": "gearbeitet"
+  },
+  {
+    "infinitiv": "finden",
+    "praesens": {
+      "ich": "finde",
+      "du": "findest",
+      "er": "findet",
+      "sie": "findet",
+      "es": "findet",
+      "wir": "finden",
+      "ihr": "findet",
+      "sie_pl": "finden",
+      "Sie": "finden"
+    },
+    "praeteritum": {
+      "ich": "fand",
+      "du": "fandest",
+      "er": "fand",
+      "sie": "fand",
+      "es": "fand",
+      "wir": "fanden",
+      "ihr": "fandet",
+      "sie_pl": "fanden",
+      "Sie": "fanden"
+    },
+    "perfekt": {
+      "ich": "habe gefunden",
+      "du": "hast gefunden",
+      "er": "hat gefunden",
+      "sie": "hat gefunden",
+      "es": "hat gefunden",
+      "wir": "haben gefunden",
+      "ihr": "habt gefunden",
+      "sie_pl": "haben gefunden",
+      "Sie": "haben gefunden"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gefunden",
+      "du": "hattest gefunden",
+      "er": "hatte gefunden",
+      "sie": "hatte gefunden",
+      "es": "hatte gefunden",
+      "wir": "hatten gefunden",
+      "ihr": "hattet gefunden",
+      "sie_pl": "hatten gefunden",
+      "Sie": "hatten gefunden"
+    },
+    "futur1": {
+      "ich": "werde finden",
+      "du": "wirst finden",
+      "er": "wird finden",
+      "sie": "wird finden",
+      "es": "wird finden",
+      "wir": "werden finden",
+      "ihr": "werdet finden",
+      "sie_pl": "werden finden",
+      "Sie": "werden finden"
+    },
+    "futur2": {
+      "ich": "werde gefunden haben",
+      "du": "wirst gefunden haben",
+      "er": "wird gefunden haben",
+      "sie": "wird gefunden haben",
+      "es": "wird gefunden haben",
+      "wir": "werden gefunden haben",
+      "ihr": "werdet gefunden haben",
+      "sie_pl": "werden gefunden haben",
+      "Sie": "werden gefunden haben"
+    },
+    "imperativ": {
+      "du": "find",
+      "ihr": "findet"
+    },
+    "partizip1": "findend",
+    "partizip2": "gefunden"
+  },
+  {
+    "infinitiv": "brauchen",
+    "praesens": {
+      "ich": "brauche",
+      "du": "brauchst",
+      "er": "braucht",
+      "sie": "braucht",
+      "es": "braucht",
+      "wir": "brauchen",
+      "ihr": "braucht",
+      "sie_pl": "brauchen",
+      "Sie": "brauchen"
+    },
+    "praeteritum": {
+      "ich": "brauchte",
+      "du": "brauchtest",
+      "er": "brauchte",
+      "sie": "brauchte",
+      "es": "brauchte",
+      "wir": "brauchten",
+      "ihr": "brauchtet",
+      "sie_pl": "brauchten",
+      "Sie": "brauchten"
+    },
+    "perfekt": {
+      "ich": "habe gebraucht",
+      "du": "hast gebraucht",
+      "er": "hat gebraucht",
+      "sie": "hat gebraucht",
+      "es": "hat gebraucht",
+      "wir": "haben gebraucht",
+      "ihr": "habt gebraucht",
+      "sie_pl": "haben gebraucht",
+      "Sie": "haben gebraucht"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gebraucht",
+      "du": "hattest gebraucht",
+      "er": "hatte gebraucht",
+      "sie": "hatte gebraucht",
+      "es": "hatte gebraucht",
+      "wir": "hatten gebraucht",
+      "ihr": "hattet gebraucht",
+      "sie_pl": "hatten gebraucht",
+      "Sie": "hatten gebraucht"
+    },
+    "futur1": {
+      "ich": "werde brauchen",
+      "du": "wirst brauchen",
+      "er": "wird brauchen",
+      "sie": "wird brauchen",
+      "es": "wird brauchen",
+      "wir": "werden brauchen",
+      "ihr": "werdet brauchen",
+      "sie_pl": "werden brauchen",
+      "Sie": "werden brauchen"
+    },
+    "futur2": {
+      "ich": "werde gebraucht haben",
+      "du": "wirst gebraucht haben",
+      "er": "wird gebraucht haben",
+      "sie": "wird gebraucht haben",
+      "es": "wird gebraucht haben",
+      "wir": "werden gebraucht haben",
+      "ihr": "werdet gebraucht haben",
+      "sie_pl": "werden gebraucht haben",
+      "Sie": "werden gebraucht haben"
+    },
+    "imperativ": {
+      "du": "brauch",
+      "ihr": "braucht"
+    },
+    "partizip1": "brauchend",
+    "partizip2": "gebraucht"
+  }
+]
