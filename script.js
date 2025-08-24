@@ -52,6 +52,7 @@ async function loadVerbs(category = "regelmaessige_verben") {
 }
 
 function updateExercise() {
+  answerWasCorrect = false; // Reset der Antwortstatus-Variable
   const tenseSelect = document.getElementById("tense-select").value;
   const tenses = Object.keys(tenseMap);
   let tries = 0;
@@ -160,7 +161,6 @@ function checkAnswer() {
  document.getElementById("user-input").addEventListener("keydown", e => {
   if (e.key === "Enter") {
     if (answerWasCorrect) {
-      answerWasCorrect = false; // Reset
       updateExercise();
     } else {
       checkAnswer();
@@ -173,7 +173,9 @@ document.getElementById("verbCategory").addEventListener("change", (e) => {
   currentCategory = e.target.value;
   loadVerbs(currentCategory); // neue Verben laden
 });
-document.getElementById("tense-select").addEventListener("change", updateExercise);
+document.getElementById("tense-select").addEventListener("change", () => {
+  updateExercise(); // Neue Aufgabe laden
+});
 
 //beim Laden der Seite wird die Standardkategorie abgefragt und geladen
 window.onload = () => {

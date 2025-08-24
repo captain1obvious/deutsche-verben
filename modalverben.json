@@ -1,0 +1,428 @@
+[
+  {
+    "infinitiv": "dürfen",
+    "praesens": {
+      "ich": "darf",
+      "du": "darfst",
+      "er": "darf",
+      "sie": "darf",
+      "es": "darf",
+      "wir": "dürfen",
+      "ihr": "dürft",
+      "sie_pl": "dürfen",
+      "Sie": "dürfen"
+    },
+    "praeteritum": {
+      "ich": "durfte",
+      "du": "durftest",
+      "er": "durfte",
+      "sie": "durfte",
+      "es": "durfte",
+      "wir": "durften",
+      "ihr": "durftet",
+      "sie_pl": "durften",
+      "Sie": "durften"
+    },
+    "perfekt": {
+      "ich": ["habe dürfen", "habe gedurft"],
+      "du": ["hast dürfen", "hast gedurft"],
+      "er": ["hat dürfen", "hat gedurft"],
+      "sie": ["hat dürfen", "hat gedurft"],
+      "es": ["hat dürfen", "hat gedurft"],
+      "wir": ["haben dürfen", "haben gedurft"],
+      "ihr": ["habt dürfen", "habt gedurft"],
+      "sie_pl": ["haben dürfen", "haben gedurft"],
+      "Sie": ["haben dürfen", "haben gedurft"]
+    },
+    "plusquamperfekt": {
+      "ich": ["hatte dürfen", "hatte gedurft"],
+      "du": ["hattest dürfen", "hattest gedurft"],
+      "er": ["hatte dürfen", "hatte gedurft"],
+      "sie": ["hatte dürfen", "hatte gedurft"],
+      "es": ["hatte dürfen", "hatte gedurft"],
+      "wir": ["hatten dürfen", "hatten gedurft"],
+      "ihr": ["hattet dürfen", "hattet gedurft"],
+      "sie_pl": ["hatten dürfen", "hatten gedurft"],
+      "Sie": ["hatten dürfen", "hatten gedurft"]
+    },
+    "futur1": {
+      "ich": "werde dürfen",
+      "du": "wirst dürfen",
+      "er": "wird dürfen",
+      "sie": "wird dürfen",
+      "es": "wird dürfen",
+      "wir": "werden dürfen",
+      "ihr": "werdet dürfen",
+      "sie_pl": "werden dürfen",
+      "Sie": "werden dürfen"
+    },
+    "futur2": {
+      "ich": ["werde dürfen haben", "werde gedurft haben"],
+      "du": ["wirst dürfen haben", "wirst gedurft haben"],
+      "er": ["wird dürfen haben", "wird gedurft haben"],
+      "sie": ["wird dürfen haben", "wird gedurft haben"],
+      "es": ["wird dürfen haben", "wird gedurft haben"],
+      "wir": ["werden dürfen haben", "werden gedurft haben"],
+      "ihr": ["werdet dürfen haben", "werdet gedurft haben"],
+      "sie_pl": ["werden dürfen haben", "werden gedurft haben"],
+      "Sie": ["werden dürfen haben", "werden gedurft haben"]
+    },
+    "partizip1": "dürfend",
+    "partizip2": ["gedurft", "dürfen"]
+  },
+  {
+    "infinitiv": "können",
+    "praesens": {
+      "ich": "kann",
+      "du": "kannst",
+      "er": "kann",
+      "sie": "kann",
+      "es": "kann",
+      "wir": "können",
+      "ihr": "könnt",
+      "sie_pl": "können",
+      "Sie": "können"
+    },
+    "praeteritum": {
+      "ich": "konnte",
+      "du": "konntest",
+      "er": "konnte",
+      "sie": "konnte",
+      "es": "konnte",
+      "wir": "konnten",
+      "ihr": "konntet",
+      "sie_pl": "konnten",
+      "Sie": "konnten"
+    },
+    "perfekt": {
+      "ich": ["habe können", "habe gekonnt"],
+      "du": ["hast können", "hast gekonnt"],
+      "er": ["hat können", "hat gekonnt"],
+      "sie": ["hat können", "hat gekonnt"],
+      "es": ["hat können", "hat gekonnt"],
+      "wir": ["haben können", "haben gekonnt"],
+      "ihr": ["habt können", "habt gekonnt"],
+      "sie_pl": ["haben können", "haben gekonnt"],
+      "Sie": ["haben können", "haben gekonnt"]
+    },
+    "plusquamperfekt": {
+      "ich": ["hatte können", "hatte gekonnt"],
+      "du": ["hattest können", "hattest gekonnt"],
+      "er": ["hatte können", "hatte gekonnt"],
+      "sie": ["hatte können", "hatte gekonnt"],
+      "es": ["hatte können", "hatte gekonnt"],
+      "wir": ["hatten können", "hatten gekonnt"],
+      "ihr": ["hattet können", "hattet gekonnt"],
+      "sie_pl": ["hatten können", "hatten gekonnt"],
+      "Sie": ["hatten können", "hatten gekonnt"]
+    },
+    "futur1": {
+      "ich": "werde können",
+      "du": "wirst können",
+      "er": "wird können",
+      "sie": "wird können",
+      "es": "wird können",
+      "wir": "werden können",
+      "ihr": "werdet können",
+      "sie_pl": "werden können",
+      "Sie": "werden können"
+    },
+    "futur2": {
+      "ich": ["werde können haben", "werde gekonnt haben"],
+      "du": ["wirst können haben", "wirst gekonnt haben"],
+      "er": ["wird können haben", "wird gekonnt haben"],
+      "sie": ["wird können haben", "wird gekonnt haben"],
+      "es": ["wird können haben", "wird gekonnt haben"],
+      "wir": ["werden können haben", "werden gekonnt haben"],
+      "ihr": ["werdet können haben", "werdet gekonnt haben"],
+      "sie_pl": ["werden können haben", "werden gekonnt haben"],
+      "Sie": ["werden können haben", "werden gekonnt haben"]
+    },
+    "partizip1": "könnend",
+    "partizip2": ["gekonnt", "können"]
+  },
+  {
+    "infinitiv": "mögen",
+    "praesens": {
+      "ich": "mag",
+      "du": "magst",
+      "er": "mag",
+      "sie": "mag",
+      "es": "mag",
+      "wir": "mögen",
+      "ihr": "mögt",
+      "sie_pl": "mögen",
+      "Sie": "mögen"
+    },
+    "praeteritum": {
+      "ich": "mochte",
+      "du": "mochtest",
+      "er": "mochte",
+      "sie": "mochte",
+      "es": "mochte",
+      "wir": "mochten",
+      "ihr": "mochtet",
+      "sie_pl": "mochten",
+      "Sie": "mochten"
+    },
+    "perfekt": {
+      "ich": "habe gemocht",
+      "du": "hast gemocht",
+      "er": "hat gemocht",
+      "sie": "hat gemocht",
+      "es": "hat gemocht",
+      "wir": "haben gemocht",
+      "ihr": "habt gemocht",
+      "sie_pl": "haben gemocht",
+      "Sie": "haben gemocht"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gemocht",
+      "du": "hattest gemocht",
+      "er": "hatte gemocht",
+      "sie": "hatte gemocht",
+      "es": "hatte gemocht",
+      "wir": "hatten gemocht",
+      "ihr": "hattet gemocht",
+      "sie_pl": "hatten gemocht",
+      "Sie": "hatten gemocht"
+    },
+    "futur1": {
+      "ich": "werde mögen",
+      "du": "wirst mögen",
+      "er": "wird mögen",
+      "sie": "wird mögen",
+      "es": "wird mögen",
+      "wir": "werden mögen",
+      "ihr": "werdet mögen",
+      "sie_pl": "werden mögen",
+      "Sie": "werden mögen"
+    },
+    "futur2": {
+      "ich": "werde gemocht haben",
+      "du": "wirst gemocht haben",
+      "er": "wird gemocht haben",
+      "sie": "wird gemocht haben",
+      "es": "wird gemocht haben",
+      "wir": "werden gemocht haben",
+      "ihr": "werdet gemocht haben",
+      "sie_pl": "werden gemocht haben",
+      "Sie": "werden gemocht haben"
+    },
+    "partizip1": "mögend",
+    "partizip2": "gemocht"
+  },
+  {
+    "infinitiv": "müssen",
+    "praesens": {
+      "ich": "muss",
+      "du": "musst",
+      "er": "muss",
+      "sie": "muss",
+      "es": "muss",
+      "wir": "müssen",
+      "ihr": "müsst",
+      "sie_pl": "müssen",
+      "Sie": "müssen"
+    },
+    "praeteritum": {
+      "ich": "musste",
+      "du": "musstest",
+      "er": "musste",
+      "sie": "musste",
+      "es": "musste",
+      "wir": "mussten",
+      "ihr": "musstet",
+      "sie_pl": "mussten",
+      "Sie": "mussten"
+    },
+    "perfekt": {
+      "ich": ["habe müssen", "habe gemusst"],
+      "du": ["hast müssen", "hast gemusst"],
+      "er": ["hat müssen", "hat gemusst"],
+      "sie": ["hat müssen", "hat gemusst"],
+      "es": ["hat müssen", "hat gemusst"],
+      "wir": ["haben müssen", "haben gemusst"],
+      "ihr": ["habt müssen", "habt gemusst"],
+      "sie_pl": ["haben müssen", "haben gemusst"],
+      "Sie": ["haben müssen", "haben gemusst"]
+    },
+    "plusquamperfekt": {
+      "ich": ["hatte müssen", "hatte gemusst"],
+      "du": ["hattest müssen", "hattest gemusst"],
+      "er": ["hatte müssen", "hatte gemusst"],
+      "sie": ["hatte müssen", "hatte gemusst"],
+      "es": ["hatte müssen", "hatte gemusst"],
+      "wir": ["hatten müssen", "hatten gemusst"],
+      "ihr": ["hattet müssen", "hattet gemusst"],
+      "sie_pl": ["hatten müssen", "hatten gemusst"],
+      "Sie": ["hatten müssen", "hatten gemusst"]
+    },
+    "futur1": {
+      "ich": "werde müssen",
+      "du": "wirst müssen",
+      "er": "wird müssen",
+      "sie": "wird müssen",
+      "es": "wird müssen",
+      "wir": "werden müssen",
+      "ihr": "werdet müssen",
+      "sie_pl": "werden müssen",
+      "Sie": "werden müssen"
+    },
+    "futur2": {
+      "ich": ["werde müssen haben", "werde gemusst haben"],
+      "du": ["wirst müssen haben", "wirst gemusst haben"],
+      "er": ["wird müssen haben", "wird gemusst haben"],
+      "sie": ["wird müssen haben", "wird gemusst haben"],
+      "es": ["wird müssen haben", "wird gemusst haben"],
+      "wir": ["werden müssen haben", "werden gemusst haben"],
+      "ihr": ["werdet müssen haben", "werdet gemusst haben"],
+      "sie_pl": ["werden müssen haben", "werden gemusst haben"],
+      "Sie": ["werden müssen haben", "werden gemusst haben"]
+    },
+    "partizip1": "müssend",
+    "partizip2": ["gemusst", "müssen"]
+  },
+  {
+    "infinitiv": "sollen",
+    "praesens": {
+      "ich": "soll",
+      "du": "sollst",
+      "er": "soll",
+      "sie": "soll",
+      "es": "soll",
+      "wir": "sollen",
+      "ihr": "sollt",
+      "sie_pl": "sollen",
+      "Sie": "sollen"
+    },
+    "praeteritum": {
+      "ich": "sollte",
+      "du": "solltest",
+      "er": "sollte",
+      "sie": "sollte",
+      "es": "sollte",
+      "wir": "sollten",
+      "ihr": "solltet",
+      "sie_pl": "sollten",
+      "Sie": "sollten"
+    },
+    "perfekt": {
+      "ich": ["habe sollen", "habe gesollt"],
+      "du": ["hast sollen", "hast gesollt"],
+      "er": ["hat sollen", "hat gesollt"],
+      "sie": ["hat sollen", "hat gesollt"],
+      "es": ["hat sollen", "hat gesollt"],
+      "wir": ["haben sollen", "haben gesollt"],
+      "ihr": ["habt sollen", "habt gesollt"],
+      "sie_pl": ["haben sollen", "haben gesollt"],
+      "Sie": ["haben sollen", "haben gesollt"]
+    },
+    "plusquamperfekt": {
+      "ich": ["hatte sollen", "hatte gesollt"],
+      "du": ["hattest sollen", "hattest gesollt"],
+      "er": ["hatte sollen", "hatte gesollt"],
+      "sie": ["hatte sollen", "hatte gesollt"],
+      "es": ["hatte sollen", "hatte gesollt"],
+      "wir": ["hatten sollen", "hatten gesollt"],
+      "ihr": ["hattet sollen", "hattet gesollt"],
+      "sie_pl": ["hatten sollen", "hatten gesollt"],
+      "Sie": ["hatten sollen", "hatten gesollt"]
+    },
+    "futur1": {
+      "ich": "werde sollen",
+      "du": "wirst sollen",
+      "er": "wird sollen",
+      "sie": "wird sollen",
+      "es": "wird sollen",
+      "wir": "werden sollen",
+      "ihr": "werdet sollen",
+      "sie_pl": "werden sollen",
+      "Sie": "werden sollen"
+    },
+    "futur2": {
+      "ich": ["werde sollen haben", "werde gesollt haben"],
+      "du": ["wirst sollen haben", "wirst gesollt haben"],
+      "er": ["wird sollen haben", "wird gesollt haben"],
+      "sie": ["wird sollen haben", "wird gesollt haben"],
+      "es": ["wird sollen haben", "wird gesollt haben"],
+      "wir": ["werden sollen haben", "werden gesollt haben"],
+      "ihr": ["werdet sollen haben", "werdet gesollt haben"],
+      "sie_pl": ["werden sollen haben", "werden gesollt haben"],
+      "Sie": ["werden sollen haben", "werden gesollt haben"]
+    },
+    "partizip1": "sollend",
+    "partizip2": ["gesollt", "sollen"]
+  },
+  {
+    "infinitiv": "wollen",
+    "praesens": {
+      "ich": "will",
+      "du": "willst",
+      "er": "will",
+      "sie": "will",
+      "es": "will",
+      "wir": "wollen",
+      "ihr": "wollt",
+      "sie_pl": "wollen",
+      "Sie": "wollen"
+    },
+    "praeteritum": {
+      "ich": "wollte",
+      "du": "wolltest",
+      "er": "wollte",
+      "sie": "wollte",
+      "es": "wollte",
+      "wir": "wollten",
+      "ihr": "wolltet",
+      "sie_pl": "wollten",
+      "Sie": "wollten"
+    },
+    "perfekt": {
+      "ich": ["habe wollen", "habe gewollt"],
+      "du": ["hast wollen", "hast gewollt"],
+      "er": ["hat wollen", "hat gewollt"],
+      "sie": ["hat wollen", "hat gewollt"],
+      "es": ["hat wollen", "hat gewollt"],
+      "wir": ["haben wollen", "haben gewollt"],
+      "ihr": ["habt wollen", "habt gewollt"],
+      "sie_pl": ["haben wollen", "haben gewollt"],
+      "Sie": ["haben wollen", "haben gewollt"]
+    },
+    "plusquamperfekt": {
+      "ich": ["hatte wollen", "hatte gewollt"],
+      "du": ["hattest wollen", "hattest gewollt"],
+      "er": ["hatte wollen", "hatte gewollt"],
+      "sie": ["hatte wollen", "hatte gewollt"],
+      "es": ["hatte wollen", "hatte gewollt"],
+      "wir": ["hatten wollen", "hatten gewollt"],
+      "ihr": ["hattet wollen", "hattet gewollt"],
+      "sie_pl": ["hatten wollen", "hatten gewollt"],
+      "Sie": ["hatten wollen", "hatten gewollt"]
+    },
+    "futur1": {
+      "ich": "werde wollen",
+      "du": "wirst wollen",
+      "er": "wird wollen",
+      "sie": "wird wollen",
+      "es": "wird wollen",
+      "wir": "werden wollen",
+      "ihr": "werdet wollen",
+      "sie_pl": "werden wollen",
+      "Sie": "werden wollen"
+    },
+    "futur2": {
+      "ich": ["werde wollen haben", "werde gewollt haben"],
+      "du": ["wirst wollen haben", "wirst gewollt haben"],
+      "er": ["wird wollen haben", "wird gewollt haben"],
+      "sie": ["wird wollen haben", "wird gewollt haben"],
+      "es": ["wird wollen haben", "wird gewollt haben"],
+      "wir": ["werden wollen haben", "werden gewollt haben"],
+      "ihr": ["werdet wollen haben", "werdet gewollt haben"],
+      "sie_pl": ["werden wollen haben", "werden gewollt haben"],
+      "Sie": ["werden wollen haben", "werden gewollt haben"]
+    },
+    "partizip1": "wollend",
+    "partizip2": "gewollt"
+  }
+]
