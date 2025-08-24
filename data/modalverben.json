@@ -423,6 +423,6 @@
       "Sie": ["werden wollen haben", "werden gewollt haben"]
     },
     "partizip1": "wollend",
-    "partizip2": "gewollt"
+    "partizip2": ["gewollt", "wollen"]
   }
 ]
