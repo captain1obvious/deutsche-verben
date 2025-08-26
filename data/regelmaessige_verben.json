@@ -448,5 +448,455 @@
     },
     "partizip1": "brauchend",
     "partizip2": "gebraucht"
+  },
+  {
+    "infinitiv": "leben",
+    "praesens": {
+      "ich": "lebe",
+      "du": "lebst",
+      "er": "lebt",
+      "sie": "lebt",
+      "es": "lebt",
+      "wir": "leben",
+      "ihr": "lebt",
+      "sie_pl": "leben",
+      "Sie": "leben"
+    },
+    "praeteritum": {
+      "ich": "lebte",
+      "du": "lebtest",
+      "er": "lebte",
+      "sie": "lebte",
+      "es": "lebte",
+      "wir": "lebten",
+      "ihr": "lebtet",
+      "sie_pl": "lebten",
+      "Sie": "lebten"
+    },
+    "perfekt": {
+      "ich": "habe gelebt",
+      "du": "hast gelebt",
+      "er": "hat gelebt",
+      "sie": "hat gelebt",
+      "es": "hat gelebt",
+      "wir": "haben gelebt",
+      "ihr": "habt gelebt",
+      "sie_pl": "haben gelebt",
+      "Sie": "haben gelebt"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gelebt",
+      "du": "hattest gelebt",
+      "er": "hatte gelebt",
+      "sie": "hatte gelebt",
+      "es": "hatte gelebt",
+      "wir": "hatten gelebt",
+      "ihr": "hattet gelebt",
+      "sie_pl": "hatten gelebt",
+      "Sie": "hatten gelebt"
+    },
+    "futur1": {
+      "ich": "werde leben",
+      "du": "wirst leben",
+      "er": "wird leben",
+      "sie": "wird leben",
+      "es": "wird leben",
+      "wir": "werden leben",
+      "ihr": "werdet leben",
+      "sie_pl": "werden leben",
+      "Sie": "werden leben"
+    },
+    "futur2": {
+      "ich": "werde gelebt haben",
+      "du": "wirst gelebt haben",
+      "er": "wird gelebt haben",
+      "sie": "wird gelebt haben",
+      "es": "wird gelebt haben",
+      "wir": "werden gelebt haben",
+      "ihr": "werdet gelebt haben",
+      "sie_pl": "werden gelebt haben",
+      "Sie": "werden gelebt haben"
+    },
+    "imperativ": {
+      "du": "lebe",
+      "ihr": "lebt"
+    },
+    "partizip1": "lebend",
+    "partizip2": "gelebt"
+  },
+  {
+    "infinitiv": "wohnen",
+    "praesens": {
+      "ich": "wohne",
+      "du": "wohnst",
+      "er": "wohnt",
+      "sie": "wohnt",
+      "es": "wohnt",
+      "wir": "wohnen",
+      "ihr": "wohnt",
+      "sie_pl": "wohnen",
+      "Sie": "wohnen"
+    },
+    "praeteritum": {
+      "ich": "wohnte",
+      "du": "wohntest",
+      "er": "wohnte",
+      "sie": "wohnte",
+      "es": "wohnte",
+      "wir": "wohnten",
+      "ihr": "wohntet",
+      "sie_pl": "wohnten",
+      "Sie": "wohnten"
+    },
+    "perfekt": {
+      "ich": "habe gewohnt",
+      "du": "hast gewohnt",
+      "er": "hat gewohnt",
+      "sie": "hat gewohnt",
+      "es": "hat gewohnt",
+      "wir": "haben gewohnt",
+      "ihr": "habt gewohnt",
+      "sie_pl": "haben gewohnt",
+      "Sie": "haben gewohnt"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gewohnt",
+      "du": "hattest gewohnt",
+      "er": "hatte gewohnt",
+      "sie": "hatte gewohnt",
+      "es": "hatte gewohnt",
+      "wir": "hatten gewohnt",
+      "ihr": "hattet gewohnt",
+      "sie_pl": "hatten gewohnt",
+      "Sie": "hatten gewohnt"
+    },
+    "futur1": {
+      "ich": "werde wohnen",
+      "du": "wirst wohnen",
+      "er": "wird wohnen",
+      "sie": "wird wohnen",
+      "es": "wird wohnen",
+      "wir": "werden wohnen",
+      "ihr": "werdet wohnen",
+      "sie_pl": "werden wohnen",
+      "Sie": "werden wohnen"
+    },
+    "futur2": {
+      "ich": "werde gewohnt haben",
+      "du": "wirst gewohnt haben",
+      "er": "wird gewohnt haben",
+      "sie": "wird gewohnt haben",
+      "es": "wird gewohnt haben",
+      "wir": "werden gewohnt haben",
+      "ihr": "werdet gewohnt haben",
+      "sie_pl": "werden gewohnt haben",
+      "Sie": "werden gewohnt haben"
+    },
+    "imperativ": {
+      "du": "wohne",
+      "ihr": "wohnt"
+    },
+    "partizip1": "wohnend",
+    "partizip2": "gewohnt"
+  },
+  {
+    "infinitiv": "lieben",
+    "praesens": {
+      "ich": "liebe",
+      "du": "liebst",
+      "er": "liebt",
+      "sie": "liebt",
+      "es": "liebt",
+      "wir": "lieben",
+      "ihr": "liebt",
+      "sie_pl": "lieben",
+      "Sie": "lieben"
+    },
+    "praeteritum": {
+      "ich": "liebte",
+      "du": "liebtest",
+      "er": "liebte",
+      "sie": "liebte",
+      "es": "liebte",
+      "wir": "liebten",
+      "ihr": "liebtet",
+      "sie_pl": "liebten",
+      "Sie": "liebten"
+    },
+    "perfekt": {
+      "ich": "habe geliebt",
+      "du": "hast geliebt",
+      "er": "hat geliebt",
+      "sie": "hat geliebt",
+      "es": "hat geliebt",
+      "wir": "haben geliebt",
+      "ihr": "habt geliebt",
+      "sie_pl": "haben geliebt",
+      "Sie": "haben geliebt"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte geliebt",
+      "du": "hattest geliebt",
+      "er": "hatte geliebt",
+      "sie": "hatte geliebt",
+      "es": "hatte geliebt",
+      "wir": "hatten geliebt",
+      "ihr": "hattet geliebt",
+      "sie_pl": "hatten geliebt",
+      "Sie": "hatten geliebt"
+    },
+    "futur1": {
+      "ich": "werde lieben",
+      "du": "wirst lieben",
+      "er": "wird lieben",
+      "sie": "wird lieben",
+      "es": "wird lieben",
+      "wir": "werden lieben",
+      "ihr": "werdet lieben",
+      "sie_pl": "werden lieben",
+      "Sie": "werden lieben"
+    },
+    "futur2": {
+      "ich": "werde geliebt haben",
+      "du": "wirst geliebt haben",
+      "er": "wird geliebt haben",
+      "sie": "wird geliebt haben",
+      "es": "wird geliebt haben",
+      "wir": "werden geliebt haben",
+      "ihr": "werdet geliebt haben",
+      "sie_pl": "werden geliebt haben",
+      "Sie": "werden geliebt haben"
+    },
+    "imperativ": {
+      "du": "liebe",
+      "ihr": "liebt"
+    },
+    "partizip1": "liebend",
+    "partizip2": "geliebt"
+  },
+  {
+    "infinitiv": "hassen",
+    "praesens": {
+      "ich": "hasse",
+      "du": "hasst",
+      "er": "hasst",
+      "sie": "hasst",
+      "es": "hasst",
+      "wir": "hassen",
+      "ihr": "hasst",
+      "sie_pl": "hassen",
+      "Sie": "hassen"
+    },
+    "praeteritum": {
+      "ich": "hasste",
+      "du": "hasstest",
+      "er": "hasste",
+      "sie": "hasste",
+      "es": "hasste",
+      "wir": "hassten",
+      "ihr": "hasstet",
+      "sie_pl": "hassten",
+      "Sie": "hassten"
+    },
+    "perfekt": {
+      "ich": "habe gehasst",
+      "du": "hast gehasst",
+      "er": "hat gehasst",
+      "sie": "hat gehasst",
+      "es": "hat gehasst",
+      "wir": "haben gehasst",
+      "ihr": "habt gehasst",
+      "sie_pl": "haben gehasst",
+      "Sie": "haben gehasst"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gehasst",
+      "du": "hattest gehasst",
+      "er": "hatte gehasst",
+      "sie": "hatte gehasst",
+      "es": "hatte gehasst",
+      "wir": "hatten gehasst",
+      "ihr": "hattet gehasst",
+      "sie_pl": "hatten gehasst",
+      "Sie": "hatten gehasst"
+    },
+    "futur1": {
+      "ich": "werde hassen",
+      "du": "wirst hassen",
+      "er": "wird hassen",
+      "sie": "wird hassen",
+      "es": "wird hassen",
+      "wir": "werden hassen",
+      "ihr": "werdet hassen",
+      "sie_pl": "werden hassen",
+      "Sie": "werden hassen"
+    },
+    "futur2": {
+      "ich": "werde gehasst haben",
+      "du": "wirst gehasst haben",
+      "er": "wird gehasst haben",
+      "sie": "wird gehasst haben",
+      "es": "wird gehasst haben",
+      "wir": "werden gehasst haben",
+      "ihr": "werdet gehasst haben",
+      "sie_pl": "werden gehasst haben",
+      "Sie": "werden gehasst haben"
+    },
+    "imperativ": {
+      "du": "hasse",
+      "ihr": "hasst"
+    },
+    "partizip1": "hassend",
+    "partizip2": "gehasst"
+  },
+  {
+    "infinitiv": "heiraten",
+    "praesens": {
+      "ich": "heirate",
+      "du": "heiratest",
+      "er": "heiratet",
+      "sie": "heiratet",
+      "es": "heiratet",
+      "wir": "heiraten",
+      "ihr": "heiratet",
+      "sie_pl": "heiraten",
+      "Sie": "heiraten"
+    },
+    "praeteritum": {
+      "ich": "heiratete",
+      "du": "heiratetest",
+      "er": "heiratete",
+      "sie": "heiratete",
+      "es": "heiratete",
+      "wir": "heirateten",
+      "ihr": "heiratetet",
+      "sie_pl": "heirateten",
+      "Sie": "heirateten"
+    },
+    "perfekt": {
+      "ich": "habe geheiratet",
+      "du": "hast geheiratet",
+      "er": "hat geheiratet",
+      "sie": "hat geheiratet",
+      "es": "hat geheiratet",
+      "wir": "haben geheiratet",
+      "ihr": "habt geheiratet",
+      "sie_pl": "haben geheiratet",
+      "Sie": "haben geheiratet"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte geheiratet",
+      "du": "hattest geheiratet",
+      "er": "hatte geheiratet",
+      "sie": "hatte geheiratet",
+      "es": "hatte geheiratet",
+      "wir": "hatten geheiratet",
+      "ihr": "hattet geheiratet",
+      "sie_pl": "hatten geheiratet",
+      "Sie": "hatten geheiratet"
+    },
+    "futur1": {
+      "ich": "werde heiraten",
+      "du": "wirst heiraten",
+      "er": "wird heiraten",
+      "sie": "wird heiraten",
+      "es": "wird heiraten",
+      "wir": "werden heiraten",
+      "ihr": "werdet heiraten",
+      "sie_pl": "werden heiraten",
+      "Sie": "werden heiraten"
+    },
+    "futur2": {
+      "ich": "werde geheiratet haben",
+      "du": "wirst geheiratet haben",
+      "er": "wird geheiratet haben",
+      "sie": "wird geheiratet haben",
+      "es": "wird geheiratet haben",
+      "wir": "werden geheiratet haben",
+      "ihr": "werdet geheiratet haben",
+      "sie_pl": "werden geheiratet haben",
+      "Sie": "werden geheiratet haben"
+    },
+    "imperativ": {
+      "du": "heirate",
+      "ihr": "heiratet"
+    },
+    "partizip1": "heiratend",
+    "partizip2": "geheiratet"
+  },
+  {
+    "infinitiv": "suchen",
+    "praesens": {
+      "ich": "suche",
+      "du": "suchst",
+      "er": "sucht",
+      "sie": "sucht",
+      "es": "sucht",
+      "wir": "suchen",
+      "ihr": "sucht",
+      "sie_pl": "suchen",
+      "Sie": "suchen"
+    },
+    "praeteritum": {
+      "ich": "suchte",
+      "du": "suchtest",
+      "er": "suchte",
+      "sie": "suchte",
+      "es": "suchte",
+      "wir": "suchten",
+      "ihr": "suchtet",
+      "sie_pl": "suchten",
+      "Sie": "suchten"
+    },
+    "perfekt": {
+      "ich": "habe gesucht",
+      "du": "hast gesucht",
+      "er": "hat gesucht",
+      "sie": "hat gesucht",
+      "es": "hat gesucht",
+      "wir": "haben gesucht",
+      "ihr": "habt gesucht",
+      "sie_pl": "haben gesucht",
+      "Sie": "haben gesucht"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gesucht",
+      "du": "hattest gesucht",
+      "er": "hatte gesucht",
+      "sie": "hatte gesucht",
+      "es": "hatte gesucht",
+      "wir": "hatten gesucht",
+      "ihr": "hattet gesucht",
+      "sie_pl": "hatten gesucht",
+      "Sie": "hatten gesucht"
+    },
+    "futur1": {
+      "ich": "werde suchen",
+      "du": "wirst suchen",
+      "er": "wird suchen",
+      "sie": "wird suchen",
+      "es": "wird suchen",
+      "wir": "werden suchen",
+      "ihr": "werdet suchen",
+      "sie_pl": "werden suchen",
+      "Sie": "werden suchen"
+    },
+    "futur2": {
+      "ich": "werde gesucht haben",
+      "du": "wirst gesucht haben",
+      "er": "wird gesucht haben",
+      "sie": "wird gesucht haben",
+      "es": "wird gesucht haben",
+      "wir": "werden gesucht haben",
+      "ihr": "werdet gesucht haben",
+      "sie_pl": "werden gesucht haben",
+      "Sie": "werden gesucht haben"
+    },
+    "imperativ": {
+      "du": "such",
+      "ihr": "sucht"
+    },
+    "partizip1": "suchend",
+    "partizip2": "gesucht"
   }
 ]
