@@ -23,14 +23,14 @@ const tenseMap = {
 };
 
 let verbList = [];
-let currentCategory = "regelmaessige_verben"; // Standardkategorie
+let currentCategory = "alle"; // Standardkategorie
 let currentVerb = null;
 let currentTenseKey = null;
 let currentPerson = null;
 let answerWasCorrect = false;
 let allowedPersons;
 
-async function loadVerbs(category = "regelmaessige_verben") {
+async function loadVerbs(category = "alle") {
   try {
     // Lade die Verben basierend auf der ausgewählten Kategorie
     if (category === "alle") {
@@ -100,7 +100,7 @@ function updateExercise() {
     document.getElementById("person-desc").textContent = "-";
     document.getElementById("pronoun-label").textContent = "-";
   } else {
-    // HTML aktualisieren
+    // HTML aktualisieren falls eine passende Form gefunden wurde
     document.getElementById("infinitive").textContent = currentVerb.infinitiv;
     document.getElementById("tense").textContent = tenseMap[currentTenseKey];
     document.getElementById("tense").style.color = "black"; // Standardfarbe
