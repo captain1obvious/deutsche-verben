@@ -96,10 +96,11 @@ function applyTranslations() {
   // Feedback ggf. übersetzen
   translateFeedback();
 
-  // Infinitiv-Übersetzung anzeigen, falls Englisch
   if (currentLang !== "de" && currentVerb && currentVerb["translation_" + currentLang]) {
-  document.getElementById("infinitive").textContent = `${currentVerb.infinitiv} (${currentVerb["translation_" + currentLang]})`;
-}
+    document.getElementById("infinitive").textContent = `${currentVerb.infinitiv} (${currentVerb["translation_" + currentLang]})`;
+  } else {
+    document.getElementById("infinitive").textContent = currentVerb.infinitiv;
+  }
 }
 
 function translateFeedback() {
@@ -172,8 +173,8 @@ function updateExercise() {
     document.getElementById("pronoun-label").textContent = "-";
   } else {
     // Infinitiv ggf. mit Übersetzung
-    if (currentLang === "en" && currentVerb.translation) {
-      document.getElementById("infinitive").textContent = `${currentVerb.infinitiv} (${currentVerb.translation})`;
+    if (currentLang !== "de" && currentVerb && currentVerb["translation_" + currentLang]) {
+    document.getElementById("infinitive").textContent = `${currentVerb.infinitiv} (${currentVerb["translation_" + currentLang]})`;
     } else {
       document.getElementById("infinitive").textContent = currentVerb.infinitiv;
     }
