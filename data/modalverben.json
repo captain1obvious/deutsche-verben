@@ -1,6 +1,9 @@
 [
   {
     "infinitiv": "dürfen",
+    "translation_en": "to be allowed to",
+    "translation_es": "tener permiso para",
+    "translation_pt": "ter permissão para",
     "praesens": {
       "ich": "darf",
       "du": "darfst",
@@ -72,6 +75,9 @@
   },
   {
     "infinitiv": "können",
+    "translation_en": "to be able to",
+    "translation_es": "poder",
+    "translation_pt": "poder",
     "praesens": {
       "ich": "kann",
       "du": "kannst",
@@ -143,6 +149,9 @@
   },
   {
     "infinitiv": "mögen",
+    "translation_en": "to like",
+    "translation_es": "gustar",
+    "translation_pt": "gostar",
     "praesens": {
       "ich": "mag",
       "du": "magst",
@@ -214,6 +223,9 @@
   },
   {
     "infinitiv": "müssen",
+    "translation_en": "to have to",
+    "translation_es": "tener que",
+    "translation_pt": "ter que",
     "praesens": {
       "ich": "muss",
       "du": "musst",
@@ -285,6 +297,9 @@
   },
   {
     "infinitiv": "sollen",
+    "translation_en": "should, to be supposed to",
+    "translation_es": "deber",
+    "translation_pt": "dever",
     "praesens": {
       "ich": "soll",
       "du": "sollst",
@@ -356,6 +371,9 @@
   },
   {
     "infinitiv": "wollen",
+    "translation_en": "to want to",
+    "translation_es": "querer",
+    "translation_pt": "querer",
     "praesens": {
       "ich": "will",
       "du": "willst",
