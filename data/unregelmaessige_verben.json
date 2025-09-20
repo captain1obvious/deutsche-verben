@@ -1,6 +1,9 @@
 [
   {
     "infinitiv": "bringen",
+    "translation_en": "to bring",
+    "translation_es": "traer",
+    "translation_pt": "trazer",
     "praesens": {
       "ich": "bringe",
       "du": "bringst",
@@ -76,6 +79,9 @@
   },
   {
     "infinitiv": "denken",
+    "translation_en": "to think",
+    "translation_es": "pensar",
+    "translation_pt": "pensar",
     "praesens": {
       "ich": "denke",
       "du": "denkst",
@@ -151,6 +157,9 @@
   },
   {
     "infinitiv": "essen",
+    "translation_en": "to eat",
+    "translation_es": "comer",
+    "translation_pt": "comer",
     "praesens": {
       "ich": "esse",
       "du": "isst",
@@ -226,6 +235,9 @@
   },
   {
     "infinitiv": "fahren",
+    "translation_en": "to drive/go",
+    "translation_es": "conducir/ir",
+    "translation_pt": "dirigir/ir",
     "praesens": {
       "ich": "fahre",
       "du": "fährst",
@@ -301,6 +313,9 @@
   },
   {
     "infinitiv": "geben",
+    "translation_en": "to give",
+    "translation_es": "dar",
+    "translation_pt": "dar",
     "praesens": {
       "ich": "gebe",
       "du": "gibst",
@@ -376,6 +391,9 @@
   },
   {
     "infinitiv": "lesen",
+    "translation_en": "to read",
+    "translation_es": "leer",
+    "translation_pt": "ler",
     "praesens": {
       "ich": "lese",
       "du": "liest",
@@ -451,6 +469,9 @@
   },
   {
   "infinitiv": "sehen",
+  "translation_en": "to see",
+  "translation_es": "ver",
+  "translation_pt": "ver",
   "praesens": {
     "ich": "sehe",
     "du": "siehst",

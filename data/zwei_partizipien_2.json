@@ -1,6 +1,9 @@
 [
   {
     "infinitiv": "backen",
+    "translation_en": "to bake",
+    "translation_es": "hornear",
+    "translation_pt": "assar",
     "praesens": {
       "ich": "backe",
       "du": "bäckst",
@@ -76,6 +79,9 @@
   },
   {
     "infinitiv": "hängen",
+    "translation_en": "to hang",
+    "translation_es": "colgar",
+    "translation_pt": "pendurar",
     "praesens": {
       "ich": "hänge",
       "du": "hängst",
@@ -151,6 +157,9 @@
   },
   {
     "infinitiv": "saugen",
+    "translation_en": "to suck/vacuum",
+    "translation_es": "chupar/aspirar",
+    "translation_pt": "sugar/aspirar",
     "praesens": {
       "ich": "sauge",
       "du": "saugst",
@@ -226,6 +235,9 @@
   },
   {
     "infinitiv": "senden",
+    "translation_en": "to send",
+    "translation_es": "enviar",
+    "translation_pt": "enviar",
     "praesens": {
       "ich": "sende",
       "du": "sendest",
@@ -301,6 +313,9 @@
   },
   {
   "infinitiv": "wachsen",
+  "translation_en": "to grow",
+  "translation_es": "crecer",
+  "translation_pt": "crescer",
   "praesens": {
     "ich": "wachse",
     "du": "wächst",
@@ -376,6 +391,9 @@
   },
   {
   "infinitiv": "winken",
+  "translation_en": "to wave",
+  "translation_es": "saludar con la mano",
+  "translation_pt": "acenar",
   "praesens": {
     "ich": "winke",
     "du": "winkst",

@@ -1,6 +1,9 @@
 [
   {
     "infinitiv": "haben",
+    "translation_en": "to have",
+    "translation_es": "tener",
+    "translation_pt": "ter",
     "praesens": {
       "ich": "habe",
       "du": "hast",
@@ -76,6 +79,9 @@
   },
   {
     "infinitiv": "sein",
+    "translation_en": "to be",
+    "translation_es": "ser/estar",
+    "translation_pt": "ser/estar",
     "praesens": {
       "ich": "bin",
       "du": "bist",
@@ -151,6 +157,9 @@
   },
   {
     "infinitiv": "werden",
+    "translation_en": "to become",
+    "translation_es": "llegar a ser/convertirse/ponerse",
+    "translation_pt": "tornar-se/ficar",
     "praesens": {
       "ich": "werde",
       "du": "wirst",

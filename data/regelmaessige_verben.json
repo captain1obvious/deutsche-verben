@@ -1,6 +1,9 @@
 [
   {
     "infinitiv": "machen",
+    "translation_en": "to do/make",
+    "translation_es": "hacer",
+    "translation_pt": "fazer",
     "praesens": {
       "ich": "mache",
       "du": "machst",
@@ -76,6 +79,9 @@
   },
   {
     "infinitiv": "kaufen",
+    "translation_en": "to buy",
+    "translation_es": "comprar",
+    "translation_pt": "comprar",
     "praesens": {
       "ich": "kaufe",
       "du": "kaufst",
@@ -151,6 +157,9 @@
   },
   {
     "infinitiv": "lernen",
+    "translation_en": "to learn",
+    "translation_es": "aprender",
+    "translation_pt": "aprender",
     "praesens": {
       "ich": "lerne",
       "du": "lernst",
@@ -226,6 +235,9 @@
   },
   {
     "infinitiv": "arbeiten",
+    "translation_en": "to work",
+    "translation_es": "trabajar",
+    "translation_pt": "trabalhar",
     "praesens": {
       "ich": "arbeite",
       "du": "arbeitest",
@@ -301,6 +313,9 @@
   },
   {
     "infinitiv": "finden",
+    "translation_en": "to find",
+    "translation_es": "encontrar",
+    "translation_pt": "encontrar",
     "praesens": {
       "ich": "finde",
       "du": "findest",
@@ -376,6 +391,9 @@
   },
   {
     "infinitiv": "brauchen",
+    "translation_en": "to need",
+    "translation_es": "necesitar",
+    "translation_pt": "precisar",
     "praesens": {
       "ich": "brauche",
       "du": "brauchst",
@@ -451,6 +469,9 @@
   },
   {
     "infinitiv": "leben",
+    "translation_en": "to live",
+    "translation_es": "vivir",
+    "translation_pt": "viver",
     "praesens": {
       "ich": "lebe",
       "du": "lebst",
@@ -526,6 +547,9 @@
   },
   {
     "infinitiv": "wohnen",
+    "translation_en": "to live (reside)",
+    "translation_es": "residir/morar",
+    "translation_pt": "residir/morar",
     "praesens": {
       "ich": "wohne",
       "du": "wohnst",
@@ -601,6 +625,9 @@
   },
   {
     "infinitiv": "lieben",
+    "translation_en": "to love",
+    "translation_es": "amar",
+    "translation_pt": "amar",
     "praesens": {
       "ich": "liebe",
       "du": "liebst",
@@ -676,6 +703,9 @@
   },
   {
     "infinitiv": "hassen",
+    "translation_en": "to hate",
+    "translation_es": "odiar",
+    "translation_pt": "odiar",
     "praesens": {
       "ich": "hasse",
       "du": "hasst",
@@ -751,6 +781,9 @@
   },
   {
     "infinitiv": "heiraten",
+    "translation_en": "to marry",
+    "translation_es": "casarse",
+    "translation_pt": "casar-se",
     "praesens": {
       "ich": "heirate",
       "du": "heiratest",
@@ -826,6 +859,9 @@
   },
   {
     "infinitiv": "suchen",
+    "translation_en": "to search/look for",
+    "translation_es": "buscar",
+    "translation_pt": "procurar",
     "praesens": {
       "ich": "suche",
       "du": "suchst",
