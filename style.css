@@ -1,7 +1,7 @@
 /* Allgemeine Stile */
 body {
   font-family: 'Roboto', sans-serif;
-  padding: 20px;
+  padding-top: 60px;
   background: url('background.jpg') no-repeat center center fixed; /* Hintergrundbild */
   background-size: cover; /* Bild wird skaliert, um den gesamten Hintergrund zu füllen */
   color: #333;
@@ -24,6 +24,37 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+/* Sprachumschalter-Leiste */
+#language-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 44px;
+  background: rgba(255,255,255,0.7);
+  padding: 0 16px;
+  z-index: 1000;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* Sprachauswahl nach rechts */
+}
+
+#language-bar select {
+  margin-left: 0;
+  margin-right: 24px;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: auto;
+  padding: 6px 16px;
+  font-size: 14px;
+  border-radius: 12px;
+  border: 1px solid #ccc;
+  background: rgba(255,255,255,0.9);
+  cursor: pointer;
+}
+
 
 /* Container-Stile */
 #settings-container, #verb-container {

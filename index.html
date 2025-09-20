@@ -8,54 +8,60 @@
 </head>
 
 <body>
-    
-  <h1>Deutsche Verben trainieren</h1>
-  <h2>Mach dich fit in Deutsch!</h2>
-    <!-- Zeitform-Auswahl -->
-    <div id="settings-container">
-    <label for="verbCategory">Verb-Kategorie:</label>
+  <!-- Sprachumschalter -->
+  <div id="language-bar">
+    <select id="language-select">
+      <option value="de">Deutsch</option>
+      <option value="en">English</option>
+      <option value="es">Español</option>
+      <option value="pt">Português</option>
+    </select>
+  </div>
+
+  <h1 id="title">Deutsche Verben trainieren</h1>
+  <h2 id="subtitle">Mach dich fit in Deutsch!</h2>
+  <div id="settings-container">
+    <label for="verbCategory" id="verbCategory-label">Verb-Kategorie:</label>
     <select id="verbCategory">
-        <option value="alle">Alle Kategorien</option>
-        <option value="regelmaessige_verben">Regelmäßige Verben</option>
-        <option value="unregelmaessige_verben">Unregelmäßige Verben</option>
-        <option value="modalverben">Modalverben</option>
-        <option value="hilfsverben">Hilfsverben</option>
-        <option value="zwei_partizipien_2">Zwei Partizipien</option>
+      <option value="alle" id="allCategories">Alle Kategorien</option>
+      <option value="regelmaessige_verben" id="regularVerbs">Regelmäßige Verben</option>
+      <option value="unregelmaessige_verben" id="irregularVerbs">Unregelmäßige Verben</option>
+      <option value="modalverben" id="modalVerbs">Modalverben</option>
+      <option value="hilfsverben" id="auxiliaryVerbs">Hilfsverben</option>
+      <option value="zwei_partizipien_2" id="twoParticiples">Zwei Partizipien</option>
     </select>
-    <label for="tense-select">Zeitform wählen:</label>
+    <label for="tense-select" id="tenseSelect-label">Zeitform wählen:</label>
     <select id="tense-select">
-        <option value="random">Zufällig</option>
-        <option value="praesens">Präsens</option>
-        <option value="praeteritum">Präteritum</option>
-        <option value="perfekt">Perfekt</option>
-        <option value="plusquamperfekt">Plusquamperfekt</option>
-        <option value="futur1">Futur I</option>
-        <option value="futur2">Futur II</option>
-        <option value="imperativ">Imperativ</option>
-        <option value="partizip1">Partizip I</option>
-        <option value="partizip2">Partizip II</option>
+      <option value="random" id="random">Zufällig</option>
+      <option value="praesens" id="praesens">Präsens</option>
+      <option value="praeteritum" id="praeteritum">Präteritum</option>
+      <option value="perfekt" id="perfekt">Perfekt</option>
+      <option value="plusquamperfekt" id="plusquamperfekt">Plusquamperfekt</option>
+      <option value="futur1" id="futur1">Futur I</option>
+      <option value="futur2" id="futur2">Futur II</option>
+      <option value="imperativ" id="imperativ">Imperativ</option>
+      <option value="partizip1" id="partizip1">Partizip I</option>
+      <option value="partizip2" id="partizip2">Partizip II</option>
     </select>
-    </div>
+  </div>
 
-    <!-- Aufgabe -->
-    <div id="verb-container" style="display:none;">
-    <p><strong>Grundform:</strong> <span id="infinitive"></span></p>
-    <p><strong>Zeitform:</strong> <span id="tense"></span></p>
-    <p><strong>Person:</strong> <span id="person-desc"></span></p>
-
+  <!-- Aufgabe -->
+  <div id="verb-container" style="display:none;">
+    <p><strong id="infinitive-label">Grundform:</strong> <span id="infinitive"></span></p>
+    <p><strong id="tense-label">Zeitform:</strong> <span id="tense"></span></p>
+    <p><strong id="person-label">Person:</strong> <span id="person-desc"></span></p>
     <div style="display: flex; align-items: center; gap: 10px;">
-        <span id="pronoun-label" style="min-width: 40px; font-weight: bold;"></span>
-        <input type="text" id="user-input" placeholder="Form eingeben">
+      <span id="pronoun-label" style="min-width: 40px; font-weight: bold;"></span>
+      <input type="text" id="user-input" placeholder="Form eingeben">
     </div>
-
     <div style="margin-top: 10px;">
-      <button onclick="checkAnswer()">Überprüfen</button>
-      <button onclick="updateExercise()">Neues Verb</button>
-    </div>  
-    <p id="feedback"></p>
+      <button id="check-btn" onclick="checkAnswer()">Überprüfen</button>
+      <button id="newVerb-btn" onclick="updateExercise()">Neues Verb</button>
     </div>
+    <p id="feedback"></p>
+  </div>
 
   <script src="script.js"></script>
-
+  
 </body>
 </html>
