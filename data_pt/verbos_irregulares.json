@@ -1,0 +1,518 @@
+[
+  {
+    "infinitivo": "ser",
+    "translation_de": "sein",
+    "translation_en": "to be",
+    "translation_es": "ser",
+    "indicativo_presente": {
+      "eu": "sou",
+      "tu": "és",
+      "ele": "é",
+      "nós": "somos",
+      "vós": "sois",
+      "eles": "são"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "fui",
+      "tu": "foste",
+      "ele": "foi",
+      "nós": "fomos",
+      "vós": "fostes",
+      "eles": "foram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "era",
+      "tu": "eras",
+      "ele": "era",
+      "nós": "éramos",
+      "vós": "éreis",
+      "eles": "eram"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "seria",
+      "tu": "serias",
+      "ele": "seria",
+      "nós": "seríamos",
+      "vós": "seríeis",
+      "eles": "seriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "serei",
+      "tu": "serás",
+      "ele": "será",
+      "nós": "seremos",
+      "vós": "sereis",
+      "eles": "serão"
+    },
+    "subjuntivo_presente": {
+      "eu": "seja",
+      "tu": "sejas",
+      "ele": "seja",
+      "nós": "sejamos",
+      "vós": "sejais",
+      "eles": "sejam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "fosse",
+      "tu": "fosses",
+      "ele": "fosse",
+      "nós": "fôssemos",
+      "vós": "fôsseis",
+      "eles": "fossem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "for",
+      "tu": "fores",
+      "ele": "for",
+      "nós": "formos",
+      "vós": "fordes",
+      "eles": "forem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "sê",
+      "ele": "seja",
+      "nós": "sejamos",
+      "vós": "sede",
+      "eles": "sejam"
+    },
+    "imperativo_negativo": {
+      "tu": "não sejas",
+      "ele": "não seja",
+      "nós": "não sejamos",
+      "vós": "não sejais",
+      "eles": "não sejam"
+    },
+    "participo": "sido",
+    "gerundio": "sendo"
+  },
+  {
+    "infinitivo": "ir",
+    "translation_de": "gehen",
+    "translation_en": "to go",
+    "translation_es": "ir",
+    "indicativo_presente": {
+      "eu": "vou",
+      "tu": "vais",
+      "ele": "vai",
+      "nós": "vamos",
+      "vós": "ides",
+      "eles": "vão"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "fui",
+      "tu": "foste",
+      "ele": "foi",
+      "nós": "fomos",
+      "vós": "fostes",
+      "eles": "foram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "ia",
+      "tu": "ias",
+      "ele": "ia",
+      "nós": "íamos",
+      "vós": "íeis",
+      "eles": "iam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "iria",
+      "tu": "irias",
+      "ele": "iria",
+      "nós": "iríamos",
+      "vós": "iríeis",
+      "eles": "iriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "irei",
+      "tu": "irás",
+      "ele": "irá",
+      "nós": "iremos",
+      "vós": "ireis",
+      "eles": "irão"
+    },
+    "subjuntivo_presente": {
+      "eu": "vá",
+      "tu": "vás",
+      "ele": "vá",
+      "nós": "vamos",
+      "vós": "vades",
+      "eles": "vão"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "fosse",
+      "tu": "fosses",
+      "ele": "fosse",
+      "nós": "fôssemos",
+      "vós": "fôsseis",
+      "eles": "fossem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "for",
+      "tu": "fores",
+      "ele": "for",
+      "nós": "formos",
+      "vós": "fordes",
+      "eles": "forem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "vai",
+      "ele": "vá",
+      "nós": "vamos",
+      "vós": "ide",
+      "eles": "vão"
+    },
+    "imperativo_negativo": {
+      "tu": "não vás",
+      "ele": "não vá",
+      "nós": "não vamos",
+      "vós": "não vades",
+      "eles": "não vão"
+    },
+    "participo": "ido",
+    "gerundio": "indo"
+  },
+  {
+    "infinitivo": "vir",
+    "translation_de": "kommen",
+    "translation_en": "to come",
+    "translation_es": "venir",
+    "indicativo_presente": {
+      "eu": "venho",
+      "tu": "vens",
+      "ele": "vem",
+      "nós": "vimos",
+      "vós": "vindes",
+      "eles": "vêm"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "vim",
+      "tu": "vieste",
+      "ele": "veio",
+      "nós": "viemos",
+      "vós": "viestes",
+      "eles": "vieram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "vinha",
+      "tu": "vinhas",
+      "ele": "vinha",
+      "nós": "vínhamos",
+      "vós": "vínheis",
+      "eles": "vinham"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "viria",
+      "tu": "virias",
+      "ele": "viria",
+      "nós": "viríamos",
+      "vós": "viríeis",
+      "eles": "viriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "virei",
+      "tu": "virás",
+      "ele": "virá",
+      "nós": "viremos",
+      "vós": "vireis",
+      "eles": "virão"
+    },
+    "subjuntivo_presente": {
+      "eu": "venha",
+      "tu": "venhas",
+      "ele": "venha",
+      "nós": "venhamos",
+      "vós": "venhais",
+      "eles": "venham"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "viesse",
+      "tu": "viesses",
+      "ele": "viesse",
+      "nós": "viéssemos",
+      "vós": "viésseis",
+      "eles": "viessem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "vier",
+      "tu": "vieres",
+      "ele": "vier",
+      "nós": "viermos",
+      "vós": "vierdes",
+      "eles": "vierem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "vem",
+      "ele": "venha",
+      "nós": "venhamos",
+      "vós": "vinde",
+      "eles": "venham"
+    },
+    "imperativo_negativo": {
+      "tu": "não venhas",
+      "ele": "não venha",
+      "nós": "não venhamos",
+      "vós": "não venhais",
+      "eles": "não venham"
+    },
+    "participo": "vindo",
+    "gerundio": "vindo"
+  },
+  {
+    "infinitivo": "ter",
+    "translation_de": "haben",
+    "translation_en": "to have",
+    "translation_es": "tener",
+    "indicativo_presente": {
+      "eu": "tenho",
+      "tu": "tens",
+      "ele": "tem",
+      "nós": "temos",
+      "vós": "tendes",
+      "eles": "têm"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "tive",
+      "tu": "tiveste",
+      "ele": "teve",
+      "nós": "tivemos",
+      "vós": "tivestes",
+      "eles": "tiveram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "tinha",
+      "tu": "tinhas",
+      "ele": "tinha",
+      "nós": "tínhamos",
+      "vós": "tínheis",
+      "eles": "tinham"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "teria",
+      "tu": "terias",
+      "ele": "teria",
+      "nós": "teríamos",
+      "vós": "teríeis",
+      "eles": "teriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "terei",
+      "tu": "terás",
+      "ele": "terá",
+      "nós": "teremos",
+      "vós": "tereis",
+      "eles": "terão"
+    },
+    "subjuntivo_presente": {
+      "eu": "tenha",
+      "tu": "tenhas",
+      "ele": "tenha",
+      "nós": "tenhamos",
+      "vós": "tenhais",
+      "eles": "tenham"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "tivesse",
+      "tu": "tivesses",
+      "ele": "tivesse",
+      "nós": "tivéssemos",
+      "vós": "tivésseis",
+      "eles": "tivessem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "tiver",
+      "tu": "tiveres",
+      "ele": "tiver",
+      "nós": "tivermos",
+      "vós": "tiverdes",
+      "eles": "tiverem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "tem",
+      "ele": "tenha",
+      "nós": "tenhamos",
+      "vós": "tende",
+      "eles": "tenham"
+    },
+    "imperativo_negativo": {
+      "tu": "não tenhas",
+      "ele": "não tenha",
+      "nós": "não tenhamos",
+      "vós": "não tenhais",
+      "eles": "não tenham"
+    },
+    "participo": "tido",
+    "gerundio": "tendo"
+  },
+  {
+    "infinitivo": "estar",
+    "translation_de": "sein, sich befinden",
+    "translation_en": "to be, to stay",
+    "translation_es": "estar",
+    "indicativo_presente": {
+      "eu": "estou",
+      "tu": "estás",
+      "ele": "está",
+      "nós": "estamos",
+      "vós": "estais",
+      "eles": "estão"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "estive",
+      "tu": "estiveste",
+      "ele": "esteve",
+      "nós": "estivemos",
+      "vós": "estivestes",
+      "eles": "estiveram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "estava",
+      "tu": "estavas",
+      "ele": "estava",
+      "nós": "estávamos",
+      "vós": "estáveis",
+      "eles": "estavam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "estaria",
+      "tu": "estarias",
+      "ele": "estaria",
+      "nós": "estaríamos",
+      "vós": "estaríeis",
+      "eles": "estariam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "estarei",
+      "tu": "estarás",
+      "ele": "estará",
+      "nós": "estaremos",
+      "vós": "estareis",
+      "eles": "estarão"
+    },
+    "subjuntivo_presente": {
+      "eu": "esteja",
+      "tu": "estejas",
+      "ele": "esteja",
+      "nós": "estejamos",
+      "vós": "estejais",
+      "eles": "estejam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "estivesse",
+      "tu": "estivesses",
+      "ele": "estivesse",
+      "nós": "estivéssemos",
+      "vós": "estivésseis",
+      "eles": "estivessem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "estiver",
+      "tu": "estiveres",
+      "ele": "estiver",
+      "nós": "estivermos",
+      "vós": "estiverdes",
+      "eles": "estiverem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "está",
+      "ele": "esteja",
+      "nós": "estejamos",
+      "vós": "estai",
+      "eles": "estejam"
+    },
+    "imperativo_negativo": {
+      "tu": "não estejas",
+      "ele": "não esteja",
+      "nós": "não estejamos",
+      "vós": "não estejais",
+      "eles": "não estejam"
+    },
+    "participo": "estado",
+    "gerundio": "estando"
+  },
+  {
+    "infinitivo": "fazer",
+    "translation_de": "machen",
+    "translation_en": "to do, to make",
+    "translation_es": "hacer",
+    "indicativo_presente": {
+      "eu": "faço",
+      "tu": "fazes",
+      "ele": "faz",
+      "nós": "fazemos",
+      "vós": "fazeis",
+      "eles": "fazem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "fiz",
+      "tu": "fizeste",
+      "ele": "fez",
+      "nós": "fizemos",
+      "vós": "fizestes",
+      "eles": "fizeram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "fazia",
+      "tu": "fazias",
+      "ele": "fazia",
+      "nós": "fazíamos",
+      "vós": "fáveis",
+      "eles": "faziam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "faria",
+      "tu": "farias",
+      "ele": "faria",
+      "nós": "faríamos",
+      "vós": "faríeis",
+      "eles": "fariam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "farei",
+      "tu": "farás",
+      "ele": "fará",
+      "nós": "faremos",
+      "vós": "fareis",
+      "eles": "farão"
+    },
+    "subjuntivo_presente": {
+      "eu": "faça",
+      "tu": "faças",
+      "ele": "faça",
+      "nós": "façamos",
+      "vós": "façais",
+      "eles": "façam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "fizesse",
+      "tu": "fizesses",
+      "ele": "fizesse",
+      "nós": "fizéssemos",
+      "vós": "fizésseis",
+      "eles": "fizessem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "fizer",
+      "tu": "fizeres",
+      "ele": "fizer",
+      "nós": "fizermos",
+      "vós": "fizerdes",
+      "eles": "fizerem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "faz",
+      "ele": "faça",
+      "nós": "façamos",
+      "vós": "fazei",
+      "eles": "façam"
+    },
+    "imperativo_negativo": {
+      "tu": "não faças",
+      "ele": "não faça",
+      "nós": "não façamos",
+      "vós": "não façais",
+      "eles": "não façam"
+    },
+    "participo": "feito",
+    "gerundio": "fazendo"
+  }
+]

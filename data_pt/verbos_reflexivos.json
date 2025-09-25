@@ -1,0 +1,174 @@
+[
+  {
+    "infinitivo": "levantar-se",
+    "translation_de": "aufstehen",
+    "translation_en": "to get up",
+    "translation_es": "levantarse",
+    "indicativo_presente": {
+      "eu": "levanto-me",
+      "tu": "levantas-te",
+      "ele": "levanta-se",
+      "nós": "levantamo-nos",
+      "vós": "levantais-vos",
+      "eles": "levantam-se"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "levantei-me",
+      "tu": "levantaste-te",
+      "ele": "levantou-se",
+      "nós": "levantamo-nos",
+      "vós": "levantastes-vos",
+      "eles": "levantaram-se"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "levantava-me",
+      "tu": "levantavas-te",
+      "ele": "levantava-se",
+      "nós": "levantávamo-nos",
+      "vós": "levantáveis-vos",
+      "eles": "levantavam-se"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "levantaria-me",
+      "tu": "levantarias-te",
+      "ele": "levantaria-se",
+      "nós": "levantaríamos-nos",
+      "vós": "levantaríeis-vos",
+      "eles": "levantariam-se"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "levantarei-me",
+      "tu": "levantarás-te",
+      "ele": "levantará-se",
+      "nós": "levantaremos-nos",
+      "vós": "levantaréis-vos",
+      "eles": "levantarão-se"
+    },
+    "subjuntivo_presente": {
+      "eu": "levante-me",
+      "tu": "levantes-te",
+      "ele": "levante-se",
+      "nós": "levantemo-nos",
+      "vós": "levanteis-vos",
+      "eles": "levantem-se"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "levantasse-me",
+      "tu": "levantasses-te",
+      "ele": "levantasse-se",
+      "nós": "levantássemos-nos",
+      "vós": "levantásseis-vos",
+      "eles": "levantassem-se"
+    },
+    "subjuntivo_futuro": {
+      "eu": "levantar-me",
+      "tu": "levantares-te",
+      "ele": "levantar-se",
+      "nós": "levantarmos-nos",
+      "vós": "levantardes-vos",
+      "eles": "levantarem-se"
+    },
+    "imperativo_afirmativo": {
+      "tu": "levanta-te",
+      "ele": "levante-se",
+      "nós": "levantemo-nos",
+      "vós": "levantai-vos",
+      "eles": "levantem-se"
+    },
+    "imperativo_negativo": {
+      "tu": "não te levantes",
+      "ele": "não se levante",
+      "nós": "não nos levantemos",
+      "vós": "não vos levanteis",
+      "eles": "não se levantem"
+    },
+    "participo": "levantado",
+    "gerundio": "levantando-se"
+  },
+  {
+    "infinitivo": "sentar-se",
+    "translation_de": "sich setzen",
+    "translation_en": "to sit down",
+    "translation_es": "sentarse",
+    "indicativo_presente": {
+    "eu": "sento-me",
+    "tu": "sentas-te",
+    "ele": "senta-se",
+    "nós": "sentamo-nos",
+    "vós": "sentais-vos",
+    "eles": "sentam-se"
+    },
+    "indicativo_preterito_perfeito": {
+    "eu": "sentei-me",
+    "tu": "sentaste-te",
+    "ele": "sentou-se",
+    "nós": "sentamo-nos",
+    "vós": "sentastes-vos",
+    "eles": "sentaram-se"
+    },
+    "indicativo_preterito_imperfeito": {
+    "eu": "sentava-me",
+    "tu": "sentavas-te",
+    "ele": "sentava-se",
+    "nós": "sentávamo-nos",
+    "vós": "sentáveis-vos",
+    "eles": "sentavam-se"
+    },
+    "indicativo_futuro_do_preterito": {
+    "eu": "sentaria-me",
+    "tu": "sentarias-te",
+    "ele": "sentaria-se",
+    "nós": "sentaríamos-nos",
+    "vós": "sentaríeis-vos",
+    "eles": "sentariam-se"
+    },
+    "indicativo_futuro_do_presente": {
+    "eu": "sentarei-me",
+    "tu": "sentarás-te",
+    "ele": "sentará-se",
+    "nós": "sentaremos-nos",
+    "vós": "sentaréis-vos",
+    "eles": "sentarão-se"
+    },
+    "subjuntivo_presente": {
+    "eu": "sente-me",
+    "tu": "sentes-te",
+    "ele": "sente-se",
+    "nós": "sentemo-nos",
+    "vós": "senteis-vos",
+    "eles": "sentem-se"
+    },
+    "subjuntivo_preterito_imperfeito": {
+    "eu": "sentasse-me",
+    "tu": "sentasses-te",
+    "ele": "sentasse-se",
+    "nós": "sentássemos-nos", 
+    "vós": "sentásseis-vos",
+    "eles": "sentassem-se"
+    },
+    "subjuntivo_futuro": {
+    "eu": "sentar-me",
+    "tu": "sentares-te",
+    "ele": "sentar-se",
+    "nós": "sentarmos-nos",
+    "vós": "sentardes-vos",
+    "eles": "sentarem-se"
+    },
+    "imperativo_afirmativo": {
+    "tu": "senta-te",
+    "ele": "sente-se",
+    "nós": "sentemo-nos",
+    "vós": "sentai-vos",
+    "eles": "sentem-se"
+    },
+    "imperativo_negativo": {
+    "tu": "não te sentes",
+    "ele": "não se sente",
+    "nós": "não nos sentemos",
+    "vós": "não vos senteis",
+    "eles": "não se sentem"
+    },
+    "participo": "sentado",
+    "gerundio": "sentando-se"
+  }
+]

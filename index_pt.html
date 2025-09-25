@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Treinador de Verbos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="pt-bg">
+  <!-- Sprachumschalter -->
+  <div id="language-bar">
+    <div class="page-switch">
+      <button onclick="window.location.href='index_de.html'">&#x1F1E9;&#x1F1EA; Verbos alemães</button>
+      <!-- <button onclick="window.location.href='index_pt.html'">&#x1F1F5;&#x1F1F9; Verbos portugueses</button> -->
+      <label><input type="checkbox" id="brazilianMode">&#127463;&#127479; Português brasileiro</label>
+    </div>
+    <select id="language-select">
+      <option value="de">&#x1F1E9;&#x1F1EA; Deutsch</option>
+      <option value="pt">&#x1F1F5;&#x1F1F9; Português</option>
+      <option value="en">&#x1F1EC;&#x1F1E7; English</option>
+      <option value="es">&#x1F1EA;&#x1F1F8; Español</option>
+    </select>
+  </div>
+
+  <h1 id="title">Treinador de Verbos Portugueses</h1>
+  <h2 id="subtitle">Fique afiado em português!</h2>
+  <div id="settings-container">
+    <label for="verbCategory" id="verbCategory-label">Categoria do verbo:</label>
+    <select id="verbCategory">
+      <option value="todos" id="allCategories">Todas as categorias</option>
+      <option value="verbos_regulares" id="regularVerbs">Verbos regulares</option>
+      <option value="verbos_irregulares" id="irregularVerbs">Verbos irregulares</option>
+      <option value="verbos_radical" id="stemChangingVerbs">Verbos com alteração de radical</option>
+      <option value="verbos_reflexivos" id="reflexiveVerbs">Verbos reflexivos</option>
+    </select>
+    <label for="tense-select" id="tenseSelect-label">Escolha o tempo verbal:</label>
+    <select id="tense-select">
+      <option value="random" id="random">Aleatório</option>
+      <option value="indicativo_presente" id="indicativo_presente">Indicativo - Presente</option>
+      <option value="indicativo_preterito_perfeito" id="indicativo_preterito_perfeito">Indicativo - Pretérito perfeito</option>
+      <option value="indicativo_preterito_imperfeito" id="indicativo_preterito_imperfeito">Indicativo - Pretérito imperfeito</option>
+      <option value="indicativo_futuro_do_preterito" id="indicativo_futuro_do_preterito">Indicativo - Futuro do pretérito</option>
+      <option value="indicativo_futuro_do_presente" id="indicativo_futuro_do_presente">Indicativo - Futuro do presente</option>
+      <option value="subjuntivo_presente" id="subjuntivo_presente">Subjuntivo - Presente</option>
+      <option value="subjuntivo_preterito_imperfeito" id="subjuntivo_preterito_imperfeito">Subjuntivo - Pretérito imperfeito</option>
+      <option value="subjuntivo_futuro" id="subjuntivo_futuro">Subjuntivo - Futuro</option>
+      <option value="imperativo_afirmativo" id="imperativo_afirmativo">Imperativo - Afirmativo</option>
+      <option value="imperativo_negativo" id="imperativo_negativo">Imperativo - Negativo</option>
+      <option value="participo" id="participo">Particípio</option>
+      <option value="gerundio" id="gerundio">Gerúndio</option>
+    </select>
+  </div>
+
+  <!-- Exercício -->
+  <div id="verb-container" style="display:none;">
+    <p><strong id="infinitive-label">Infinitivo:</strong> <span id="infinitive"></span></p>
+    <p><strong id="tense-label">Tempo verbal:</strong> <span id="tense"></span></p>
+    <p><strong id="person-label">Pessoa:</strong> <span id="person-desc"></span></p>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <span id="pronoun-label" style="min-width: 40px; font-weight: bold;"></span>
+      <input type="text" id="user-input" placeholder="Digite a forma">
+    </div>
+    <div id="specialChars">
+      <button type="button" class="special-btn">á</button>
+      <button type="button" class="special-btn">à</button>
+      <button type="button" class="special-btn">â</button>
+      <button type="button" class="special-btn">ã</button>
+      <button type="button" class="special-btn">é</button>
+      <button type="button" class="special-btn">ê</button>
+      <button type="button" class="special-btn">í</button>
+      <button type="button" class="special-btn">ó</button>
+      <button type="button" class="special-btn">ô</button>
+      <button type="button" class="special-btn">õ</button>
+      <button type="button" class="special-btn">ú</button>
+      <button type="button" class="special-btn">ç</button>
+    </div>
+    <div style="margin-top: 10px;">
+      <button id="check-btn" onclick="checkAnswer()">Verificar</button>
+      <button id="newVerb-btn" onclick="updateExercise()">Novo verbo</button>
+    </div>
+    <p id="feedback"></p>
+  </div>
+
+  <script src="script_pt.js"></script>
+</body>
+</html>

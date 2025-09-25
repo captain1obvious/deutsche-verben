@@ -2,11 +2,25 @@
 body {
   font-family: 'Roboto', sans-serif;
   padding-top: 60px;
-  background: url('background.jpg') no-repeat center center fixed; /* Hintergrundbild */
+  background: url('images/background.jpg') no-repeat center center fixed; /* Hintergrundbild */
   background-size: cover; /* Bild wird skaliert, um den gesamten Hintergrund zu füllen */
   color: #333;
   line-height: 1.6;
   margin: 0;
+}
+
+body.pt-bg {
+  background-image: url('images/background_pt.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+body.br-bg {
+  background-image: url('images/background_br.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 h1, h2 {
@@ -38,7 +52,55 @@ a:hover {
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   display: flex;
   align-items: center;
-  justify-content: flex-end; /* Sprachauswahl nach rechts */
+  justify-content: space-between; /* Platz zwischen links und rechts */
+}
+
+#language-bar .page-switch {
+  display: flex;
+  gap: 8px;
+}
+
+#language-bar .page-switch button {
+  margin-top: 0;
+  background-color: #1196ca;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  white-space: nowrap;
+  padding: 4px 40px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#language-bar .page-switch button:hover {
+  background-color: #2980b9;
+}
+
+#language-bar .page-switch label {
+  margin-top: 0;
+  background-color: #1196ca;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  white-space: nowrap;
+  padding: 4px 40px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#language-bar .page-switch label:hover {
+  background-color: #2980b9;
+}
+
+#language-bar .page-switch label input[type="checkbox"] {
+  display: none;
+}
+
+#language-bar .page-switch label:has(input[type="checkbox"]:checked) {
+  background-color: #ad5476;
+  color: white;
 }
 
 #language-bar select {
@@ -95,6 +157,28 @@ button {
 
 button:hover {
   background-color: #2980b9;
+}
+
+#specialChars {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.special-btn {
+  width: auto;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid #ccc;
+  background: #f4f4f4;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  color: #000000;
+}
+
+.special-btn:hover {
+  background: #e2e2e2;
 }
 
 /* Feedback-Stile */

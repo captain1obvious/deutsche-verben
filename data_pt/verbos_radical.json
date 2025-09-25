@@ -1,0 +1,260 @@
+[
+  {
+    "infinitivo": "pedir",
+    "translation_de": "bitten, bestellen",
+    "translation_en": "to ask for, to order",
+    "translation_es": "pedir",
+    "indicativo_presente": {
+    "eu": "peço",
+    "tu": "pedes",
+    "ele": "pede",
+    "nós": "pedimos",
+    "vós": "pedis",
+    "eles": "pedem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "pedi",
+      "tu": "pediste",
+      "ele": "pediu",
+      "nós": "pedimos",
+      "vós": "pedistes",
+      "eles": "pediram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "pedia",
+      "tu": "pedias",
+      "ele": "pedia",
+      "nós": "pedíamos",
+      "vós": "pedíeis",
+      "eles": "pediam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "pediria",
+      "tu": "pedirias",
+      "ele": "pediria",
+      "nós": "pediríamos",
+      "vós": "pediríeis",
+      "eles": "pediriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "pedirei",
+      "tu": "pedirás",
+      "ele": "pedirá",
+      "nós": "pediremos",
+      "vós": "pedireis",
+      "eles": "pedirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "peça",
+      "tu": "peças",
+      "ele": "peça",
+      "nós": "peçamos",
+      "vós": "peçais",
+      "eles": "peçam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "pedisse",
+      "tu": "pedisses",
+      "ele": "pedisse",
+      "nós": "pedíssemos",
+      "vós": "pedísseis",
+      "eles": "pedissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "pedir",
+      "tu": "pedires",
+      "ele": "pedir",
+      "nós": "pedirmos",
+      "vós": "pedirdes",
+      "eles": "pedirem"
+    }, 
+    "imperativo_afirmativo": {
+      "tu": "pede",
+      "ele": "peça",
+      "nós": "peçamos",
+      "vós": "pedi",
+      "eles": "peçam"
+    },
+    "imperativo_negativo": {
+      "tu": "não peças",
+      "ele": "não peça",
+      "nós": "não peçamos",
+      "vós": "não peçais",
+      "eles": "não peçam"
+    },
+    "participo": "pedido",
+    "gerundio": "pedindo"
+  },
+  {
+    "infinitivo": "seguir",
+    "translation_de": "folgen",
+    "translation_en": "to follow",
+    "translation_es": "seguir",
+    "indicativo_presente": {
+      "eu": "sigo",
+      "tu": "segues",
+      "ele": "segue",
+      "nós": "seguimos",
+      "vós": "seguis",
+      "eles": "seguem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "segui",
+      "tu": "seguiste",
+      "ele": "seguiu",
+      "nós": "seguimos",
+      "vós": "segistes",
+      "eles": "seguiram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "seguia",
+      "tu": "seguias",
+      "ele": "seguia",
+      "nós": "seguíamos",
+      "vós": "seguíeis",
+      "eles": "seguiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "seguiria",
+      "tu": "seguirias",
+      "ele": "seguiria",
+      "nós": "seguiríamos",
+      "vós": "seguiríeis",
+      "eles": "seguiriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "seguirei",
+      "tu": "seguirás",
+      "ele": "seguirá",
+      "nós": "seguiremos",
+      "vós": "seguireis",
+      "eles": "seguirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "siga",
+      "tu": "sigas",
+      "ele": "siga",
+      "nós": "sigamos",
+      "vós": "sigais",
+      "eles": "sigam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "seguisse",
+      "tu": "seguisses",
+      "ele": "seguisse",
+      "nós": "seguíssemos",
+      "vós": "seguísseis",
+      "eles": "seguissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "seguir",
+      "tu": "seguires",
+      "ele": "seguir",
+      "nós": "seguirmos",
+      "vós": "segirdes",
+      "eles": "seguirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "segue",
+      "ele": "siga",
+      "nós": "sigamos",
+      "vós": "segui",
+      "eles": "sigam"
+    },
+    "imperativo_negativo": {
+      "tu": "não sigas",
+      "ele": "não siga",
+      "nós": "não sigamos",
+      "vós": "não sigais",
+      "eles": "não sigam"
+    },
+    "participo": "seguido",
+    "gerundio": "seguindo"
+  },
+  {
+    "infinitivo": "sentir",
+    "translation_de": "fühlen",
+    "translation_en": "to feel",
+    "translation_es": "sentir",
+    "indicativo_presente": {
+      "eu": "sinto",
+      "tu": "sentes",
+      "ele": "sente",
+      "nós": "sentimos",
+      "vós": "sentis",
+      "eles": "sentem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "senti",
+      "tu": "sentiste",
+      "ele": "sentiu",
+      "nós": "sentimos",
+      "vós": "sentistes",
+      "eles": "sentiram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "sentia",
+      "tu": "sentias",
+      "ele": "sentia",
+      "nós": "sentíamos",
+      "vós": "sentíeis",
+      "eles": "sentiem"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "sentiria",
+      "tu": "sentirias",
+      "ele": "sentiria",
+      "nós": "sentiríamos",
+      "vós": "sentiríeis",
+      "eles": "sentiriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "sentirei",
+      "tu": "sentirás",
+      "ele": "sentirá",
+      "nós": "sentiremos",
+      "vós": "sentireis",
+      "eles": "sentirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "sinta",
+      "tu": "sintas",
+      "ele": "sinta",
+      "nós": "sintamos",
+      "vós": "sintais",
+      "eles": "sintam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "sentisse",
+      "tu": "sentisses",
+      "ele": "sentisse",
+      "nós": "sentíssemos",
+      "vós": "sentísseis",
+      "eles": "sentissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "sentir",
+      "tu": "sintires",
+      "ele": "sentir",
+      "nós": "sentirmos",
+      "vós": "sentirdes",
+      "eles": "sentirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "sente",
+      "ele": "sinta",
+      "nós": "sintamos",
+      "vós": "senti",
+      "eles": "sintam"
+    },
+    "imperativo_negativo": {
+      "tu": "não sintas",
+      "ele": "não sinta",
+      "nós": "não sintamos",
+      "vós": "não sintais",
+      "eles": "não sintam"
+    },
+    "participo": "sentido",
+    "gerundio": "sentindo"
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "infinitivo": "falar",
+    "translation_de": "sprechen",
+    "translation_en": "to speak",
+    "translation_es": "hablar",
+    "indicativo_presente": {
+      "eu": "falo",
+      "tu": "falas",
+      "ele": "fala",
+      "nós": "falamos",
+      "vós": "falais",
+      "eles": "falam"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "falei",
+      "tu": "falaste",
+      "ele": "falou",
+      "nós": "falamos",
+      "vós": "falastes",
+      "eles": "falaram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "falava",
+      "tu": "falavas",
+      "ele": "falava",
+      "nós": "falávamos",
+      "vós": "faláveis",
+      "eles": "falavam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "falaria",
+      "tu": "falarias",
+      "ele": "falaria",
+      "nós": "falaríamos",
+      "vós": "falaríeis",
+      "eles": "falariam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "falarei",
+      "tu": "falarás",
+      "ele": "falará",
+      "nós": "falaremos",
+      "vós": "fareis",
+      "eles": "falarão"
+    },
+    "subjuntivo_presente": {
+      "eu": "fale",
+      "tu": "fales",
+      "ele": "fale",
+      "nós": "falemos",
+      "vós": "faleis",
+      "eles": "falem"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "falasse",
+      "tu": "falasses",
+      "ele": "falasse",
+      "nós": "falássemos",
+      "vós": "falásseis",
+      "eles": "falassem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "falar",
+      "tu": "falares",
+      "ele": "falar",
+      "nós": "falarmos",
+      "vós": "falardes",
+      "eles": "falarem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "fala",
+      "ele": "fale",
+      "nós": "falemos",
+      "vós": "falai",
+      "eles": "falem"
+    },
+    "imperativo_negativo": {
+      "tu": "não fales",
+      "ele": "não fale",
+      "nós": "não falemos",
+      "vós": "não faleis",
+      "eles": "não falem"
+    },
+    "participo": "falado",
+    "gerundio": "falando"
+  },
+  {
+    "infinitivo": "comer",
+    "translation_de": "essen",
+    "translation_en": "to eat",
+    "translation_es": "comer",
+    "indicativo_presente": {
+      "eu": "como",
+      "tu": "comes",
+      "ele": "come",
+      "nós": "comemos",
+      "vós": "comeis",
+      "eles": "comem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "comi",
+      "tu": "comeste",
+      "ele": "comeu",
+      "nós": "comemos",
+      "vós": "comestes",
+      "eles": "comeram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "comia",
+      "tu": "comias",
+      "ele": "comia",
+      "nós": "comíamos",
+      "vós": "comíeis",
+      "eles": "comiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "comeria",
+      "tu": "comerias",
+      "ele": "comeria",
+      "nós": "comeríamos",
+      "vós": "comeríeis",
+      "eles": "comeriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "comerei",
+      "tu": "comerás",
+      "ele": "comerá",
+      "nós": "comeremos",
+      "vós": "comereis",
+      "eles": "comerão"
+    },
+    "subjuntivo_presente": {
+      "eu": "coma",
+      "tu": "comas",
+      "ele": "coma",
+      "nós": "comamos",
+      "vós": "comeis",
+      "eles": "comam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "comesse",
+      "tu": "comesses",
+      "ele": "comesse",
+      "nós": "comêssemos",
+      "vós": "comêsseis",
+      "eles": "comessem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "comer",
+      "tu": "comeres",
+      "ele": "comer",
+      "nós": "comermos",
+      "vós": "comerdes",
+      "eles": "comerem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "come",
+      "ele": "coma",
+      "nós": "comamos",
+      "vós": "comei",
+      "eles": "comam"
+    },
+    "imperativo_negativo": {
+      "tu": "não comas",
+      "ele": "não coma",
+      "nós": "não comamos",
+      "vós": "não comais",
+      "eles": "não comam"
+    },
+    "participo": "comido",
+    "gerundio": "comendo"
+  },
+  {
+    "infinitivo": "abrir",
+    "translation_de": "öffnen",
+    "translation_en": "to open",
+    "translation_es": "abrir",
+    "indicativo_presente": {
+      "eu": "abro",
+      "tu": "abres",
+      "ele": "abre",
+      "nós": "abrimos",
+      "vós": "abris",
+      "eles": "abrem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "abri",
+      "tu": "abriste",
+      "ele": "abriu",
+      "nós": "abrimos",
+      "vós": "abristes",
+      "eles": "abriram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "abria",
+      "tu": "abrias",
+      "ele": "abria",
+      "nós": "abríamos",
+      "vós": "abríeis",
+      "eles": "abriam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "abriria",
+      "tu": "abririas",
+      "ele": "abriria",
+      "nós": "abriríamos",
+      "vós": "abriríeis",
+      "eles": "abririam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "abrirei",
+      "tu": "abrirás",
+      "ele": "abrirá",
+      "nós": "abriremos",
+      "vós": "abrireis",
+      "eles": "abrirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "abra",
+      "tu": "abras",
+      "ele": "abra",
+      "nós": "abramos",
+      "vós": "abrais",
+      "eles": "abram"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "abrisse",
+      "tu": "abrisses",
+      "ele": "abrisse",
+      "nós": "abríssemos",
+      "vós": "abrísseis",
+      "eles": "abrissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "abrir",
+      "tu": "abrires",
+      "ele": "abrir",
+      "nós": "abrirmos",
+      "vós": "abrirdes",
+      "eles": "abrirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "abre",
+      "ele": "abra",
+      "nós": "abramos",
+      "vós": "abri",
+      "eles": "abram"
+    },
+    "imperativo_negativo": {
+      "tu": "não abras",
+      "ele": "não abra",
+      "nós": "não abramos",
+      "vós": "não abrais",
+      "eles": "não abram"
+    },
+    "participo": "aberto",
+    "gerundio": "abrindo"
+  }
+]

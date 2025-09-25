@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Verbtrainer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <!-- Sprachumschalter -->
+  <div id="language-bar">
+    <div class="page-switch">
+      <button onclick="window.location.href='index_de.html'">&#x1F1E9;&#x1F1EA; Deutsche Verben</button>
+      <button onclick="window.location.href='index_pt.html'">&#x1F1F5;&#x1F1F9; Portugiesische Verben</button>
+    </div>
+    <select id="language-select">
+      <option value="de">&#x1F1E9;&#x1F1EA; Deutsch</option>
+      <option value="en">&#x1F1EC;&#x1F1E7; English</option>
+      <option value="es">&#x1F1EA;&#x1F1F8; Español</option>
+      <option value="pt">&#x1F1F5;&#x1F1F9; Português</option>
+    </select>
+  </div>
+
+  <h1 id="title">Deutsche Verben trainieren</h1>
+  <h2 id="subtitle">Mach dich fit in Deutsch!</h2>
+  <div id="settings-container">
+    <label for="verbCategory" id="verbCategory-label">Verb-Kategorie:</label>
+    <select id="verbCategory">
+      <option value="alle" id="allCategories">Alle Kategorien</option>
+      <option value="regelmaessige_verben" id="regularVerbs">Regelmäßige Verben</option>
+      <option value="unregelmaessige_verben" id="irregularVerbs">Unregelmäßige Verben</option>
+      <option value="modalverben" id="modalVerbs">Modalverben</option>
+      <option value="hilfsverben" id="auxiliaryVerbs">Hilfsverben</option>
+      <option value="zwei_partizipien_2" id="twoParticiples">Zwei Partizipien</option>
+    </select>
+    <label for="tense-select" id="tenseSelect-label">Zeitform wählen:</label>
+    <select id="tense-select">
+      <option value="random" id="random">Zufällig</option>
+      <option value="praesens" id="praesens">Präsens</option>
+      <option value="praeteritum" id="praeteritum">Präteritum</option>
+      <option value="perfekt" id="perfekt">Perfekt</option>
+      <option value="plusquamperfekt" id="plusquamperfekt">Plusquamperfekt</option>
+      <option value="futur1" id="futur1">Futur I</option>
+      <option value="futur2" id="futur2">Futur II</option>
+      <option value="imperativ" id="imperativ">Imperativ</option>
+      <option value="partizip1" id="partizip1">Partizip I</option>
+      <option value="partizip2" id="partizip2">Partizip II</option>
+    </select>
+  </div>
+
+  <!-- Aufgabe -->
+  <div id="verb-container" style="display:none;">
+    <p><strong id="infinitive-label">Grundform:</strong> <span id="infinitive"></span></p>
+    <p><strong id="tense-label">Zeitform:</strong> <span id="tense"></span></p>
+    <p><strong id="person-label">Person:</strong> <span id="person-desc"></span></p>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <span id="pronoun-label" style="min-width: 40px; font-weight: bold;"></span>
+      <input type="text" id="user-input" placeholder="Form eingeben">
+    </div>
+    <div id="specialChars">
+      <button type="button" class="special-btn">ä</button>
+      <button type="button" class="special-btn">ö</button>
+      <button type="button" class="special-btn">ü</button>
+      <button type="button" class="special-btn">ß</button>
+    </div>
+    <div style="margin-top: 10px;">
+      <button id="check-btn" onclick="checkAnswer()">Überprüfen</button>
+      <button id="newVerb-btn" onclick="updateExercise()">Neues Verb</button>
+    </div>
+    <p id="feedback"></p>
+  </div>
+
+  <script src="script.js"></script>
+  
+</body>
+</html>

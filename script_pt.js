@@ -1,50 +1,51 @@
 const persons = [
-  { key: "ich", pronoun: "ich", desc: "1. Person Singular" },
-  { key: "du", pronoun: "du", desc: "2. Person Singular" },
-  { key: "er", pronoun: "er", desc: "3. Person Singular" },
-  { key: "sie", pronoun: "sie", desc: "3. Person Singular" },
-  { key: "es", pronoun: "es", desc: "3. Person Singular" },
-  { key: "wir", pronoun: "wir", desc: "1. Person Plural" },
-  { key: "ihr", pronoun: "ihr", desc: "2. Person Plural" },
-  { key: "sie_pl", pronoun: "sie", desc: "3. Person Plural" },
-  { key: "Sie", pronoun: "Sie", desc: "Höflichkeitsform" }
+  { key: "eu", pronoun: "eu", desc: "1ª pessoa do singular" },
+  { key: "tu", pronoun: "tu", desc: "2ª pessoa do singular" },
+  { key: "ele", pronoun: "ele/ela/você/a gente", desc: "3ª pessoa do singular" },
+  { key: "nós", pronoun: "nós", desc: "1ª pessoa do plural" },
+  { key: "vós", pronoun: "vós", desc: "2ª pessoa do plural" },
+  { key: "eles", pronoun: "eles/elas/vocês", desc: "3ª pessoa do plural" }
 ];
 
 const tenseMap = {
-  praesens: "Präsens",
-  praeteritum: "Präteritum",
-  perfekt: "Perfekt",
-  plusquamperfekt: "Plusquamperfekt",
-  futur1: "Futur I",
-  futur2: "Futur II",
-  imperativ: "Imperativ",
-  partizip1: "Partizip I",
-  partizip2: "Partizip II"
+  indicativo_presente: "Indicativo - Presente",
+  indicativo_preterito_perfeito: "Indicativo - Pretérito perfeito",
+  indicativo_preterito_imperfeito: "Indicativo - Pretérito imperfeito",
+  indicativo_futuro_do_preterito: "Indicativo - Futuro do pretérito",
+  indicativo_futuro_do_presente: "Indicativo - Futuro do presente",
+  subjuntivo_presente: "Subjuntivo - Presente",
+  subjuntivo_preterito_imperfeito: "Subjuntivo - Pretérito imperfeito",
+  subjuntivo_futuro: "Subjuntivo - Futuro",
+  imperativo_afirmativo: "Imperativo - Afirmativo",
+  imperativo_negativo: "Imperativo - Negativo",
+  participo: "Particípio",
+  gerundio: "Gerúndio"
 };
 
 let verbList = [];
 let translations = {};
 let currentLang = "de";
-let currentCategory = "alle"; // Standardkategorie
+let currentCategory = "todos"; // Standardkategorie
 let currentVerb = null;
 let currentTenseKey = null;
 let currentPerson = null;
 let answerWasCorrect = false;
 let allowedPersons;
+let brazilianMode = false;
 
-async function loadVerbs(category = "alle") {
+async function loadVerbs(category = "todos") {
   try {
     // Lade die Verben basierend auf der ausgewählten Kategorie
-    if (category === "alle") {
-      const categories = ["modalverben", "unregelmaessige_verben", "regelmaessige_verben", "hilfsverben", "zwei_partizipien_2"];
+    if (category === "todos") {
+      const categories = ["verbos_irregulares", "verbos_regulares", "verbos_radical", "verbos_reflexivos"];
       const allVerbs = await Promise.all(
         categories.map(cat =>
-          fetch(`data/${cat}.json`).then(res => res.json())
+          fetch(`data_pt/${cat}.json`).then(res => res.json())
         )
       );
       verbList = allVerbs.flat();
     } else {
-      const response = await fetch(`data/${category}.json`);
+      const response = await fetch(`data_pt/${category}.json`);
       verbList = await response.json();
     }
     updateExercise(); // direkt starten nach Laden
@@ -54,7 +55,7 @@ async function loadVerbs(category = "alle") {
 }
 
 function loadTranslations() {
-  fetch('data/translations.json')
+  fetch('data_pt/translations_pt.json')
     .then(response => response.json())
     .then(data => {
       translations = data;
@@ -72,20 +73,22 @@ function applyTranslations() {
   document.getElementById("allCategories").textContent = t.allCategories;
   document.getElementById("regularVerbs").textContent = t.regularVerbs;
   document.getElementById("irregularVerbs").textContent = t.irregularVerbs;
-  document.getElementById("modalVerbs").textContent = t.modalVerbs;
-  document.getElementById("auxiliaryVerbs").textContent = t.auxiliaryVerbs;
-  document.getElementById("twoParticiples").textContent = t.twoParticiples;
+  document.getElementById("stemChangingVerbs").textContent = t.stemChangingVerbs;
+  document.getElementById("reflexiveVerbs").textContent = t.reflexiveVerbs;
   document.getElementById("tenseSelect-label").textContent = t.tenseSelect;
   document.getElementById("random").textContent = t.random;
-  document.getElementById("praesens").textContent = t.praesens;
-  document.getElementById("praeteritum").textContent = t.praeteritum;
-  document.getElementById("perfekt").textContent = t.perfekt;
-  document.getElementById("plusquamperfekt").textContent = t.plusquamperfekt;
-  document.getElementById("futur1").textContent = t.futur1;
-  document.getElementById("futur2").textContent = t.futur2;
-  document.getElementById("imperativ").textContent = t.imperativ;
-  document.getElementById("partizip1").textContent = t.partizip1;
-  document.getElementById("partizip2").textContent = t.partizip2;
+  document.getElementById("indicativo_presente").textContent = t.presente;
+  document.getElementById("indicativo_preterito_perfeito").textContent = t.preterito_perfeito;
+  document.getElementById("indicativo_preterito_imperfeito").textContent = t.preterito_imperfeito;
+  document.getElementById("indicativo_futuro_do_preterito").textContent = t.futuro_do_preterito;
+  document.getElementById("indicativo_futuro_do_presente").textContent = t.futuro_do_presente;
+  document.getElementById("subjuntivo_presente").textContent = t.subjuntivo_presente;
+  document.getElementById("subjuntivo_preterito_imperfeito").textContent = t.subjuntivo_preterito_imperfeito;
+  document.getElementById("subjuntivo_futuro").textContent = t.subjuntivo_futuro;
+  document.getElementById("imperativo_afirmativo").textContent = t.imperativo_afirmativo;
+  document.getElementById("imperativo_negativo").textContent = t.imperativo_negativo;
+  document.getElementById("participo").textContent =t.participo;
+  document.getElementById("gerundio").textContent = t.gerundio;
   document.getElementById("infinitive-label").textContent = t.infinitive;
   document.getElementById("tense-label").textContent = t.tense;
   document.getElementById("person-label").textContent = t.person;
@@ -96,10 +99,10 @@ function applyTranslations() {
   // Feedback ggf. übersetzen
   translateFeedback();
 
-  if (currentLang !== "de" && currentVerb && currentVerb["translation_" + currentLang]) {
-    document.getElementById("infinitive").textContent = `${currentVerb.infinitiv} (${currentVerb["translation_" + currentLang]})`;
+  if (currentLang !== "pt" && currentVerb && currentVerb["translation_" + currentLang]) {
+    document.getElementById("infinitive").textContent = `${currentVerb.infinitivo} (${currentVerb["translation_" + currentLang]})`;
   } else {
-    document.getElementById("infinitive").textContent = currentVerb.infinitiv;
+    document.getElementById("infinitive").textContent = currentVerb.infinitivo;
   }
 }
 
@@ -127,7 +130,15 @@ function translateFeedback() {
 function updateExercise() {
   answerWasCorrect = false; // Reset der Antwortstatus-Variable
   const tenseSelect = document.getElementById("tense-select").value;
-  const tenses = Object.keys(tenseMap);
+  
+  // Alle Zeitformen holen
+  let tenses = Object.keys(tenseMap);
+
+  // 🔎 Filter für Brazilian Mode
+  if (brazilianMode) {
+    tenses = tenses.filter(t => t !== "imperativo_negativo");
+  }
+
   let tries = 0;
   let hasForm = false;
 
@@ -148,17 +159,35 @@ function updateExercise() {
     currentVerb = verbList[Math.floor(Math.random() * verbList.length)];
 
     // Überprüfe, ob die Form existiert
-    if (currentTenseKey === "partizip1" || currentTenseKey === "partizip2") {
+    if (currentTenseKey === "participo" || currentTenseKey === "gerundio") {
       hasForm = currentVerb[currentTenseKey] !== undefined;
       currentPerson = null; // Person ist hier irrelevant
-    } else if (currentTenseKey === "imperativ") {
-      // Bei Imperativ nur "du" und "ihr" zulassen
-      allowedPersons = persons.filter(p => p.key === "du" || p.key === "ihr");
+
+    } else if (currentTenseKey === "imperativo_afirmativo" || currentTenseKey === "imperativo_negativo") {
+      // Bei Imperativ nur bestimmte Personen zulassen
+      let allowedPersons = persons.filter(
+        p => p.key === "tu" || p.key === "ele" || p.key === "nós" || p.key === "vós" || p.key === "eles"
+      );
+
+      // 🔎 Brazilian Mode filtert "tu", "nós" und "vós"
+      if (brazilianMode) {
+        allowedPersons = allowedPersons.filter(p => p.key !== "tu" && p.key !== "nós" && p.key !== "vós");
+      }
+
       currentPerson = allowedPersons[Math.floor(Math.random() * allowedPersons.length)];
-      hasForm = currentVerb.imperativ && currentVerb.imperativ[currentPerson.key] !== undefined;
+      // Wenn es eine positive Form ist, wird es auch eine negative geben
+      hasForm = currentVerb.imperativo_afirmativo && currentVerb.imperativo_afirmativo[currentPerson.key] !== undefined;
+
     } else {
-      // Für alle anderen Zeitformen: Überprüfen, ob die Form für die zufällige Person existiert
-      currentPerson = persons[Math.floor(Math.random() * persons.length)];
+      // Für alle anderen Zeitformen
+      let availablePersons = [...persons];
+
+      // 🔎 Brazilian Mode filtert "tu", "nós" und "vós"
+      if (brazilianMode) {
+        availablePersons = availablePersons.filter(p => p.key !== "tu" && p.key !== "nós" && p.key !== "vós");
+      }
+
+      currentPerson = availablePersons[Math.floor(Math.random() * availablePersons.length)];
       hasForm = currentVerb[currentTenseKey] && currentVerb[currentTenseKey][currentPerson.key] !== undefined;
     }
 
@@ -166,25 +195,26 @@ function updateExercise() {
   } while (!hasForm && tries < 10 && remainingTenses.length > 0);
 
   if (!hasForm) {
-    document.getElementById("infinitive").textContent = currentVerb.infinitiv;
+    document.getElementById("infinitive").textContent = currentVerb.infinitivo;
     document.getElementById("tense").textContent = tenseMap[currentTenseKey] + " nicht vorhanden";
     document.getElementById("tense").style.color = "red";
     document.getElementById("person-desc").textContent = "-";
     document.getElementById("pronoun-label").textContent = "-";
   } else {
     // Infinitiv ggf. mit Übersetzung
-    if (currentLang !== "de" && currentVerb && currentVerb["translation_" + currentLang]) {
-    document.getElementById("infinitive").textContent = `${currentVerb.infinitiv} (${currentVerb["translation_" + currentLang]})`;
+    if (currentLang !== "pt" && currentVerb && currentVerb["translation_" + currentLang]) {
+      document.getElementById("infinitive").textContent = `${currentVerb.infinitivo} (${currentVerb["translation_" + currentLang]})`;
     } else {
-      document.getElementById("infinitive").textContent = currentVerb.infinitiv;
+      document.getElementById("infinitive").textContent = currentVerb.infinitivo;
     }
+
     document.getElementById("tense").textContent = tenseMap[currentTenseKey];
     document.getElementById("tense").style.color = "black";
     const verbContainer = document.getElementById("verb-container");
     verbContainer.style.display = "block";
 
     if (currentPerson) {
-      if (currentTenseKey === "imperativ") {
+      if (currentTenseKey === "imperativo_afirmativo" || currentTenseKey === "imperativo_negativo") {
         document.getElementById("person-desc").textContent = currentPerson.desc;
         document.getElementById("pronoun-label").textContent = `(${currentPerson.pronoun})`;
       } else {
@@ -201,16 +231,15 @@ function updateExercise() {
   }
 }
 
+
 // Überprüfen der Antwort, abhängig von der Zeitform und Person
 function checkAnswer() {
   const input = document.getElementById("user-input").value.trim().toLowerCase();
   const feedback = document.getElementById("feedback");
   let correct;
 
-  if (currentTenseKey === "partizip1" || currentTenseKey === "partizip2") {
+  if (currentTenseKey === "participo" || currentTenseKey === "gerundio") {
     correct = currentVerb[currentTenseKey];
-  } else if (currentTenseKey === "imperativ") {
-    correct = currentVerb.imperativ[currentPerson.key];
   } else {
     correct = currentVerb[currentTenseKey][currentPerson.key];
   }
@@ -233,6 +262,20 @@ function checkAnswer() {
   }
 }
 
+// Einstellung des neuen Hintergrunds und der reduzierten Zeitformen im brasilianischen Modus
+function updateBrazilianSettings() {
+  document.body.classList.toggle("br-bg", brazilianMode);
+
+  const tenseSelect = document.getElementById("tense-select");
+  if (tenseSelect) {
+    const negOption = tenseSelect.querySelector('option[value="imperativo_negativo"]');
+    if (negOption) {
+      negOption.style.display = brazilianMode ? "none" : "block";
+    }
+  }
+}
+
+// Logik für die Buttons zum Einfügen spezieller Zeichen
 window.addEventListener("DOMContentLoaded", () => {
   const inputField = document.getElementById("user-input");
 
@@ -252,6 +295,13 @@ window.addEventListener("DOMContentLoaded", () => {
     field.focus();
     field.setSelectionRange(start + char.length, start + char.length);
   }
+});
+
+// Aktualisieren der Einstellungen für den brasilianischen Modus
+document.getElementById("brazilianMode").addEventListener("change", (e) => {
+  brazilianMode = e.target.checked;
+  updateBrazilianSettings();
+  updateExercise(); // neue Aufgabe generieren mit reduzierten Formen
 });
 
 // Enter-Taste zum Überprüfen der Antwort oder zum Neuladen des Verbs
@@ -274,6 +324,7 @@ document.getElementById("tense-select").addEventListener("change", () => {
   updateExercise(); // Neue Aufgabe laden
 });
 
+// Sprachwechsel für das Interface
 document.getElementById("language-select").addEventListener("change", function() {
   currentLang = this.value;
   applyTranslations();
