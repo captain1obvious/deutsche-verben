@@ -86,6 +86,694 @@
     "gerundio": "falando"
   },
   {
+    "infinitivo": "estudar",
+    "translation_de": "studieren",
+    "translation_en": "to study",
+    "translation_es": "estudiar",
+    "indicativo_presente": {
+      "eu": "estudo",
+      "tu": "estudas",
+      "ele": "estuda",
+      "nós": "estudamos",
+      "vós": "estudais",
+      "eles": "estudam"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "estudei",
+      "tu": "estudaste",
+      "ele": "estudou",
+      "nós": "estudamos",
+      "vós": "estudastes",
+      "eles": "estudaram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "estudava",
+      "tu": "estudavas",
+      "ele": "estudava",
+      "nós": "estudávamos",
+      "vós": "estudáveis",
+      "eles": "estudavam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "estudaria",
+      "tu": "estudarias",
+      "ele": "estudaria",
+      "nós": "estudaríamos",
+      "vós": "estudaríeis",
+      "eles": "estudariam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "estudarei",
+      "tu": "estudarás",
+      "ele": "estudará",
+      "nós": "estudaremos",
+      "vós": "estudareis",
+      "eles": "estudarão"
+    },
+    "subjuntivo_presente": {
+      "eu": "estude",
+      "tu": "estudes",
+      "ele": "estude",
+      "nós": "estudemos",
+      "vós": "estudeis",
+      "eles": "estudem"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "estudasse",
+      "tu": "estudasses",
+      "ele": "estudasse",
+      "nós": "estudássemos",
+      "vós": "estudásseis",
+      "eles": "estudassem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "estudar",
+      "tu": "estudares",
+      "ele": "estudar",
+      "nós": "estudarmos",
+      "vós": "estudardes",
+      "eles": "estudarem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "estuda",
+      "ele": "estude",
+      "nós": "estudemos",
+      "vós": "estudai",
+      "eles": "estudem"
+    },
+    "imperativo_negativo": {
+      "tu": "não estudes",
+      "ele": "não estude",
+      "nós": "não estudemos",
+      "vós": "não estudeis",
+      "eles": "não estudem"
+    },
+    "participo": "estudado",
+    "gerundio": "estudando"
+  },
+  {
+    "infinitivo": "trabalhar",
+    "translation_de": "arbeiten",
+    "translation_en": "to work",
+    "translation_es": "trabajar",
+    "indicativo_presente": {
+      "eu": "trabalho",
+      "tu": "trabalhas",
+      "ele": "trabalha",
+      "nós": "trabalhamos",
+      "vós": "trabalhais",
+      "eles": "trabalham"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "trabalhei",
+      "tu": "trabalhaste",
+      "ele": "trabalhou",
+      "nós": "trabalhamos",
+      "vós": "trabalhastes",
+      "eles": "trabalharam"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "trabalhava",
+      "tu": "trabalhavas",
+      "ele": "trabalhava",
+      "nós": "trabalhávamos",
+      "vós": "trabalháveis",
+      "eles": "trabalhavam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "trabalharia",
+      "tu": "trabalharias",
+      "ele": "trabalharia",
+      "nós": "trabalharíamos",
+      "vós": "trabalharíeis",
+      "eles": "trabalhariam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "trabalharei",
+      "tu": "trabalharás",
+      "ele": "trabalhará",
+      "nós": "trabalharemos",
+      "vós": "trabalhareis",
+      "eles": "trabalharão"
+    },
+    "subjuntivo_presente": {
+      "eu": "trabalhe",
+      "tu": "trabalhes",
+      "ele": "trabalhe",
+      "nós": "trabalhemos",
+      "vós": "trabalheis",
+      "eles": "trabalhem"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "trabalhasse",
+      "tu": "trabalhasses",
+      "ele": "trabalhasse",
+      "nós": "trabalhássemos",
+      "vós": "trabalhásseis",
+      "eles": "trabalhassem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "trabalhar",
+      "tu": "trabalhares",
+      "ele": "trabalhar",
+      "nós": "trabalharmos",
+      "vós": "trabalhardes",
+      "eles": "trabalharem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "trabalha",
+      "ele": "trabalhe",
+      "nós": "trabalhemos",
+      "vós": "trabalhai",
+      "eles": "trabalhem"
+    },
+    "imperativo_negativo": {
+      "tu": "não trabalhes",
+      "ele": "não trabalhe",
+      "nós": "não trabalhemos",
+      "vós": "não trabalheis",
+      "eles": "não trabalhem"
+    },
+    "participo": "trabalhado",
+    "gerundio": "trabalhando"
+  },
+  {
+    "infinitivo": "cantar",
+    "translation_de": "singen",
+    "translation_en": "to sing",
+    "translation_es": "cantar",
+    "indicativo_presente": {
+      "eu": "canto",
+      "tu": "cantas",
+      "ele": "canta",
+      "nós": "cantamos",
+      "vós": "cantais",
+      "eles": "cantam"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "cantei",
+      "tu": "cantaste",
+      "ele": "cantou",
+      "nós": "cantamos",
+      "vós": "cantastes",
+      "eles": "cantaram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "cantava",
+      "tu": "cantavas",
+      "ele": "cantava",
+      "nós": "cantávamos",
+      "vós": "cantáveis",
+      "eles": "cantavam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "cantaria",
+      "tu": "cantarias",
+      "ele": "cantaria",
+      "nós": "cantaríamos",
+      "vós": "cantaríeis",
+      "eles": "cantariam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "cantarei",
+      "tu": "cantarás",
+      "ele": "cantará",
+      "nós": "cantaremos",
+      "vós": "cantareis",
+      "eles": "cantarão"
+    },
+    "subjuntivo_presente": {
+      "eu": "cante",
+      "tu": "cantes",
+      "ele": "cante",
+      "nós": "cantemos",
+      "vós": "canteis",
+      "eles": "cantem"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "cantasse",
+      "tu": "cantasses",
+      "ele": "cantasse",
+      "nós": "cantássemos",
+      "vós": "cantásseis",
+      "eles": "cantassem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "cantar",
+      "tu": "cantares",
+      "ele": "cantar",
+      "nós": "cantarmos",
+      "vós": "cantardes",
+      "eles": "cantarem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "canta",
+      "ele": "cante",
+      "nós": "cantemos",
+      "vós": "cantai",
+      "eles": "cantem"
+    },
+    "imperativo_negativo": {
+      "tu": "não cantes",
+      "ele": "não cante",
+      "nós": "não cantemos",
+      "vós": "não canteis",
+      "eles": "não cantem"
+    },
+    "participo": "cantado",
+    "gerundio": "cantando"
+  },
+  {
+    "infinitivo": "dançar",
+    "translation_de": "tanzen",
+    "translation_en": "to dance",
+    "translation_es": "bailar",
+    "indicativo_presente": {
+      "eu": "danço",
+      "tu": "danças",
+      "ele": "dança",
+      "nós": "dançamos",
+      "vós": "dançais",
+      "eles": "dançam"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "dancei",
+      "tu": "dançaste",
+      "ele": "dançou",
+      "nós": "dançamos",
+      "vós": "dançastes",
+      "eles": "dançaram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "dançava",
+      "tu": "dançavas",
+      "ele": "dançava",
+      "nós": "dançávamos",
+      "vós": "dançáveis",
+      "eles": "dançavam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "dançaria",
+      "tu": "dançarias",
+      "ele": "dançaria",
+      "nós": "dançaríamos",
+      "vós": "dançaríeis",
+      "eles": "dançariam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "dançarei",
+      "tu": "dançarás",
+      "ele": "dançará",
+      "nós": "dançaremos",
+      "vós": "dançareis",
+      "eles": "dançarão"
+    },
+    "subjuntivo_presente": {
+      "eu": "dance",
+      "tu": "dances",
+      "ele": "dance",
+      "nós": "dançemos",
+      "vós": "danceis",
+      "eles": "dancem"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "dançasse",
+      "tu": "dançasses",
+      "ele": "dançasse",
+      "nós": "dançássemos",
+      "vós": "dançásseis",
+      "eles": "dançassem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "dançar",
+      "tu": "dançares",
+      "ele": "dançar",
+      "nós": "dançarmos",
+      "vós": "dançardes",
+      "eles": "dançarem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "dança",
+      "ele": "dance",
+      "nós": "dançemos",
+      "vós": "dançai",
+      "eles": "dancem"
+    },
+    "imperativo_negativo": {
+      "tu": "não dances",
+      "ele": "não dance",
+      "nós": "não dançemos",
+      "vós": "não danceis",
+      "eles": "não dancem"
+    },
+    "participo": "dançado",
+    "gerundio": "dançando"
+  },
+  {
+    "infinitivo": "viajar",
+    "translation_de": "reisen",
+    "translation_en": "to travel",
+    "translation_es": "viajar",
+    "indicativo_presente": {
+      "eu": "viajo",
+      "tu": "viajas",
+      "ele": "viaja",
+      "nós": "viajamos",
+      "vós": "viajais",
+      "eles": "viajam"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "viajei",
+      "tu": "viajaste",
+      "ele": "viajou",
+      "nós": "viajamos",
+      "vós": "viajastes",
+      "eles": "viajaram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "viajava",
+      "tu": "viajavas",
+      "ele": "viajava",
+      "nós": "viajávamos",
+      "vós": "viajáveis",
+      "eles": "viajavam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "viajaria",
+      "tu": "viajarias",
+      "ele": "viajaria",
+      "nós": "viajaríamos",
+      "vós": "viajaríeis",
+      "eles": "viajariam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "viajarei",
+      "tu": "viajarás",
+      "ele": "viajará",
+      "nós": "viajaremos",
+      "vós": "viajareis",
+      "eles": "viajarão"
+    },
+    "subjuntivo_presente": {
+      "eu": "viaje",
+      "tu": "viajes",
+      "ele": "viaje",
+      "nós": "viajemos",
+      "vós": "viajeis",
+      "eles": "viajem"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "viajasse",
+      "tu": "viajasses",
+      "ele": "viajasse",
+      "nós": "viajássemos",
+      "vós": "viajásseis",
+      "eles": "viajassem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "viajar",
+      "tu": "viajares",
+      "ele": "viajar",
+      "nós": "viajarmos",
+      "vós": "viajardes",
+      "eles": "viajarem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "viaja",
+      "ele": "viaje",
+      "nós": "viajemos",
+      "vós": "viajai",
+      "eles": "viajem"
+    },
+    "imperativo_negativo": {
+      "tu": "não viajes",
+      "ele": "não viaje",
+      "nós": "não viajemos",
+      "vós": "não viajeis",
+      "eles": "não viajem"
+    },
+    "participo": "viajado",
+    "gerundio": "viajando"
+  },
+  {
+    "infinitivo": "pagar",
+    "translation_de": "bezahlen",
+    "translation_en": "to pay",
+    "translation_es": "pagar",
+    "indicativo_presente": {
+      "eu": "pago",
+      "tu": "pagas",
+      "ele": "paga",
+      "nós": "pagamos",
+      "vós": "pagais",
+      "eles": "pagam"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "paguei",
+      "tu": "pagaste",
+      "ele": "pagou",
+      "nós": "pagamos",
+      "vós": "pagastes",
+      "eles": "pagaram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "pagava",
+      "tu": "pagavas",
+      "ele": "pagava",
+      "nós": "pagávamos",
+      "vós": "pagáveis",
+      "eles": "pagavam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "pagaria",
+      "tu": "pagarias",
+      "ele": "pagaria",
+      "nós": "pagaríamos",
+      "vós": "pagaríeis",
+      "eles": "pagariam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "pagarei",
+      "tu": "pagarás",
+      "ele": "pagará",
+      "nós": "pagaremos",
+      "vós": "pagareis",
+      "eles": "pagarão"
+    },
+    "subjuntivo_presente": {
+      "eu": "pague",
+      "tu": "pagues",
+      "ele": "pague",
+      "nós": "paguemos",
+      "vós": "pagueis",
+      "eles": "paguem"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "pagasse",
+      "tu": "pagasses",
+      "ele": "pagasse",
+      "nós": "pagássemos",
+      "vós": "pagásseis",
+      "eles": "pagassem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "pagar",
+      "tu": "pagares",
+      "ele": "pagar",
+      "nós": "pagarmos",
+      "vós": "pagardes",
+      "eles": "pagarem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "paga",
+      "ele": "pague",
+      "nós": "paguemos",
+      "vós": "pagai",
+      "eles": "paguem"
+    },
+    "imperativo_negativo": {
+      "tu": "não pagues",
+      "ele": "não pague",
+      "nós": "não paguemos",
+      "vós": "não pagueis",
+      "eles": "não paguem"
+    },
+    "participo": "pagado",
+    "gerundio": "pagando"
+  },
+  {
+    "infinitivo": "andar",
+    "translation_de": "gehen",
+    "translation_en": "to walk",
+    "translation_es": "andar",
+    "indicativo_presente": {
+      "eu": "ando",
+      "tu": "andas",
+      "ele": "anda",
+      "nós": "andamos",
+      "vós": "andais",
+      "eles": "andam"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "andei",
+      "tu": "andaste",
+      "ele": "andou",
+      "nós": "andamos",
+      "vós": "andastes",
+      "eles": "andaram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "andava",
+      "tu": "andavas",
+      "ele": "andava",
+      "nós": "andávamos",
+      "vós": "andáveis",
+      "eles": "andavam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "andaria",
+      "tu": "andarias",
+      "ele": "andaria",
+      "nós": "andaríamos",
+      "vós": "andaríeis",
+      "eles": "andariam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "andarei",
+      "tu": "andarás",
+      "ele": "andará",
+      "nós": "andaremos",
+      "vós": "andareis",
+      "eles": "andarão"
+    },
+    "subjuntivo_presente": {
+      "eu": "ande",
+      "tu": "andes",
+      "ele": "ande",
+      "nós": "andemos",
+      "vós": "andeis",
+      "eles": "andem"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "andasse",
+      "tu": "andasses",
+      "ele": "andasse",
+      "nós": "andássemos",
+      "vós": "andásseis",
+      "eles": "andassem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "andar",
+      "tu": "andares",
+      "ele": "andar",
+      "nós": "andarmos",
+      "vós": "andardes",
+      "eles": "andarem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "anda",
+      "ele": "ande",
+      "nós": "andemos",
+      "vós": "andai",
+      "eles": "andem"
+    },
+    "imperativo_negativo": {
+      "tu": "não andes",
+      "ele": "não ande",
+      "nós": "não andemos",
+      "vós": "não andeis",
+      "eles": "não andem"
+    },
+    "participo": "andado",
+    "gerundio": "andando"
+  },
+  {
+    "infinitivo": "ligar",
+    "translation_de": "anrufen",
+    "translation_en": "to call",
+    "translation_es": "llamar",
+    "indicativo_presente": {
+      "eu": "ligo",
+      "tu": "ligas",
+      "ele": "liga",
+      "nós": "ligamos",
+      "vós": "ligais",
+      "eles": "ligam"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "liguei",
+      "tu": "ligaste",
+      "ele": "ligou",
+      "nós": "ligamos",
+      "vós": "ligastes",
+      "eles": "ligaram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "ligava",
+      "tu": "ligavas",
+      "ele": "ligava",
+      "nós": "ligávamos",
+      "vós": "ligáveis",
+      "eles": "ligavam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "ligaria",
+      "tu": "ligarias",
+      "ele": "ligaria",
+      "nós": "ligaríamos",
+      "vós": "ligaríeis",
+      "eles": "ligariam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "ligarei",
+      "tu": "ligarás",
+      "ele": "ligará",
+      "nós": "ligaremos",
+      "vós": "ligareis",
+      "eles": "ligarão"
+    },
+    "subjuntivo_presente": {
+      "eu": "ligue",
+      "tu": "ligues",
+      "ele": "ligue",
+      "nós": "liguemos",
+      "vós": "ligueis",
+      "eles": "liguem"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "ligasse",
+      "tu": "ligasses",
+      "ele": "ligasse",
+      "nós": "ligássemos",
+      "vós": "ligásseis",
+      "eles": "ligassem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "ligar",
+      "tu": "ligares",
+      "ele": "ligar",
+      "nós": "ligarmos",
+      "vós": "ligardes",
+      "eles": "ligarem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "liga",
+      "ele": "ligue",
+      "nós": "liguemos",
+      "vós": "ligai",
+      "eles": "liguem"
+    },
+    "imperativo_negativo": {
+      "tu": "não ligues",
+      "ele": "não ligue",
+      "nós": "não liguemos",
+      "vós": "não ligueis",
+      "eles": "não liguem"
+    },
+    "participo": "ligado",
+    "gerundio": "ligando"
+  },
+  {
     "infinitivo": "comer",
     "translation_de": "essen",
     "translation_en": "to eat",
@@ -172,6 +860,522 @@
     "gerundio": "comendo"
   },
   {
+    "infinitivo": "beber",
+    "translation_de": "trinken",
+    "translation_en": "to drink",
+    "translation_es": "beber",
+    "indicativo_presente": {
+      "eu": "bebo",
+      "tu": "bebes",
+      "ele": "bebe",
+      "nós": "bebemos",
+      "vós": "bebéis",
+      "eles": "bebem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "bebi",
+      "tu": "bebeste",
+      "ele": "beveu",
+      "nós": "bebemos",
+      "vós": "bebestes",
+      "eles": "beberam"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "bebia",
+      "tu": "bebias",
+      "ele": "bebia",
+      "nós": "bebíamos",
+      "vós": "bebíeis",
+      "eles": "bebiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "beberia",
+      "tu": "beberias",
+      "ele": "beberia",
+      "nós": "beberíamos",
+      "vós": "beberíeis",
+      "eles": "beberiam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "beberei",
+      "tu": "beberás",
+      "ele": "beberá",
+      "nós": "beberemos",
+      "vós": "bebereis",
+      "eles": "beberão"
+    },
+    "subjuntivo_presente": {
+      "eu": "beba",
+      "tu": "bebas",
+      "ele": "beba",
+      "nós": "bebamos",
+      "vós": "bebeis",
+      "eles": "bebam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "bebesse",
+      "tu": "bebesses",
+      "ele": "bebesse",
+      "nós": "bebêssemos",
+      "vós": "bebêsseis",
+      "eles": "bepissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "beber",
+      "tu": "beberes",
+      "ele": "beber",
+      "nós": "bebermos",
+      "vós": "beberdes",
+      "eles": "beberem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "bebe",
+      "ele": "beba",
+      "nós": "bebamos",
+      "vós": "bebeis",
+      "eles": "bebam"
+    },
+    "imperativo_negativo": {
+      "tu": "não bebas",
+      "ele": "não beba",
+      "nós": "não bebamos",
+      "vós": "não bebeis",
+      "eles": "não bebam"
+    },
+    "participo": "bebido",
+    "gerundio": "bebendo"
+  },
+  {
+    "infinitivo": "aprender",
+    "translation_de": "lernen",
+    "translation_en": "to learn",
+    "translation_es": "aprender",
+    "indicativo_presente": {
+      "eu": "aprendo",
+      "tu": "aprendes",
+      "ele": "aprende",
+      "nós": "aprendemos",
+      "vós": "aprendeis",
+      "eles": "aprendem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "aprendi",
+      "tu": "aprendeste",
+      "ele": "aprendeu",
+      "nós": "aprendemos",
+      "vós": "aprendestes",
+      "eles": "aprenderam"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "aprendia",
+      "tu": "aprendias",
+      "ele": "aprendia",
+      "nós": "aprendíamos",
+      "vós": "aprendíeis",
+      "eles": "aprendiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "aprenderia",
+      "tu": "aprenderias",
+      "ele": "aprenderia",
+      "nós": "aprenderíamos",
+      "vós": "aprenderíeis",
+      "eles": "aprenderiam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "aprenderei",
+      "tu": "aprenderás",
+      "ele": "aprenderá",
+      "nós": "aprenderemos",
+      "vós": "aprendereis",
+      "eles": "aprenderão"
+    },
+    "subjuntivo_presente": {
+      "eu": "aprenda",
+      "tu": "aprendas",
+      "ele": "aprenda",
+      "nós": "aprendamos",
+      "vós": "aprendeis",
+      "eles": "aprendam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "aprendesse",
+      "tu": "aprendesses",
+      "ele": "aprendesse",
+      "nós": "aprendêssemos",
+      "vós": "aprendêsseis",
+      "eles": "apredissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "aprender",
+      "tu": "aprenderes",
+      "ele": "aprender",
+      "nós": "aprendermos",
+      "vós": "aprenderdes",
+      "eles": "aprenderem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "aprende",
+      "ele": "aprenda",
+      "nós": "aprendamos",
+      "vós": "aprendei",
+      "eles": "aprendam"
+    },
+    "imperativo_negativo": {
+      "tu": "não aprendas",
+      "ele": "não aprenda",
+      "nós": "não aprendamos",
+      "vós": "não aprendeis",
+      "eles": "não aprendam"
+    },
+    "participo": "aprendido",
+    "gerundio": "aprendendo"
+  },
+  {
+    "infinitivo": "vender",
+    "translation_de": "verkaufen",
+    "translation_en": "to sell",
+    "translation_es": "vender",
+    "indicativo_presente": {
+      "eu": "vendo",
+      "tu": "vendes",
+      "ele": "vende",
+      "nós": "vendemos",
+      "vós": "vendeis",
+      "eles": "vendem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "vendi",
+      "tu": "vendeste",
+      "ele": "vendeu",
+      "nós": "vendemos",
+      "vós": "vendestes",
+      "eles": "venderam"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "vendia",
+      "tu": "vendias",
+      "ele": "vendia",
+      "nós": "vendíamos",
+      "vós": "vendíeis",
+      "eles": "vendiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "venderia",
+      "tu": "venderias",
+      "ele": "venderia",
+      "nós": "venderíamos",
+      "vós": "venderíeis",
+      "eles": "venderiam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "venderei",
+      "tu": "venderás",
+      "ele": "venderá",
+      "nós": "venderemos",
+      "vós": "vendereis",
+      "eles": "venderão"
+    },
+    "subjuntivo_presente": {
+      "eu": "venda",
+      "tu": "vendas",
+      "ele": "venda",
+      "nós": "vendamos",
+      "vós": "vendeis",
+      "eles": "vendam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "vendesse",
+      "tu": "vendesses",
+      "ele": "vendesse",
+      "nós": "vendêssemos",
+      "vós": "vendêsseis",
+      "eles": "vendissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "vender",
+      "tu": "venderes",
+      "ele": "vender",
+      "nós": "vendermos",
+      "vós": "venderdes",
+      "eles": "venderem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "vende",
+      "ele": "venda",
+      "nós": "vendamos",
+      "vós": "vendei",
+      "eles": "vendam"
+    },
+    "imperativo_negativo": {
+      "tu": "não vendas",
+      "ele": "não venda",
+      "nós": "não vendamos",
+      "vós": "não vendeis",
+      "eles": "não vendam"
+    },
+    "participo": "vendido",
+    "gerundio": "vendendo"
+  },
+  {
+    "infinitivo": "receber",
+    "translation_de": "erhalten",
+    "translation_en": "to receive",
+    "translation_es": "recibir",
+    "indicativo_presente": {
+      "eu": "recebo",
+      "tu": "recebes",
+      "ele": "recebe",
+      "nós": "recebemos",
+      "vós": "recebeis",
+      "eles": "recebem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "recebi",
+      "tu": "recebeste",
+      "ele": "recebeu",
+      "nós": "recebemos",
+      "vós": "recebestes",
+      "eles": "receberam"
+    }, 
+    "indicativo_preterito_imperfeito": {
+      "eu": "recebia",
+      "tu": "recebias",
+      "ele": "recebia",
+      "nós": "recebíamos",
+      "vós": "recebíeis",
+      "eles": "recebiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "receberia",
+      "tu": "receberias",
+      "ele": "receberia",
+      "nós": "receberíamos",
+      "vós": "receberíeis",
+      "eles": "receberiam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "receberei",
+      "tu": "receberás",
+      "ele": "receberá",
+      "nós": "receberemos",
+      "vós": "recebereis",
+      "eles": "receberão"
+    },
+    "subjuntivo_presente": {
+      "eu": "receba",
+      "tu": "recebas",
+      "ele": "receba",
+      "nós": "recebamos",
+      "vós": "recebeis",
+      "eles": "recebam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "recebesse",
+      "tu": "recebesses",
+      "ele": "recebesse",
+      "nós": "recebêssemos",
+      "vós": "recebêsseis",
+      "eles": "recebissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "receber",
+      "tu": "receberes",
+      "ele": "receber",
+      "nós": "recebermos",
+      "vós": "receberdes",
+      "eles": "receberem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "recebe",
+      "ele": "receba",
+      "nós": "recebamos",
+      "vós": "recebei",
+      "eles": "recebam"
+    },
+    "imperativo_negativo": {
+      "tu": "não recebas",
+      "ele": "não receba",
+      "nós": "não recebamos",
+      "vós": "não recebeis",
+      "eles": "não recebam"
+    },
+    "participo": "recebido",
+    "gerundio": "recebendo"
+  },
+  {
+    "infinitivo": "correr",
+    "translation_de": "laufen",
+    "translation_en": "to run",
+    "translation_es": "correr",
+    "indicativo_presente": {
+      "eu": "corro",
+      "tu": "corres",
+      "ele": "corre",
+      "nós": "corremos",
+      "vós": "correis",
+      "eles": "correm"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "corri",
+      "tu": "correste",
+      "ele": "correu",
+      "nós": "corremos",
+      "vós": "correstes",
+      "eles": "correram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "corria",
+      "tu": "corrias",
+      "ele": "corria",
+      "nós": "corríamos",
+      "vós": "corríeis",
+      "eles": "corriam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "correria",
+      "tu": "correrias",
+      "ele": "correria",
+      "nós": "correríamos",
+      "vós": "correríeis",
+      "eles": "correriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "correrei",
+      "tu": "correrás",
+      "ele": "correrá",
+      "nós": "correremos",
+      "vós": "correreis",
+      "eles": "correrão"
+    },
+    "subjuntivo_presente": {
+      "eu": "corra",
+      "tu": "corras",
+      "ele": "corra",
+      "nós": "corramos",
+      "vós": "correis",
+      "eles": "corram"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "corresse",
+      "tu": "corresses",
+      "ele": "corresse",
+      "nós": "corrêssemos",
+      "vós": "corrêsseis",
+      "eles": "corrissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "correr",
+      "tu": "correres",
+      "ele": "correr",
+      "nós": "corrermos",
+      "vós": "correrdes",
+      "eles": "correrem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "corre",
+      "ele": "corra",
+      "nós": "corramos",
+      "vós": "correi",
+      "eles": "corram"
+    },
+    "imperativo_negativo": {
+      "tu": "não corras",
+      "ele": "não corra",
+      "nós": "não corramos",
+      "vós": "não correis",
+      "eles": "não corram"
+    },
+    "participo": "corrido",
+    "gerundio": "correndo"
+  },
+  {
+    "infinitivo": "temer",
+    "translation_de": "fürchten",
+    "translation_en": "to fear",
+    "translation_es": "temer",
+    "indicativo_presente": {
+      "eu": "temo",
+      "tu": "temes",
+      "ele": "teme",
+      "nós": "tememos",
+      "vós": "temeis",
+      "eles": "temem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "temi",
+      "tu": "temeste",
+      "ele": "temeu",
+      "nós": "tememos",
+      "vós": "temestes",
+      "eles": "temeram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "temia",
+      "tu": "temias",
+      "ele": "temia",
+      "nós": "temíamos",
+      "vós": "temíeis",
+      "eles": "temiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "temeria",
+      "tu": "temerias",
+      "ele": "temeria",
+      "nós": "temeríamos",
+      "vós": "temeríeis",
+      "eles": "temeriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "temerei",
+      "tu": "temerás",
+      "ele": "temerá",
+      "nós": "temeremos",
+      "vós": "temereis",
+      "eles": "temerão"
+    },
+    "subjuntivo_presente": {
+      "eu": "tema",
+      "tu": "temas",
+      "ele": "tema",
+      "nós": "temamos",
+      "vós": "temeis",
+      "eles": "temam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "temesse",
+      "tu": "temesses",
+      "ele": "temesse",
+      "nós": "temêssemos",
+      "vós": "temêsseis",
+      "eles": "temissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "temer",
+      "tu": "temeres",
+      "ele": "temer",
+      "nós": "temermos",
+      "vós": "temerdes",
+      "eles": "temerem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "teme",
+      "ele": "tema",
+      "nós": "temamos",
+      "vós": "temei",
+      "eles": "temam"
+    },
+    "imperativo_negativo": {
+      "tu": "não temas",
+      "ele": "não tema",
+      "nós": "não temamos",
+      "vós": "não temeis",
+      "eles": "não temam"
+    },
+    "participo": "temido",
+    "gerundio": "temendo"
+  },
+  {
     "infinitivo": "abrir",
     "translation_de": "öffnen",
     "translation_en": "to open",
@@ -256,5 +1460,435 @@
     },
     "participo": "aberto",
     "gerundio": "abrindo"
+  },
+  {
+    "infinitivo": "assistir",
+    "translation_de": "anschauen",
+    "translation_en": "to watch",
+    "translation_es": "asistir",
+    "indicativo_presente": {
+      "eu": "assisto",
+      "tu": "assistes",
+      "ele": "assiste",
+      "nós": "assistimos",
+      "vós": "assistis",
+      "eles": "assistem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "assisti",
+      "tu": "assististe",
+      "ele": "assistiu",
+      "nós": "assistimos",
+      "vós": "assististes",
+      "eles": "assistiram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "assitia",
+      "tu": "assistias",
+      "ele": "assitia",
+      "nós": "assistíamos",
+      "vós": "assistíeis",
+      "eles": "assitiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "assistiria",
+      "tu": "assistirias",
+      "ele": "assistiria",
+      "nós": "assistiríamos",
+      "vós": "assistiríeis",
+      "eles": "assistiriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "assistirei",
+      "tu": "assistirás",
+      "ele": "assistirá",
+      "nós": "assistiremos",
+      "vós": "assistireis",
+      "eles": "assistirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "assista",
+      "tu": "assistas",
+      "ele": "assista",
+      "nós": "assistamos",
+      "vós": "assistis",
+      "eles": "assistam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "assistisse",
+      "tu": "assistisses",
+      "ele": "assistisse",
+      "nós": "assistíssemos",
+      "vós": "assistísseis",
+      "eles": "assissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "assistir",
+      "tu": "assisteres",
+      "ele": "assistir",
+      "nós": "assistirmos",
+      "vós": "assistirdes",
+      "eles": "assistirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "assiste",
+      "ele": "assista",
+      "nós": "assistamos",
+      "vós": "assisti",
+      "eles": "assistam"
+    },
+    "imperativo_negativo": {
+      "tu": "não assistas",
+      "ele": "não assista",
+      "nós": "não assistamos",
+      "vós": "não assistis",
+      "eles": "não assistam"
+    },
+    "participo": "assistido",
+    "gerundio": "assistindo"
+  },
+  {
+    "infinitivo": "decidir",
+    "translation_de": "entscheiden",
+    "translation_en": "to decide",
+    "translation_es": "decidir",
+    "indicativo_presente": {
+      "eu": "decido",
+      "tu": "decides",
+      "ele": "decide",
+      "nós": "decidimos",
+      "vós": "decidis",
+      "eles": "decidem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "decidi",
+      "tu": "decidiste",
+      "ele": "decidiu",
+      "nós": "decidimos",
+      "vós": "decidistes",
+      "eles": "decidiram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "decidia",
+      "tu": "decidias",
+      "ele": "decidia",
+      "nós": "decidíamos",
+      "vós": "decidíeis",
+      "eles": "decidiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "decidiria",
+      "tu": "decidirias",
+      "ele": "decidiria",
+      "nós": "decidiríamos",
+      "vós": "decidiríeis",
+      "eles": "decidiriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "deciderei",
+      "tu": "decidirás",
+      "ele": "decidirá",
+      "nós": "decidiremos",
+      "vós": "decidereis",
+      "eles": "decidirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "decida",
+      "tu": "decidas",
+      "ele": "decida",
+      "nós": "decidamos",
+      "vós": "decidis",
+      "eles": "decidam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "decidisse",
+      "tu": "decidisses",
+      "ele": "decidisse",
+      "nós": "decidíssemos",
+      "vós": "decidísseis",
+      "eles": "decidissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "decidir",
+      "tu": "decideres",
+      "ele": "decidir",
+      "nós": "decidirmos",
+      "vós": "decirdes",
+      "eles": "decidirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "decide",
+      "ele": "decida",
+      "nós": "decidamos",
+      "vós": "decidi",
+      "eles": "decidam"
+    },
+    "imperativo_negativo": {
+      "tu": "não decidas",
+      "ele": "não decida",
+      "nós": "não decidamos",
+      "vós": "não decidis",
+      "eles": "não decidam"
+    },
+    "participo": "decidido",
+    "gerundio": "decidindo"
+  },
+  {
+    "infinitivo": "dividir",
+    "translation_de": "teilen",
+    "translation_en": "to divide",
+    "translation_es": "dividir",
+    "indicativo_presente": {
+      "eu": "divido",
+      "tu": "divides",
+      "ele": "divide",
+      "nós": "dividimos",
+      "vós": "dividis",
+      "eles": "dividem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "dividi",
+      "tu": "dividiste",
+      "ele": "dividiu",
+      "nós": "dividimos",
+      "vós": "dividistes",
+      "eles": "dividiram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "dividia",
+      "tu": "dividias",
+      "ele": "dividia",
+      "nós": "dividíamos",
+      "vós": "dividíeis",
+      "eles": "dividiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "dividiria",
+      "tu": "dividirias",
+      "ele": "dividiria",
+      "nós": "dividiríamos",
+      "vós": "dividiríeis",
+      "eles": "dividiriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "dividerei",
+      "tu": "dividirás",
+      "ele": "dividirá",
+      "nós": "dividiremos",
+      "vós": "dividereis",
+      "eles": "dividirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "divida",
+      "tu": "dividas",
+      "ele": "divida",
+      "nós": "dividamos",
+      "vós": "dividis",
+      "eles": "dividam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "dividisse",
+      "tu": "dividisses",
+      "ele": "dividisse",
+      "nós": "dividíssemos",
+      "vós": "dividísseis",
+      "eles": "dividissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "dividir",
+      "tu": "divideres",
+      "ele": "dividir",
+      "nós": "dividirmos",
+      "vós": "divirdes",
+      "eles": "dividirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "divide",
+      "ele": "divida",
+      "nós": "dividamos",
+      "vós": "dividi",
+      "eles": "dividam"
+    },
+    "imperativo_negativo": {
+      "tu": "não dividas",
+      "ele": "não divida",
+      "nós": "não dividamos",
+      "vós": "não dividis",
+      "eles": "não dividam"
+    },
+    "participo": "dividido",
+    "gerundio": "dividindo"
+  },
+  {
+    "infinitivo": "existir",
+    "translation_de": "existieren",
+    "translation_en": "to exist",
+    "translation_es": "existir",
+    "indicativo_presente": {
+      "eu": "existo",
+      "tu": "existis",
+      "ele": "existe",
+      "nós": "existimos",
+      "vós": "existis",
+      "eles": "existem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "existi",
+      "tu": "exististe",
+      "ele": "existiu",
+      "nós": "existimos",
+      "vós": "exististes",
+      "eles": "existiram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "existia",
+      "tu": "existias",
+      "ele": "existia",
+      "nós": "existíamos",
+      "vós": "existíeis",
+      "eles": "existiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "existiria",
+      "tu": "existirias",
+      "ele": "existiria",
+      "nós": "existiríamos",
+      "vós": "existiríeis",
+      "eles": "existiriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "existirei",
+      "tu": "existirás",
+      "ele": "existirá",
+      "nós": "existiremos",
+      "vós": "existireis",
+      "eles": "existirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "exista",
+      "tu": "existas",
+      "ele": "exista",
+      "nós": "existamos",
+      "vós": "existis",
+      "eles": "existam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "existisse",
+      "tu": "existisses",
+      "ele": "existisse",
+      "nós": "existíssemos",
+      "vós": "existísseis",
+      "eles": "existissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "existir",
+      "tu": "existeres",
+      "ele": "existir",
+      "nós": "existirmos",
+      "vós": "existirdes",
+      "eles": "existirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "existe",
+      "ele": "exista",
+      "nós": "existamos",
+      "vós": "existi",
+      "eles": "existam"
+    },
+    "imperativo_negativo": {
+      "tu": "não existas",
+      "ele": "não exista",
+      "nós": "não existamos",
+      "vós": "não existis",
+      "eles": "não existam"
+    },
+    "participo": "existido",
+    "gerundio": "existindo"
+  },
+  {
+    "infinitivo": "insistir",
+    "translation_de": "bestehen",
+    "translation_en": "to insist",
+    "translation_es": "insistir",
+    "indicativo_presente": {
+      "eu": "insisto",
+      "tu": "insistes",
+      "ele": "insiste",
+      "nós": "insistimos",
+      "vós": "insistis",
+      "eles": "insistem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "insisti",
+      "tu": "insististe",
+      "ele": "insistiu",
+      "nós": "insistimos",
+      "vós": "insististes",
+      "eles": "insistiram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "insitia",
+      "tu": "insistias",
+      "ele": "insitia",
+      "nós": "insistíamos",
+      "vós": "insistíeis",
+      "eles": "insitiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "insistiria",
+      "tu": "insistirias",
+      "ele": "insistiria",
+      "nós": "insistiríamos",
+      "vós": "insistiríeis",
+      "eles": "insistiriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "insistirei",
+      "tu": "insistirás",
+      "ele": "insistirá",
+      "nós": "insistiremos",
+      "vós": "insistireis",
+      "eles": "insistirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "insista",
+      "tu": "insistas",
+      "ele": "insista",
+      "nós": "insistamos",
+      "vós": "insistis",
+      "eles": "insistam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "insistisse",
+      "tu": "insistisses",
+      "ele": "insistisse",
+      "nós": "insistíssemos",
+      "vós": "insistísseis",
+      "eles": "insistissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "insistir",
+      "tu": "insisteres",
+      "ele": "insistir",
+      "nós": "insistirmos",
+      "vós": "insistirdes",
+      "eles": "insistirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "insiste",
+      "ele": "insista",
+      "nós": "insistamos",
+      "vós": "insisti",
+      "eles": "insistam"
+    },
+    "imperativo_negativo": {
+      "tu": "não insistas",
+      "ele": "não insista",
+      "nós": "não insistamos",
+      "vós": "não insistis",
+      "eles": "não insistam"
+    },
+    "participo": "insistido",
+    "gerundio": "insistindo"
   }
 ]
