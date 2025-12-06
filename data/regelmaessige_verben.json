@@ -312,84 +312,6 @@
     "partizip2": "gearbeitet"
   },
   {
-    "infinitiv": "finden",
-    "translation_en": "to find",
-    "translation_es": "encontrar",
-    "translation_pt": "encontrar",
-    "praesens": {
-      "ich": "finde",
-      "du": "findest",
-      "er": "findet",
-      "sie": "findet",
-      "es": "findet",
-      "wir": "finden",
-      "ihr": "findet",
-      "sie_pl": "finden",
-      "Sie": "finden"
-    },
-    "praeteritum": {
-      "ich": "fand",
-      "du": "fandest",
-      "er": "fand",
-      "sie": "fand",
-      "es": "fand",
-      "wir": "fanden",
-      "ihr": "fandet",
-      "sie_pl": "fanden",
-      "Sie": "fanden"
-    },
-    "perfekt": {
-      "ich": "habe gefunden",
-      "du": "hast gefunden",
-      "er": "hat gefunden",
-      "sie": "hat gefunden",
-      "es": "hat gefunden",
-      "wir": "haben gefunden",
-      "ihr": "habt gefunden",
-      "sie_pl": "haben gefunden",
-      "Sie": "haben gefunden"
-    },
-    "plusquamperfekt": {
-      "ich": "hatte gefunden",
-      "du": "hattest gefunden",
-      "er": "hatte gefunden",
-      "sie": "hatte gefunden",
-      "es": "hatte gefunden",
-      "wir": "hatten gefunden",
-      "ihr": "hattet gefunden",
-      "sie_pl": "hatten gefunden",
-      "Sie": "hatten gefunden"
-    },
-    "futur1": {
-      "ich": "werde finden",
-      "du": "wirst finden",
-      "er": "wird finden",
-      "sie": "wird finden",
-      "es": "wird finden",
-      "wir": "werden finden",
-      "ihr": "werdet finden",
-      "sie_pl": "werden finden",
-      "Sie": "werden finden"
-    },
-    "futur2": {
-      "ich": "werde gefunden haben",
-      "du": "wirst gefunden haben",
-      "er": "wird gefunden haben",
-      "sie": "wird gefunden haben",
-      "es": "wird gefunden haben",
-      "wir": "werden gefunden haben",
-      "ihr": "werdet gefunden haben",
-      "sie_pl": "werden gefunden haben",
-      "Sie": "werden gefunden haben"
-    },
-    "imperativ": {
-      "du": "find",
-      "ihr": "findet"
-    },
-    "partizip1": "findend",
-    "partizip2": "gefunden"
-  },
-  {
     "infinitiv": "brauchen",
     "translation_en": "to need",
     "translation_es": "necesitar",
@@ -466,6 +388,84 @@
     },
     "partizip1": "brauchend",
     "partizip2": "gebraucht"
+  },
+  {
+    "infinitiv": "fragen",
+    "translation_en": "to ask",
+    "translation_es": "preguntar",
+    "translation_pt": "perguntar",
+    "praesens": {
+      "ich": "frage",
+      "du": "fragst",
+      "er": "fragt",
+      "sie": "fragt",
+      "es": "fragt",
+      "wir": "fragen",
+      "ihr": "fragt",
+      "sie_pl": "fragen",
+      "Sie": "fragen"
+    }, 
+    "praeteritum": {
+      "ich": "fragte",
+      "du": "fragtest",
+      "er": "fragte",
+      "sie": "fragte",
+      "es": "fragte",
+      "wir": "fragten",
+      "ihr": "fragtet",
+      "sie_pl": "fragten",
+      "Sie": "fragten"
+    }, 
+    "perfekt": {
+      "ich": "habe gefragt",
+      "du": "hast gefragt",
+      "er": "hat gefragt",
+      "sie": "hat gefragt",
+      "es": "hat gefragt",
+      "wir": "haben gefragt",
+      "ihr": "habt gefragt",
+      "sie_pl": "haben gefragt",
+      "Sie": "haben gefragt"
+    }, 
+    "plusquamperfekt": {
+      "ich": "hatte gefragt",
+      "du": "hattest gefragt",
+      "er": "hatte gefragt",
+      "sie": "hatte gefragt",
+      "es": "hatte gefragt",
+      "wir": "hatten gefragt",
+      "ihr": "hattet gefragt",
+      "sie_pl": "hatten gefragt",
+      "Sie": "hatten gefragt"
+    },  
+    "futur1": {
+      "ich": "werde fragen",
+      "du": "wirst fragen",
+      "er": "wird fragen",
+      "sie": "wird fragen",
+      "es": "wird fragen",
+      "wir": "werden fragen",
+      "ihr": "werdet fragen",
+      "sie_pl": "werden fragen",
+      "Sie": "werden fragen"
+    },  
+    "futur2": {
+      "ich": "werde gefragt haben",
+      "du": "wirst gefragt haben",
+      "er": "wird gefragt haben",
+      "sie": "wird gefragt haben",
+      "es": "wird gefragt haben",
+      "wir": "werden gefragt haben",
+      "ihr": "werdet gefragt haben",
+      "sie_pl": "werden gefragt haben",
+      "Sie": "werden gefragt haben"
+    }, 
+    "imperativ": {
+      "du": "frag",
+      "ihr": "fragt"
+    }, 
+    "partizip1": "fragend",
+    "partizip2": "gefragt"
   },
   {
     "infinitiv": "leben",
@@ -934,5 +934,83 @@
     },
     "partizip1": "suchend",
     "partizip2": "gesucht"
+  },
+  {
+    "infinitiv": "warten",
+    "translation_en": "to wait",
+    "translation_es": "esperar",
+    "translation_pt": "esperar",
+    "praesens": {
+      "ich": "warte",
+      "du": "wartest",
+      "er": "wartet",
+      "sie": "wartet",
+      "es": "wartet",
+      "wir": "warten",
+      "ihr": "wartet",
+      "sie_pl": "warten",
+      "Sie": "warten"
+    }, 
+    "praeteritum": {
+      "ich": "wartete",
+      "du": "wartetest",
+      "er": "wartete",
+      "sie": "wartete",
+      "es": "wartete",
+      "wir": "warteten",
+      "ihr": "wartetet",
+      "sie_pl": "warteten",
+      "Sie": "warteten"
+    },  
+    "perfekt": {
+      "ich": "habe gewartet",
+      "du": "hast gewartet",
+      "er": "hat gewartet",
+      "sie": "hat gewartet",
+      "es": "hat gewartet",
+      "wir": "haben gewartet",
+      "ihr": "habt gewartet",
+      "sie_pl": "haben gewartet",
+      "Sie": "haben gewartet"
+    },   
+    "plusquamperfekt": {
+      "ich": "hatte gewartet",
+      "du": "hattest gewartet",
+      "er": "hatte gewartet",
+      "sie": "hatte gewartet",
+      "es": "hatte gewartet",
+      "wir": "hatten gewartet",
+      "ihr": "hattet gewartet",
+      "sie_pl": "hatten gewartet",
+      "Sie": "hatten gewartet"
+    },
+    "futur1": {
+      "ich": "werde warten",
+      "du": "wirst warten",
+      "er": "wird warten",
+      "sie": "wird warten",
+      "es": "wird warten",
+      "wir": "werden warten",
+      "ihr": "werdet warten",
+      "sie_pl": "werden warten",
+      "Sie": "werden warten"
+    }, 
+    "futur2": {
+      "ich": "werde gewartet haben",
+      "du": "wirst gewartet haben",
+      "er": "wird gewartet haben",
+      "sie": "wird gewartet haben",
+      "es": "wird gewartet haben",
+      "wir": "werden gewartet haben",
+      "ihr": "werdet gewartet haben",
+      "sie_pl": "werden gewartet haben",
+      "Sie": "werden gewartet haben"
+    },
+    "imperativ": {
+      "du": "warte",
+      "ihr": "wartet"
+    },
+    "partizip1": "wartend",
+    "partizip2": "gewartet"
   }
 ]

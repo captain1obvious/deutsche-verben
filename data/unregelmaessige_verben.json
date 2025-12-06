@@ -544,5 +544,473 @@
   },
   "partizip1": "sehend",
   "partizip2": "gesehen"
+  },
+    {
+    "infinitiv": "finden",
+    "translation_en": "to find",
+    "translation_es": "encontrar",
+    "translation_pt": "encontrar",
+    "praesens": {
+      "ich": "finde",
+      "du": "findest",
+      "er": "findet",
+      "sie": "findet",
+      "es": "findet",
+      "wir": "finden",
+      "ihr": "findet",
+      "sie_pl": "finden",
+      "Sie": "finden"
+    },
+    "praeteritum": {
+      "ich": "fand",
+      "du": "fandest",
+      "er": "fand",
+      "sie": "fand",
+      "es": "fand",
+      "wir": "fanden",
+      "ihr": "fandet",
+      "sie_pl": "fanden",
+      "Sie": "fanden"
+    },
+    "perfekt": {
+      "ich": "habe gefunden",
+      "du": "hast gefunden",
+      "er": "hat gefunden",
+      "sie": "hat gefunden",
+      "es": "hat gefunden",
+      "wir": "haben gefunden",
+      "ihr": "habt gefunden",
+      "sie_pl": "haben gefunden",
+      "Sie": "haben gefunden"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gefunden",
+      "du": "hattest gefunden",
+      "er": "hatte gefunden",
+      "sie": "hatte gefunden",
+      "es": "hatte gefunden",
+      "wir": "hatten gefunden",
+      "ihr": "hattet gefunden",
+      "sie_pl": "hatten gefunden",
+      "Sie": "hatten gefunden"
+    },
+    "futur1": {
+      "ich": "werde finden",
+      "du": "wirst finden",
+      "er": "wird finden",
+      "sie": "wird finden",
+      "es": "wird finden",
+      "wir": "werden finden",
+      "ihr": "werdet finden",
+      "sie_pl": "werden finden",
+      "Sie": "werden finden"
+    },
+    "futur2": {
+      "ich": "werde gefunden haben",
+      "du": "wirst gefunden haben",
+      "er": "wird gefunden haben",
+      "sie": "wird gefunden haben",
+      "es": "wird gefunden haben",
+      "wir": "werden gefunden haben",
+      "ihr": "werdet gefunden haben",
+      "sie_pl": "werden gefunden haben",
+      "Sie": "werden gefunden haben"
+    },
+    "imperativ": {
+      "du": "find",
+      "ihr": "findet"
+    },
+    "partizip1": "findend",
+    "partizip2": "gefunden"
+  },
+  {
+    "infinitiv": "kommen",
+    "translation_en": "to come",
+    "translation_es": "venir",
+    "translation_pt": "vir",
+    "praesens": {
+      "ich": "komme",
+      "du": "kommst",
+      "er": "kommt",
+      "sie": "kommt",
+      "es": "kommt",
+      "wir": "kommen",
+      "ihr": "kommt",
+      "sie_pl": "kommen",
+      "Sie": "kommen"
+    },
+    "praeteritum": {
+      "ich": "kam",
+      "du": "kamst",
+      "er": "kam",
+      "sie": "kam",
+      "es": "kam",
+      "wir": "kamen",
+      "ihr": "kamt",
+      "sie_pl": "kamen",
+      "Sie": "kamen"
+    },
+    "perfekt": {
+      "ich": "bin gekommen",
+      "du": "bist gekommen",
+      "er": "ist gekommen",
+      "sie": "ist gekommen",
+      "es": "ist gekommen",
+      "wir": "sind gekommen",
+      "ihr": "seid gekommen",
+      "sie_pl": "sind gekommen",
+      "Sie": "sind gekommen"
+    },
+    "plusquamperfekt": {
+      "ich": "war gekommen",
+      "du": "warst gekommen",
+      "er": "war gekommen",
+      "sie": "war gekommen",
+      "es": "war gekommen",
+      "wir": "waren gekommen",
+      "ihr": "wart gekommen",
+      "sie_pl": "waren gekommen",
+      "Sie": "waren gekommen"
+    },
+    "futur1": {
+      "ich": "werde kommen",
+      "du": "wirst kommen",
+      "er": "wird kommen",
+      "sie": "wird kommen",
+      "es": "wird kommen",
+      "wir": "werden kommen",
+      "ihr": "werdet kommen",
+      "sie_pl": "werden kommen",
+      "Sie": "werden kommen"
+    },
+    "futur2": {
+      "ich": "werde gekommen sein",
+      "du": "wirst gekommen sein",
+      "er": "wird gekommen sein",
+      "sie": "wird gekommen sein",
+      "es": "wird gekommen sein",
+      "wir": "werden gekommen sein",
+      "ihr": "werdet gekommen sein",
+      "sie_pl": "werden gekommen sein",
+      "Sie": "werden gekommen sein"
+    },
+    "imperativ": {
+      "du": "komm",
+      "ihr": "kommt"
+    },
+    "partizip1": "kommend",
+    "partizip2": "gekommen"
+  },
+  {
+    "infinitiv": "gehen",
+    "translation_en": "to go",
+    "translation_es": "ir",
+    "translation_pt": "ir",
+    "praesens": {
+      "ich": "gehe",
+      "du": "gehst",
+      "er": "geht",
+      "sie": "geht",
+      "es": "geht",
+      "wir": "gehen",
+      "ihr": "geht",
+      "sie_pl": "gehen",
+      "Sie": "gehen"
+    },
+    "praeteritum": {
+      "ich": "ging",
+      "du": "gingst",
+      "er": "ging",
+      "sie": "ging",
+      "es": "ging",
+      "wir": "gingen",
+      "ihr": "gingt",
+      "sie_pl": "gingen",
+      "Sie": "gingen"
+    },
+    "perfekt": {
+      "ich": "bin gegangen",
+      "du": "bist gegangen",
+      "er": "ist gegangen",
+      "sie": "ist gegangen",
+      "es": "ist gegangen",
+      "wir": "sind gegangen",
+      "ihr": "seid gegangen",
+      "sie_pl": "sind gegangen",
+      "Sie": "sind gegangen"
+    }, 
+    "plusquamperfekt": {
+      "ich": "war gegangen",
+      "du": "warst gegangen",
+      "er": "war gegangen",
+      "sie": "war gegangen",
+      "es": "war gegangen",
+      "wir": "waren gegangen",
+      "ihr": "wart gegangen",
+      "sie_pl": "waren gegangen",
+      "Sie": "waren gegangen"
+    }, 
+    "futur1": {
+      "ich": "werde gehen",
+      "du": "wirst gehen",
+      "er": "wird gehen",
+      "sie": "wird gehen",
+      "es": "wird gehen",
+      "wir": "werden gehen",
+      "ihr": "werdet gehen",
+      "sie_pl": "werden gehen",
+      "Sie": "werden gehen"
+    }, 
+    "futur2": {
+      "ich": "werde gegangen sein",
+      "du": "wirst gegangen sein",
+      "er": "wird gegangen sein",
+      "sie": "wird gegangen sein",
+      "es": "wird gegangen sein",
+      "wir": "werden gegangen sein",
+      "ihr": "werdet gegangen sein",
+      "sie_pl": "werden gegangen sein",
+      "Sie": "werden gegangen sein"
+    }, 
+    "imperativ": {
+      "du": "geh",
+      "ihr": "geht"
+    },
+    "partizip1": "gehend",
+    "partizip2": "gegangen"
+  },
+  {
+    "infinitiv": "sprechen",
+    "translation_en": "to speak",
+    "translation_es": "hablar",
+    "translation_pt": "falar", 
+    "praesens": {
+      "ich": "spreche",
+      "du": "sprichst",
+      "er": "spricht",
+      "sie": "spricht",
+      "es": "spricht",
+      "wir": "sprechen",
+      "ihr": "sprecht",
+      "sie_pl": "sprechen",
+      "Sie": "sprechen"
+    }, 
+    "praeteritum": {
+      "ich": "sprach",
+      "du": "sprachst",
+      "er": "sprach",
+      "sie": "sprach",
+      "es": "sprach",
+      "wir": "sprachen",
+      "ihr": "spracht",
+      "sie_pl": "sprachen",
+      "Sie": "sprachen"
+    },  
+    "perfekt": {
+      "ich": "habe gesprochen",
+      "du": "hast gesprochen",
+      "er": "hat gesprochen",
+      "sie": "hat gesprochen",
+      "es": "hat gesprochen",
+      "wir": "haben gesprochen",
+      "ihr": "habt gesprochen",
+      "sie_pl": "haben gesprochen",
+      "Sie": "haben gesprochen"
+    },
+    "plusquamperfekt": {
+      "ich": "hatte gesprochen",
+      "du": "hattest gesprochen",
+      "er": "hatte gesprochen",
+      "sie": "hatte gesprochen",
+      "es": "hatte gesprochen",
+      "wir": "hatten gesprochen",
+      "ihr": "hattet gesprochen",
+      "sie_pl": "hatten gesprochen",
+      "Sie": "hatten gesprochen"
+    }, 
+    "futur1": {
+      "ich": "werde sprechen",
+      "du": "wirst sprechen",
+      "er": "wird sprechen",
+      "sie": "wird sprechen",
+      "es": "wird sprechen",
+      "wir": "werden sprechen",
+      "ihr": "werdet sprechen",
+      "sie_pl": "werden sprechen",
+      "Sie": "werden sprechen"
+    },  
+    "futur2": {
+      "ich": "werde gesprochen haben",
+      "du": "wirst gesprochen haben",
+      "er": "wird gesprochen haben",
+      "sie": "wird gesprochen haben",
+      "es": "wird gesprochen haben",
+      "wir": "werden gesprochen haben",
+      "ihr": "werdet gesprochen haben",
+      "sie_pl": "werden gesprochen haben",
+      "Sie": "werden gesprochen haben"
+    },
+    "imperativ": {
+      "du": "sprich",
+      "ihr": "sprecht"
+    },
+    "partizip1": "sprechend",
+    "partizip2": "gesprochen"
+  },
+  {
+    "infinitiv": "nehmen",
+    "translation_en": "to take",
+    "translation_es": "tomar",
+    "translation_pt": "tomar",
+    "praesens": {
+      "ich": "nehme",
+      "du": "nimmst",
+      "er": "nimmt",
+      "sie": "nimmt",
+      "es": "nimmt",
+      "wir": "nehmen",
+      "ihr": "nehmt",
+      "sie_pl": "nehmen",
+      "Sie": "nehmen"
+    },
+    "praeteritum": {
+      "ich": "nahm",
+      "du": "nahmst",
+      "er": "nahm",
+      "sie": "nahm",
+      "es": "nahm",
+      "wir": "nahmen",
+      "ihr": "nahmt",
+      "sie_pl": "nahmen",
+      "Sie": "nahmen"
+    },
+    "perfekt": {
+      "ich": "habe genommen",
+      "du": "hast genommen",
+      "er": "hat genommen",
+      "sie": "hat genommen",
+      "es": "hat genommen",
+      "wir": "haben genommen",
+      "ihr": "habt genommen",
+      "sie_pl": "haben genommen",
+      "Sie": "haben genommen"
+    }, 
+    "plusquamperfekt": {
+      "ich": "hatte genommen",
+      "du": "hattest genommen",
+      "er": "hatte genommen",
+      "sie": "hatte genommen",
+      "es": "hatte genommen",
+      "wir": "hatten genommen",
+      "ihr": "hattet genommen",
+      "sie_pl": "hatten genommen",
+      "Sie": "hatten genommen"
+    },  
+    "futur1": {
+      "ich": "werde nehmen",
+      "du": "wirst nehmen",
+      "er": "wird nehmen",
+      "sie": "wird nehmen",
+      "es": "wird nehmen",
+      "wir": "werden nehmen",
+      "ihr": "werdet nehmen",
+      "sie_pl": "werden nehmen",
+      "Sie": "werden nehmen"
+    },   
+    "futur2": {
+      "ich": "werde genommen haben",
+      "du": "wirst genommen haben",
+      "er": "wird genommen haben",
+      "sie": "wird genommen haben",
+      "es": "wird genommen haben",
+      "wir": "werden genommen haben",
+      "ihr": "werdet genommen haben",
+      "sie_pl": "werden genommen haben",
+      "Sie": "werden genommen haben"
+    },
+    "imperativ": {
+      "du": "nimm",
+      "ihr": "nehmt"
+    },
+    "partizip1": "nehmend",
+    "partizip2": "genommen"
+  },
+  {
+    "infinitiv": "laufen",
+    "translation_en": "to run, to walk", 
+    "translation_es": "correr, caminar",
+    "translation_pt": "correr, caminhar",
+    "praesens": {   
+      "ich": "laufe",
+      "du": "läufst",
+      "er": "läuft",
+      "sie": "läuft",
+      "es": "läuft",
+      "wir": "laufen",
+      "ihr": "lauft",
+      "sie_pl": "laufen",
+      "Sie": "laufen"
+    },
+    "praeteritum": {
+      "ich": "lief",
+      "du": "liefst",
+      "er": "lief",
+      "sie": "lief",
+      "es": "lief",
+      "wir": "liefen",
+      "ihr": "lieft",
+      "sie_pl": "liefen",
+      "Sie": "liefen"
+    }, 
+    "perfekt": {
+      "ich": "bin gelaufen",
+      "du": "bist gelaufen",
+      "er": "ist gelaufen",
+      "sie": "ist gelaufen",
+      "es": "ist gelaufen",
+      "wir": "sind gelaufen",
+      "ihr": "seid gelaufen",
+      "sie_pl": "sind gelaufen",
+      "Sie": "sind gelaufen"
+    }, 
+    "plusquamperfekt": {
+      "ich": "war gelaufen",
+      "du": "warst gelaufen",
+      "er": "war gelaufen",
+      "sie": "war gelaufen",
+      "es": "war gelaufen",
+      "wir": "waren gelaufen",
+      "ihr": "wart gelaufen",
+      "sie_pl": "waren gelaufen",
+      "Sie": "waren gelaufen"
+    },  
+    "futur1": {
+      "ich": "werde laufen",
+      "du": "wirst laufen",
+      "er": "wird laufen",
+      "sie": "wird laufen",
+      "es": "wird laufen",
+      "wir": "werden laufen",
+      "ihr": "werdet laufen",
+      "sie_pl": "werden laufen",
+      "Sie": "werden laufen"
+    },   
+    "futur2": {
+      "ich": "werde gelaufen sein",
+      "du": "wirst gelaufen sein",
+      "er": "wird gelaufen sein",
+      "sie": "wird gelaufen sein",
+      "es": "wird gelaufen sein",
+      "wir": "werden gelaufen sein",
+      "ihr": "werdet gelaufen sein",
+      "sie_pl": "werden gelaufen sein",
+      "Sie": "werden gelaufen sein"
+    },  
+    "imperativ": {
+      "du": "lauf",
+      "ihr": "lauft"
+    },
+    "partizip1": "laufend",
+    "partizip2": "gelaufen"
   }
 ]
