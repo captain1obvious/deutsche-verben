@@ -170,5 +170,177 @@
     },
     "participo": "sentado",
     "gerundio": "sentando-se"
+  },
+  {
+    "infinitivo": "chamar-se",
+    "translation_de": "heißen",
+    "translation_en": "to be called",
+    "translation_es": "llamarse",
+    "indicativo_presente": {
+      "eu": "chamo-me",
+      "tu": "chamas-te",
+      "ele": "chama-se",
+      "nós": "chamamo-nos",
+      "vós": "chamais-vos",
+      "eles": "chamam-se"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "chamei-me",
+      "tu": "chamaste-te",
+      "ele": "chamou-se",
+      "nós": "chamamo-nos",
+      "vós": "chamastes-vos",
+      "eles": "chamaram-se"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "chamava-me",
+      "tu": "chamavas-te",
+      "ele": "chamava-se",
+      "nós": "chamávamo-nos",
+      "vós": "chamáveis-vos",
+      "eles": "chamavam-se"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "chamaria-me",
+      "tu": "chamarias-te",
+      "ele": "chamaria-se",
+      "nós": "chamaríamos-nos",
+      "vós": "chamaríeis-vos",
+      "eles": "chamariam-se"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "chamarei-me",
+      "tu": "chamarás-te",
+      "ele": "chamará-se",
+      "nós": "chamaremos-nos",
+      "vós": "chamaréis-vos",
+      "eles": "chamarão-se"
+    },
+    "subjuntivo_presente": {
+      "eu": "chame-me",
+      "tu": "chames-te",
+      "ele": "chame-se",
+      "nós": "chamemo-nos",
+      "vós": "chameis-vos",
+      "eles": "chamem-se"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "chamasse-me",
+      "tu": "chamasses-te",
+      "ele": "chamasse-se",
+      "nós": "chamássemos-nos",
+      "vós": "chamásseis-vos",
+      "eles": "chamassem-se"
+    },
+    "subjuntivo_futuro": {
+      "eu": "chamar-me",
+      "tu": "chamares-te",
+      "ele": "chamar-se",
+      "nós": "chamarmos-nos",
+      "vós": "chamardes-vos",
+      "eles": "chamarem-se"
+    },
+    "imperativo_afirmativo": {
+      "tu": "chama-te",
+      "ele": "chame-se",
+      "nós": "chamemo-nos",
+      "vós": "chamai-vos",
+      "eles": "chamem-se"
+    },
+    "imperativo_negativo": {
+      "tu": "não te chames",
+      "ele": "não se chame",
+      "nós": "não nos chamemos",
+      "vós": "não vos chameis",
+      "eles": "não se chamem"
+    },
+    "participo": "chamado",
+    "gerundio": "chamando-se"
+  },
+  {
+    "infinitivo": "vestir-se",
+    "translation_de": "sich anziehen",
+    "translation_en": "to get dressed",
+    "translation_es": "vestirse",
+    "indicativo_presente": {
+      "eu": "visto-me",
+      "tu": "vestes-te",
+      "ele": "veste-se",
+      "nós": "vestimo-nos",
+      "vós": "vestis-vos",
+      "eles": "vestem-se"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "vesti-me",
+      "tu": "vestiste-te",
+      "ele": "vestiu-se",
+      "nós": "vestimo-nos",
+      "vós": "vestistes-vos",
+      "eles": "vestiram-se"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "vestia-me",
+      "tu": "vestias-te",
+      "ele": "vestia-se",
+      "nós": "vestíamo-nos",
+      "vós": "vestíeis-vos",
+      "eles": "vestiam-se"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "vestiria-me",
+      "tu": "vestirias-te",
+      "ele": "vestiria-se",
+      "nós": "vestiríamos-nos",
+      "vós": "vestiríeis-vos",
+      "eles": "vestiriam-se"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "vestirei-me",
+      "tu": "vestirás-te",
+      "ele": "vestirá-se",
+      "nós": "vestiremos-nos",
+      "vós": "vestireis-vos",
+      "eles": "vestirão-se"
+    },
+    "subjuntivo_presente": {
+      "eu": "vista-me",
+      "tu": "vistas-te",
+      "ele": "vista-se",
+      "nós": "vistamo-nos",
+      "vós": "vistais-vos",
+      "eles": "vistam-se"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "vestisse-me",
+      "tu": "vestisses-te",
+      "ele": "vestisse-se",
+      "nós": "vestíssemos-nos",
+      "vós": "vestísseis-vos",
+      "eles": "vestissem-se"
+    },
+    "subjuntivo_futuro": {
+      "eu": "vestir-me",
+      "tu": "vestires-te",
+      "ele": "vestir-se",
+      "nós": "vestirmos-nos",
+      "vós": "vestirdes-vos",
+      "eles": "vestirem-se"
+    },
+    "imperativo_afirmativo": {
+      "tu": "veste-te",
+      "ele": "vista-se",
+      "nós": "vistamo-nos",
+      "vós": "vesti-vos",
+      "eles": "vistam-se"
+    },
+    "imperativo_negativo": {
+      "tu": "não te vistas",
+      "ele": "não se vista",
+      "nós": "não nos vistamos",
+      "vós": "não vos vistais",
+      "eles": "não se vistam"
+    },
+    "participo": "vestido",
+    "gerundio": "vestindo-se"
   }
 ]

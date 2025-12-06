@@ -256,5 +256,435 @@
     },
     "participo": "sentido",
     "gerundio": "sentindo"
+  },
+  {
+    "infinitivo": "servir",
+    "translation_de": "dienen, funktionieren, nutzen",
+    "translation_en": "to serve, to function, to work",
+    "translation_es": "servir",
+    "indicativo_presente": {
+      "eu": "sirvo",
+      "tu": "serves",
+      "ele": "serve",
+      "nós": "servimos",
+      "vós": "servis",
+      "eles": "servem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "servi",
+      "tu": "serviste",
+      "ele": "serviu",
+      "nós": "servimos",
+      "vós": "servistes",
+      "eles": "serviram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "servia",
+      "tu": "servias",
+      "ele": "servia",
+      "nós": "servíamos",
+      "vós": "servíeis",
+      "eles": "serviam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "serviria",
+      "tu": "servirias",
+      "ele": "serviria",
+      "nós": "serviríamos",
+      "vós": "serviríeis",
+      "eles": "serviriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "servirei",
+      "tu": "servirás",
+      "ele": "servirá",
+      "nós": "serviremos",
+      "vós": "servireis",
+      "eles": "servirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "sirva",
+      "tu": "sirvas",
+      "ele": "sirva",
+      "nós": "sirvamos",
+      "vós": "sirvais",
+      "eles": "sirvam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "servisse",
+      "tu": "servisses",
+      "ele": "servisse",
+      "nós": "servíssemos",
+      "vós": "servísseis",
+      "eles": "servissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "servir",
+      "tu": "siríres",
+      "ele": "servir",
+      "nós": "servirmos",
+      "vós": "servirdes",
+      "eles": "servirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "serve",
+      "ele": "sirva",
+      "nós": "sirvamos",
+      "vós": "servi",
+      "eles": "sirvam"
+    },
+    "imperativo_negativo": {
+      "tu": "não sirvas",
+      "ele": "não sirva",
+      "nós": "não sirvamos",
+      "vós": "não sirvais",
+      "eles": "não sirvam"
+    },
+    "participo": "servido",
+    "gerundio": "servindo"
+  },
+  {
+    "infinitivo": "dormir",
+    "translation_de": "schlafen",
+    "translation_en": "to sleep",
+    "translation_es": "dormir",
+    "indicativo_presente": {
+      "eu": "durmo",
+      "tu": "dormes",
+      "ele": "dorme",
+      "nós": "dormimos",
+      "vós": "dormis",
+      "eles": "dormem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "dormi",
+      "tu": "dormiste",
+      "ele": "dormiu",
+      "nós": "dormimos",
+      "vós": "dormistes",
+      "eles": "dormiram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "dormia",
+      "tu": "dormias",
+      "ele": "dormia",
+      "nós": "dormíamos",
+      "vós": "dormíeis",
+      "eles": "dormiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "dormiria",
+      "tu": "dormirias",
+      "ele": "dormiria",
+      "nós": "dormiríamos",
+      "vós": "dormiríeis",
+      "eles": "dormiriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "dormirei",
+      "tu": "dormirás",
+      "ele": "dormirá",
+      "nós": "dormiremos",
+      "vós": "dormireis",
+      "eles": "dormirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "durma",
+      "tu": "durmas",
+      "ele": "durma",
+      "nós": "durmamos",
+      "vós": "durmais",
+      "eles": "durmam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "dormisse",
+      "tu": "dormisses",
+      "ele": "dormisse",
+      "nós": "dormíssemos",
+      "vós": "dormísseis",
+      "eles": "dormissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "dormir",
+      "tu": "dormires",
+      "ele": "dormir",
+      "nós": "dormirmos",
+      "vós": "dormirdes",
+      "eles": "dormirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "dorme",
+      "ele": "durma",
+      "nós": "durmamos",
+      "vós": "dormi",
+      "eles": "durmam"
+    },
+    "imperativo_negativo": {
+      "tu": "não durmas",
+      "ele": "não durma",
+      "nós": "não durmamos",
+      "vós": "não durmais",
+      "eles": "não durmam"
+    },
+    "participo": "dormido",
+    "gerundio": "dormindo"
+  },
+  {
+    "infinitivo": "mentir",
+    "translation_de": "lügen",
+    "translation_en": "to lie",
+    "translation_es": "mentir",
+    "indicativo_presente": {
+      "eu": "minto",
+      "tu": "mentes",
+      "ele": "mente",
+      "nós": "mentimos",
+      "vós": "mentis",
+      "eles": "mentem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "menti",
+      "tu": "mentiste",
+      "ele": "mentiu",
+      "nós": "mentimos",
+      "vós": "mentistes",
+      "eles": "mentiram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "mentia",
+      "tu": "mentias",
+      "ele": "mentia",
+      "nós": "mentíamos",
+      "vós": "mentíeis",
+      "eles": "mentiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "mentiria",
+      "tu": "mentirias",
+      "ele": "mentiria",
+      "nós": "mentiríamos",
+      "vós": "mentiríeis",
+      "eles": "mentiriam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "mentirei",
+      "tu": "mentirás",
+      "ele": "mentirá",
+      "nós": "mentiremos",
+      "vós": "mentireis",
+      "eles": "mentirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "minta",
+      "tu": "mintas",
+      "ele": "minta",
+      "nós": "mintamos",
+      "vós": "mintais",
+      "eles": "mintam"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "mentisse",
+      "tu": "mentisses",
+      "ele": "mentisse",
+      "nós": "mentíssemos",
+      "vós": "mentísseis",
+      "eles": "mentissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "mentir",
+      "tu": "mentires",
+      "ele": "mentir",
+      "nós": "mentirmos",
+      "vós": "mentirdes",
+      "eles": "mentirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "mente",
+      "ele": "minta",
+      "nós": "mintamos",
+      "vós": "menti",
+      "eles": "mintam"
+    },
+    "imperativo_negativo": {
+      "tu": "não mintas",
+      "ele": "não minta",
+      "nós": "não mintamos",
+      "vós": "não mintais",
+      "eles": "não mintam"
+    },
+    "participo": "mentido",
+    "gerundio": "mentindo"
+  },
+  {
+    "infinitivo": "sugerir",
+    "translation_de": "vorschlagen",
+    "translation_en": "to suggest",
+    "translation_es": "sugerir",
+    "indicativo_presente": {
+      "eu": "sugiro",
+      "tu": "sugeres",
+      "ele": "sugere",
+      "nós": "sugerimos",
+      "vós": "sugeris",
+      "eles": "sugerem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "sugeri",
+      "tu": "sugeriste",
+      "ele": "sugeriu",
+      "nós": "sugerimos",
+      "vós": "sugeristes",
+      "eles": "sugeriram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "sugeria",
+      "tu": "sugerias",
+      "ele": "sugeria",
+      "nós": "sugeríamos",
+      "vós": "sugeríeis",
+      "eles": "sugeriam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "sugeriria",
+      "tu": "sugeririas",
+      "ele": "sugeriria",
+      "nós": "sugeriríamos",
+      "vós": "sugeriríeis",
+      "eles": "sugeririam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "sugerirei",
+      "tu": "sugerirás",
+      "ele": "sugerirá",
+      "nós": "sugeriremos",
+      "vós": "sugerireis",
+      "eles": "sugerirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "sugira",
+      "tu": "sugiras",
+      "ele": "sugira",
+      "nós": "sugiramos",
+      "vós": "sugirais",
+      "eles": "sugiram"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "sugerisse",
+      "tu": "sugerisses",
+      "ele": "sugerisse",
+      "nós": "sugeríssemos",
+      "vós": "sugerísseis",
+      "eles": "sugerissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "sugerir",
+      "tu": "sugires",
+      "ele": "sugerir",
+      "nós": "sugerirmos",
+      "vós": "sugerirdes",
+      "eles": "sugerirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "sugere",
+      "ele": "sugira",
+      "nós": "sugiramos",
+      "vós": "sugerí",
+      "eles": "sugiram"
+    },
+    "imperativo_negativo": {
+      "tu": "não sugiras",
+      "ele": "não sugira",
+      "nós": "não sugiramos",
+      "vós": "não sugirais",
+      "eles": "não sugiram"
+    },
+    "participo": "sugerido",
+    "gerundio": "sugerindo"
+  },
+  {
+    "infinitivo": "preferir",
+    "translation_de": "bevorzugen",
+    "translation_en": "to prefer",
+    "translation_es": "preferir",
+    "indicativo_presente": {
+      "eu": "prefiro",
+      "tu": "preferes",
+      "ele": "prefere",
+      "nós": "preferimos",
+      "vós": "preferis",
+      "eles": "preferem"
+    },
+    "indicativo_preterito_perfeito": {
+      "eu": "preferi",
+      "tu": "preferiste",
+      "ele": "preferiu",
+      "nós": "preferimos",
+      "vós": "preferistes",
+      "eles": "preferiram"
+    },
+    "indicativo_preterito_imperfeito": {
+      "eu": "preferia",
+      "tu": "preferias",
+      "ele": "preferia",
+      "nós": "preferíamos",
+      "vós": "preferíeis",
+      "eles": "preferiam"
+    },
+    "indicativo_futuro_do_preterito": {
+      "eu": "preferiria",
+      "tu": "preferirias",
+      "ele": "preferiria",
+      "nós": "preferiríamos",
+      "vós": "preferiríeis",
+      "eles": "prefeririam"
+    },
+    "indicativo_futuro_do_presente": {
+      "eu": "preferirei",
+      "tu": "preferirás",
+      "ele": "preferirá",
+      "nós": "preferiremos",
+      "vós": "preferireis",
+      "eles": "preferirão"
+    },
+    "subjuntivo_presente": {
+      "eu": "prefira",
+      "tu": "prefiras",
+      "ele": "prefira",
+      "nós": "prefiramos",
+      "vós": "prefirais",
+      "eles": "prefiram"
+    },
+    "subjuntivo_preterito_imperfeito": {
+      "eu": "preferisse",
+      "tu": "preferisses",
+      "ele": "preferisse",
+      "nós": "preferíssemos",
+      "vós": "preferísseis",
+      "eles": "preferissem"
+    },
+    "subjuntivo_futuro": {
+      "eu": "preferir",
+      "tu": "prefires",
+      "ele": "preferir",
+      "nós": "preferirmos",
+      "vós": "preferirdes",
+      "eles": "preferirem"
+    },
+    "imperativo_afirmativo": {
+      "tu": "prefere",
+      "ele": "prefira",
+      "nós": "prefiramos",
+      "vós": "preferi",
+      "eles": "prefiram"
+    },
+    "imperativo_negativo": {
+      "tu": "não prefiras",
+      "ele": "não prefira",
+      "nós": "não prefiramos",
+      "vós": "não prefirais",
+      "eles": "não prefiram"
+    },
+    "participo": "preferido",
+    "gerundio": "preferindo"
   }
 ]
