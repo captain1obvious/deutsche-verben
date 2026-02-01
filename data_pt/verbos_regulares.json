@@ -918,7 +918,7 @@
       "ele": "bebesse",
       "nós": "bebêssemos",
       "vós": "bebêsseis",
-      "eles": "bepissem"
+      "eles": "bebessem"
     },
     "subjuntivo_futuro": {
       "eu": "beber",
@@ -995,7 +995,7 @@
       "tu": "aprendas",
       "ele": "aprenda",
       "nós": "aprendamos",
-      "vós": "aprendeis",
+      "vós": "aprendais",
       "eles": "aprendam"
     },
     "subjuntivo_preterito_imperfeito": {
@@ -1004,7 +1004,7 @@
       "ele": "aprendesse",
       "nós": "aprendêssemos",
       "vós": "aprendêsseis",
-      "eles": "apredissem"
+      "eles": "apredessem"
     },
     "subjuntivo_futuro": {
       "eu": "aprender",
@@ -1081,7 +1081,7 @@
       "tu": "vendas",
       "ele": "venda",
       "nós": "vendamos",
-      "vós": "vendeis",
+      "vós": "vendais",
       "eles": "vendam"
     },
     "subjuntivo_preterito_imperfeito": {
@@ -1090,7 +1090,7 @@
       "ele": "vendesse",
       "nós": "vendêssemos",
       "vós": "vendêsseis",
-      "eles": "vendissem"
+      "eles": "vendessem"
     },
     "subjuntivo_futuro": {
       "eu": "vender",
@@ -1176,7 +1176,7 @@
       "ele": "recebesse",
       "nós": "recebêssemos",
       "vós": "recebêsseis",
-      "eles": "recebissem"
+      "eles": "recebessem"
     },
     "subjuntivo_futuro": {
       "eu": "receber",
@@ -1262,7 +1262,7 @@
       "ele": "corresse",
       "nós": "corrêssemos",
       "vós": "corrêsseis",
-      "eles": "corrissem"
+      "eles": "corressem"
     },
     "subjuntivo_futuro": {
       "eu": "correr",
@@ -1348,7 +1348,7 @@
       "ele": "temesse",
       "nós": "temêssemos",
       "vós": "temêsseis",
-      "eles": "temissem"
+      "eles": "temessem"
     },
     "subjuntivo_futuro": {
       "eu": "temer",
@@ -1520,7 +1520,7 @@
       "ele": "assistisse",
       "nós": "assistíssemos",
       "vós": "assistísseis",
-      "eles": "assissem"
+      "eles": "assistissem"
     },
     "subjuntivo_futuro": {
       "eu": "assistir",
